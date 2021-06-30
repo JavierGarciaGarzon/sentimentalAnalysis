@@ -1,0 +1,2360 @@
+nodedef>name VARCHAR,label VARCHAR,Links INT,Links_in INT,links_out INT,followers INT,following INT,statuses VARCHAR,app VARCHAR,location VARCHAR, HT VARCHAR, lang VARCHAR,join_date VARCHAR
+0, @carbonitedan, 444, 444, 0, 0, 0, 0,0,0,0,0,0
+1, @gmaemejota, 423, 422, 1, 4, 3, 4,Twitter for Android,None,None,es,2019-05-22
+2, @proserpinasb, 169, 168, 1, 4, 3, 4,Twitter for Android,None,None,es,2012-04-18
+3, @jospastr, 140, 140, 0, 4, 3, 4,0,0,0,0,0
+4, @martajaenes, 138, 137, 1, 3, 3, 4,Twitter for iPhone,None,None,es,2011-09-19
+5, @gtmgad, 138, 138, 0, 3, 3, 4,0,0,0,0,0
+6, @elmundoes, 123, 123, 0, 6, 3, 5,Besocy_Oficial,España,None,es,2008-04-18
+7, @protestona1, 111, 111, 0, 5, 3, 4,Twitter for iPhone,Sevilla,None,es,2013-03-19
+8, @sayo_p75, 100, 100, 0, 5, 3, 4,0,0,0,0,0
+9, @isaelbal, 89, 89, 0, 5, 3, 4,0,0,0,0,0
+10, @superrostar, 87, 87, 0, 5, 3, 4,0,0,0,0,0
+11, @gonnassau, 64, 64, 0, 5, 3, 4,0,0,0,0,0
+12, @tristanduanel, 58, 58, 0, 5, 3, 4,0,0,0,0,0
+13, @monica_garcia_g, 58, 58, 0, 5, 3, 4,0,0,0,0,0
+14, @cristina_h_, 57, 57, 0, 5, 3, 4,0,0,0,0,0
+15, @anto_spectrum, 49, 49, 0, 5, 3, 4,0,0,0,0,0
+16, @cosasclarastve, 46, 46, 0, 4, 1, 3,Twitter Media Studio - LiveCut,España,Lascosasclaras143,es,2020-11-04
+17, @benditapuntoeu, 43, 43, 0, 4, 2, 3,Twitter for Android,None,None,es,2019-03-13
+18, @silvink, 37, 37, 0, 4, 2, 3,0,0,0,0,0
+19, @mardgamero, 37, 37, 0, 4, 2, 3,0,0,0,0,0
+20, @c_escipion, 37, 37, 0, 4, 2, 3,0,0,0,0,0
+21, @demostenes_eu, 33, 33, 0, 4, 2, 3,0,0,0,0,0
+22, @alonso_dm, 31, 30, 1, 4, 2, 4,Twitter for iPhone,Madrid  Spain,None,es,2010-10-18
+23, @tonicanto1, 29, 29, 0, 4, 2, 4,0,0,0,0,0
+24, @iratxotravesa, 28, 28, 0, 4, 2, 4,0,0,0,0,0
+25, @dsegoviaatienza, 28, 28, 0, 4, 2, 4,0,0,0,0,0
+26, @forretsgump, 24, 24, 0, 4, 2, 4,0,0,0,0,0
+27, @antoniofraguas, 24, 24, 0, 4, 2, 4,0,0,0,0,0
+28, @52municipios, 24, 24, 0, 4, 4, 5,Twitter Web App,MD  no  gracias.,None,es,2012-03-14
+29, @eldiarioes, 23, 23, 0, 6, 2, 5,TweetDeck,None,None,es,2012-03-24
+30, @guidoprincesa, 21, 21, 0, 6, 2, 5,0,0,0,0,0
+31, @beatrizgimeno1, 21, 21, 0, 6, 2, 5,0,0,0,0,0
+32, @zapatista72, 18, 18, 0, 4, 3, 5,Twitter for Android,País Valencià,None,es,2019-07-13
+33, @toroenreposo, 18, 18, 0, 4, 3, 5,0,0,0,0,0
+34, @esterrubio2, 18, 18, 0, 4, 3, 5,Twitter for Android,None,None,es,2013-10-22
+35, @arturovilla_, 18, 18, 0, 4, 3, 5,0,0,0,0,0
+36, @nanchinho, 17, 17, 0, 4, 2, 2,Twitter for Android,Arteixo  Galicia  España,None,es,2014-10-25
+37, @madrid__69, 16, 16, 0, 3, 3, 3,Twitter for Android,None,None,es,2014-01-02
+38, @davidsantosvoz, 16, 16, 0, 4, 2, 3,Twitter Web App,None,None,es,2020-04-03
+39, @inarobles13, 15, 15, 0, 4, 2, 3,0,0,0,0,0
+40, @illisiacosplay, 15, 15, 0, 4, 2, 3,0,0,0,0,0
+41, @alvariteus, 14, 14, 0, 4, 2, 3,0,0,0,0,0
+42, @_juan__a, 14, 14, 0, 4, 4, 4,Twitter for Android,None,None,es,2015-12-21
+43, @victoriabonet, 13, 0, 13, 3, 3, 5,Twitter for Android,Barcelona,None,es,2010-02-18
+44, @nosoylagente, 13, 13, 0, 4, 3, 5,Twitter for iPhone,Somewhere,None,es,2011-06-13
+45, @manelmarquez, 13, 13, 0, 4, 3, 4,Twitter for Android,Terrassa.,Madrid,es,2011-02-05
+46, @forfarleing, 13, 13, 0, 4, 3, 4,0,0,0,0,0
+47, @cmgorriaran, 13, 13, 0, 4, 3, 4,0,0,0,0,0
+48, @carlavall, 13, 13, 0, 4, 3, 4,0,0,0,0,0
+49, @strangeletrado, 12, 12, 0, 4, 2, 4,Twitter for Android,Detrás de ti bajando del techo,None,es,2015-04-26
+50, @revistamongolia, 12, 12, 0, 5, 3, 5,Twitter for Android,Mongolia  España,None,es,2012-01-27
+51, @lola14262397, 12, 12, 0, 4, 3, 4,Twitter for Android,None,None,es,2018-12-21
+52, @escritorjcamara, 12, 11, 1, 4, 4, 4,Twitter for Android,None,None,es,2019-12-18
+53, @acs__11, 12, 12, 0, 4, 4, 4,0,0,0,0,0
+54, @voz_populi, 11, 11, 0, 4, 4, 4,0,0,0,0,0
+55, @sabelafd, 11, 11, 0, 4, 4, 4,0,0,0,0,0
+56, @rosamariaartal, 11, 11, 0, 4, 4, 4,0,0,0,0,0
+57, @orlvndoa, 11, 11, 0, 4, 4, 4,0,0,0,0,0
+58, @georgekaplan69, 11, 11, 0, 4, 4, 4,0,0,0,0,0
+59, @tsevanrabtan, 10, 10, 0, 4, 4, 4,0,0,0,0,0
+60, @jorgepravia, 10, 10, 0, 4, 4, 4,0,0,0,0,0
+61, @jl_montesinos, 10, 10, 0, 3, 3, 5,Twitter Web App,Valencia,None,es,2010-05-14
+62, @hermanntertsch, 10, 10, 0, 3, 3, 5,0,0,0,0,0
+63, @elnacionalcat, 10, 10, 0, 3, 3, 5,0,0,0,0,0
+64, @abc_es, 10, 10, 0, 3, 3, 5,0,0,0,0,0
+65, @mariolinalina, 9, 6, 3, 3, 3, 5,Twitter Web App,None,None,es,2010-09-21
+66, @lachicatorpedo, 9, 9, 0, 3, 3, 5,0,0,0,0,0
+67, @daanipinet, 9, 9, 0, 3, 3, 5,0,0,0,0,0
+68, @rodeve23, 8, 0, 8, 3, 3, 4,Twitter for Android,Madrid  Comunidad de Madrid,None,es,2016-01-15
+69, @rcko3, 8, 0, 8, 3, 3, 5,Twitter Web App,None,lascosasclaras143,es,2013-05-10
+70, @miss_bennet7, 8, 8, 0, 4, 3, 4,Twitter for Android,None,None,es,2020-03-12
+71, @gatopar59639092, 8, 0, 8, 3, 3, 4,Twitter for Android,None,None,es,2020-03-23
+72, @enekohumor, 8, 8, 0, 3, 3, 4,0,0,0,0,0
+73, @oscarpla_57, 7, 7, 0, 3, 3, 3,Twitter for iPhone,Vilanova i la Geltrú-Catalunya,SpainIsAFascistState,ca,2017-11-13
+74, @jordivll, 7, 7, 0, 4, 4, 5,Twitter for Android,Torrent  Pais Valencià,None,es,2010-12-19
+75, @iescolar, 7, 7, 0, 6, 3, 4,Twitter Web App,Madrid // España,None,es,2008-04-18
+76, @fromgondwana, 7, 0, 7, 3, 3, 4,Twitter Web App,Planeta Tierra  Sistema Solar,None,es,2015-04-11
+77, @feminicidio, 7, 7, 0, 3, 3, 4,0,0,0,0,0
+78, @el_pais, 7, 7, 0, 6, 2, 5,Twitter Media Studio,Madrid,None,es,2007-08-06
+79, @cartoncalderon, 7, 7, 0, 6, 2, 5,0,0,0,0,0
+80, @tonosvj, 6, 6, 0, 4, 4, 4,Twitter Web App,España,None,es,2020-03-29
+81, @silvia39528534, 6, 0, 6, 2, 2, 4,Twitter for iPhone,None,None,es,2020-05-09
+82, @rita_maestre, 6, 6, 0, 2, 2, 4,0,0,0,0,0
+83, @rexgris, 6, 0, 6, 3, 3, 4,Twitter Web App,Madrid ,None,es,2019-12-29
+84, @repixpix, 6, 0, 6, 3, 3, 5,Twitter Web App,None,None,es,2012-03-27
+85, @paulafraga__, 6, 6, 0, 3, 3, 5,0,0,0,0,0
+86, @maxpradera, 6, 6, 0, 3, 3, 5,0,0,0,0,0
+87, @maesepads, 6, 6, 0, 3, 3, 5,0,0,0,0,0
+88, @lolasoler12, 6, 0, 6, 2, 3, 4,Twitter for Android,Valencia,None,es,2012-08-28
+89, @la_tarambana, 6, 4, 2, 3, 3, 3,Twitter for Android,None,None,es,2020-04-29
+90, @fgbfrancisco, 6, 1, 5, 4, 4, 5,Twitter for iPad,ESPAÑA Cataluña Barcelona,larazon_es,es,2012-11-27
+91, @fanetin, 6, 6, 0, 4, 3, 5,Twitter Web App,SVQ/BER/MAD (Old Europe),None,es,2009-05-05
+92, @durobelinda, 6, 0, 6, 3, 3, 6,Twitter for Android,España.,None,es,2014-07-10
+93, @cristin20105937, 6, 5, 1, 3, 3, 4,Twitter for Android,None,None,es,2015-04-17
+94, @becaes_, 6, 5, 1, 4, 4, 6,Twitter Web App,Cádiz  España,None,es,2012-01-09
+95, @abrecesar23, 6, 6, 0, 4, 4, 6,0,0,0,0,0
+96, @sanaracaroja62, 5, 5, 0, 4, 4, 6,0,0,0,0,0
+97, @salazar_octavio, 5, 5, 0, 4, 4, 6,0,0,0,0,0
+98, @ratapaya, 5, 0, 5, 1, 2, 4,Twitter for Android,None,None,es,2012-12-09
+99, @nanojano1, 5, 5, 0, 1, 2, 4,0,0,0,0,0
+100, @nachoimart, 5, 5, 0, 1, 2, 4,0,0,0,0,0
+101, @montsecastella, 5, 5, 0, 1, 2, 4,0,0,0,0,0
+102, @linocsel, 5, 5, 0, 1, 2, 4,0,0,0,0,0
+103, @libroyrepublica, 5, 0, 5, 3, 3, 4,Twitter Web App,Valencia  España,None,es,2021-04-27
+104, @lena_prado, 5, 5, 0, 3, 3, 4,Twitter for Android,Asturias en Barcelona,None,es,2009-05-06
+105, @josegar61525503, 5, 0, 5, 1, 2, 4,Twitter Web App,None,None,es,2016-05-01
+106, @elespanolcom, 5, 5, 0, 1, 2, 4,0,0,0,0,0
+107, @bobores, 5, 4, 1, 3, 3, 4,Twitter for Android,Utopía,None,es,2017-03-11
+108, @belit88, 5, 0, 5, 3, 3, 4,Twitter Web App,None,None,es,2011-11-24
+109, @barbijaputa, 5, 5, 0, 3, 3, 4,0,0,0,0,0
+110, @verodlpuerta, 4, 0, 4, 3, 3, 5,Twitter for Android,Talavera de la Reina  España,None,es,2011-05-09
+111, @txaite, 4, 3, 1, 3, 2, 4,Twitter Web App,en todas partes,None,es,2011-05-17
+112, @sergiogomezhead, 4, 0, 4, 2, 2, 4,Twitter for Android,España. Galicia,None,es,2012-06-30
+113, @sempre64, 4, 0, 4, 3, 3, 4,Twitter for Android,Brigantium - Galiza,None,pt,2015-01-04
+114, @ricardo13625223, 4, 4, 0, 4, 4, 4,Twitter for Android, ,None,es,2017-02-01
+115, @polanquitomal, 4, 0, 4, 2, 3, 4,Twitter for Android,None,None,es,2011-05-03
+116, @okdiario, 4, 4, 0, 2, 3, 4,0,0,0,0,0
+117, @ojosambar, 4, 4, 0, 2, 3, 4,0,0,0,0,0
+118, @mmayi, 4, 4, 0, 2, 3, 4,0,0,0,0,0
+119, @mmanmsmaanz, 4, 0, 4, 2, 2, 4,Twitter Web App,None,None,es,2012-06-10
+120, @migymar1, 4, 0, 4, 3, 2, 5,Twitter for iPhone,Galicia  España,None,es,2013-03-11
+121, @mgarlic61, 4, 0, 4, 2, 3, 3,Twitter for iPhone,Gipuzkoa  País Vasco,None,es,2011-05-01
+122, @mariojpc, 4, 0, 4, 3, 3, 5,Twitter for Android,España  Torrejón,None,es,2009-03-27
+123, @maras70, 4, 1, 3, 3, 3, 5,Twitter for iPhone,España,None,und,2011-03-23
+124, @madrileno_joven, 4, 2, 2, 1, 1, 3,Twitter for iPhone,None,None,es,2021-03-14
+125, @lydyajara, 4, 0, 4, 3, 3, 4,Twitter for Android,......,None,es,2011-01-28
+126, @libertaddigital, 4, 4, 0, 3, 3, 4,0,0,0,0,0
+127, @lenilua63, 4, 0, 4, 3, 3, 5,Twitter for Android,None,None,es,2014-05-03
+128, @kwaldersee, 4, 3, 1, 3, 3, 4,Twitter for iPhone,None,None,en,2020-03-02
+129, @jorgestevez05, 4, 0, 4, 3, 3, 5,Twitter for Android,None,None,es,2013-03-27
+130, @jorgekobo, 4, 0, 4, 2, 3, 4,Twitter for iPhone,Reinosa  España,None,es,2008-11-27
+131, @jonlaroya, 4, 0, 4, 2, 3, 4,Twitter for Android,Almería  España,None,es,2013-01-16
+132, @joaquin19883, 4, 0, 4, 1, 2, 3,Twitter for Android,None,None,es,2021-03-30
+133, @jgaubeka, 4, 0, 4, 1, 1, 3,Twitter for iPhone,None,None,es,2011-10-09
+134, @jesusbengoechea, 4, 4, 0, 4, 3, 5,Twitter for iPhone,Cardiff-Madrid,None,es,2011-08-30
+135, @insistir, 4, 0, 4, 3, 3, 5,Twitter for Android,None,None,es,2009-06-03
+136, @iliberisgra, 4, 0, 4, 3, 3, 5,Twitter for Android,No,None,es,2017-07-14
+137, @greymarisa, 4, 0, 4, 3, 2, 3,Twitter for Android,En algún lugar de los sueños.,None,es,2012-11-11
+138, @franciscator1, 4, 0, 4, 2, 2, 4,Twitter for Android,None,None,es,2019-11-13
+139, @emeritojmc, 4, 3, 1, 2, 1, 4,Twitter for Android,None,None,es,2013-04-09
+140, @elliberal_com, 4, 4, 0, 2, 1, 4,0,0,0,0,0
+141, @eal83253211, 4, 0, 4, 1, 2, 4,Twitter for iPhone,Barcelona,None,es,2016-01-03
+142, @danirebollo, 4, 0, 4, 2, 2, 4,Twitter for Android,40.418936 -3.613956,None,es,2009-06-18
+143, @dalmauthealien, 4, 0, 4, 2, 1, 4,Twitter for Android,None,None,es,2017-07-16
+144, @cris_ayala_, 4, 4, 0, 2, 1, 4,0,0,0,0,0
+145, @chechuruiz63, 4, 0, 4, 1, 2, 4,Twitter for Android,None,None,es,2016-12-30
+146, @artanisd, 4, 0, 4, 3, 3, 5,Twitter for Android,L. A. Coruña,None,es,2011-03-22
+147, @amparoneptuno, 4, 0, 4, 2, 2, 4,Twitter for iPad,Comunidad Valenciana  España,None,es,2019-09-01
+148, @amanda333333339, 4, 0, 4, 2, 2, 4,Twitter for Android,None,None,es,2015-03-13
+149, @aixonoesveritat, 4, 4, 0, 2, 2, 4,0,0,0,0,0
+150, @ainaguasch, 4, 0, 4, 2, 2, 4,Twitter for Android,None,None,es,2020-08-31
+151, @ziggy26229282, 3, 0, 3, 2, 2, 3,Twitter for Android,None,None,es,2020-05-04
+152, @yolandatricolor, 3, 2, 1, 3, 3, 4,Twitter for Android,Getafe  España,None,es,2010-10-25
+153, @xiaomijesus, 3, 0, 3, 2, 3, 3,Twitter for Android,Comunidad de Madrid  España,None,es,2021-03-18
+154, @txiki39644970, 3, 0, 3, 2, 2, 4,Twitter for Android,Barcelona,None,es,2019-12-30
+155, @topotolosa, 3, 0, 3, 2, 2, 5,Twitter for Android,None,None,es,2012-02-24
+156, @tatinmc, 3, 0, 3, 2, 2, 4,Twitter for iPhone,None,None,es,2010-10-07
+157, @susanamartnahu1, 3, 0, 3, 1, 1, 3,Twitter Web App,None,None,es,2019-02-05
+158, @srgalleta1, 3, 0, 3, 1, 2, 4,Twitter for Android,None,None,es,2014-03-27
+159, @sputnikmundo, 3, 3, 0, 1, 2, 4,0,0,0,0,0
+160, @springsteen_81, 3, 3, 0, 3, 2, 5,Twitter for Android,Calle E. Macondo,None,es,2010-05-12
+161, @silviasaiz_1714, 3, 3, 0, 3, 2, 5,0,0,0,0,0
+162, @silviapereztre2, 3, 0, 3, 2, 3, 3,Twitter for iPhone,None,None,es,2018-09-19
+163, @rufo_nd, 3, 0, 3, 2, 2, 5,Twitter for Android,None,None,es,2010-03-25
+164, @rive_z, 3, 0, 3, 2, 3, 5,Twitter for Android,None,None,es,2014-01-31
+165, @rammanza, 3, 0, 3, 2, 2, 5,Twitter for Android,Málaga  Andalucía  España,None,es,2011-07-04
+166, @porcelconchi, 3, 0, 3, 3, 3, 4,Twitter for Android,None,None,es,2015-05-06
+167, @pipimadrid, 3, 0, 3, 2, 1, 4,Twitter for Android,None,None,es,2019-01-17
+168, @pioiin, 3, 2, 1, 3, 2, 4,Twitter for Android,Madrid  Comunidad de Madrid,None,es,2014-08-23
+169, @pilareyre, 3, 3, 0, 3, 2, 4,0,0,0,0,0
+170, @pepasanlu, 3, 0, 3, 1, 1, 3,Twitter for Android,None,None,es,2016-12-27
+171, @pegasobe, 3, 0, 3, 2, 2, 4,Twitter for iPhone,Madrid,None,es,2014-12-29
+172, @pedroleg, 3, 0, 3, 3, 3, 4,Twitter for Android,España,None,es,2010-06-24
+173, @paulaerrejon12, 3, 0, 3, 2, 2, 4,Twitter for Android,None,None,es,2016-05-23
+174, @pauhernndez_, 3, 0, 3, 1, 1, 4,Twitter for Android,Galicia  España,None,es,2020-04-17
+175, @pascualair, 3, 0, 3, 2, 2, 4,Twitter for Android,España,None,es,2012-04-02
+176, @ortizblanesjf, 3, 1, 2, 3, 3, 4,Twitter for Android,Blanes  Girona,None,es,2013-02-02
+177, @nokara59, 3, 0, 3, 1, 2, 3,Twitter for Android,None,None,es,2021-05-17
+178, @misantropofeliz, 3, 0, 3, 1, 2, 3,Twitter for Android,None,None,es,2012-11-29
+179, @meamo89414489, 3, 0, 3, 2, 2, 4,Twitter for Android,Madrid España,None,es,2021-03-22
+180, @mcandecarballo, 3, 0, 3, 3, 3, 5,Twitter for iPhone,None,None,es,2012-06-28
+181, @matildapodemita, 3, 0, 3, 2, 3, 3,Twitter for Android,None,None,es,2011-12-20
+182, @marta_lopezlo, 3, 0, 3, 3, 3, 4,Twitter Web App,None,None,es,2013-08-07
+183, @mariapastorv, 3, 3, 0, 3, 3, 4,0,0,0,0,0
+184, @mariajosrodrg18, 3, 0, 3, 3, 3, 5,Twitter for Android,None,None,es,2020-07-21
+185, @magodeltrago, 3, 0, 3, 2, 2, 5,Twitter for Android,None,None,es,2012-01-08
+186, @lourestoy, 3, 0, 3, 3, 3, 4,Twitter for Android,Madrid  Comunidad de Madrid,None,es,2017-03-09
+187, @lokailo, 3, 0, 3, 2, 2, 3,Twitter for iPhone,En la derecha de la vida ,None,es,2020-12-15
+188, @locuspolitikus, 3, 0, 3, 4, 4, 6,Twitter for Android,Barcelona  España,None,es,2015-07-22
+189, @latanace, 3, 3, 0, 4, 4, 6,0,0,0,0,0
+190, @juandeitalia, 3, 0, 3, 4, 3, 5,Twitter for Android,Genova (GE) Italy - CHIAVARI ,None,es,2010-02-14
+191, @jrealjavireal, 3, 0, 3, 3, 3, 5,Twitter for Android,Barcelona  España,None,es,2012-01-31
+192, @josmaridad, 3, 0, 3, 2, 2, 5,Twitter Web App,Gijón,None,es,2012-01-09
+193, @jmoraib, 3, 0, 3, 1, 2, 4,Twitter for iPhone,None,None,es,2014-12-16
+194, @jmcoro1978, 3, 0, 3, 2, 3, 3,Twitter for Android,SEVILLA  ESPAÑA,None,es,2011-05-29
+195, @jmcordero4, 3, 0, 3, 2, 2, 4,Twitter for Android,Málaga  España,None,es,2014-11-26
+196, @jazzalcane, 3, 0, 3, 1, 1, 3,Twitter Web App,None,None,es,2012-01-27
+197, @javierp54530597, 3, 0, 3, 3, 3, 5,Twitter for Android,Oviedo ,None,es,2014-01-03
+198, @jasonadonis12, 3, 0, 3, 1, 2, 4,Twitter for Android,None,Madrid,es,2020-10-08
+199, @izqenpositivo, 3, 3, 0, 4, 3, 3,Twitter for Android,None,None,es,2015-12-22
+200, @ireneopeneo, 3, 3, 0, 2, 2, 4,Twitter Web App,None,None,es,2011-05-19
+201, @guagagu, 3, 0, 3, 3, 3, 4,Twitter for Android,Madrid,None,es,2011-07-10
+202, @giuliaws, 3, 3, 0, 1, 1, 2,Twitter for iPhone,None,DenisePipitone,es,2021-05-28
+203, @garcigj, 3, 0, 3, 2, 2, 4,Twitter Web App,Comunidad de Madrid  España,None,es,2014-08-20
+204, @frikicongafas, 3, 3, 0, 2, 2, 4,0,0,0,0,0
+205, @frankmaroc26, 3, 0, 3, 3, 3, 5,Twitter Web App,Continente Africano,None,es,2015-01-24
+206, @frances10755018, 3, 0, 3, 2, 2, 4,Twitter for Android,None,None,es,2019-12-17
+207, @fmirandajesus, 3, 0, 3, 2, 2, 4,Twitter for iPhone,España,None,es,2019-11-11
+208, @felipecametome, 3, 0, 3, 3, 3, 5,Twitter for Android,Valencia,None,es,2014-03-12
+209, @faure_m, 3, 0, 3, 3, 2, 5,Twitter for Android,.,None,es,2016-03-25
+210, @eusmaik, 3, 3, 0, 3, 2, 5,0,0,0,0,0
+211, @emocionsxrep, 3, 0, 3, 3, 3, 4,Twitter for Android,Republica Catalana,None,es,2018-01-11
+212, @eldar2001sin, 3, 0, 3, 3, 2, 5,Twitter for iPhone,None,None,es,2012-01-20
+213, @donkijoteak, 3, 3, 0, 3, 2, 4,Twitter for iPhone,En un lugar...,None,es,2018-04-17
+214, @dandanval0714, 3, 0, 3, 2, 2, 5,Twitter for Android,None,None,es,2016-05-15
+215, @cucufata3, 3, 0, 3, 2, 2, 4,Twitter for iPhone,None,None,es,2019-05-18
+216, @cppu04, 3, 0, 3, 2, 2, 4,Twitter for iPhone,None,None,es,2013-10-01
+217, @compotadecerdo, 3, 0, 3, 3, 3, 5,Twitter for Android,None,None,es,2012-05-14
+218, @coblespain, 3, 0, 3, 2, 3, 4,Twitter for Android,en territorio comanche ,None,es,2011-04-24
+219, @claudia80774493, 3, 0, 3, 3, 3, 5,Twitter for Android,None,None,es,2018-01-07
+220, @clara12345673, 3, 0, 3, 1, 2, 4,Twitter for Android,None,None,es,2021-03-28
+221, @castor_max0, 3, 0, 3, 2, 2, 5,Twitter for Android,None,None,es,2011-05-19
+222, @camilamorison, 3, 0, 3, 2, 2, 3,Twitter for iPhone,Sevilla  España,None,es,2012-05-07
+223, @calimero0071, 3, 0, 3, 1, 2, 4,Twitter for Android,None,None,es,2017-09-16
+224, @bobstreet103, 3, 0, 3, 3, 3, 4,Twitter for Android,Barcelona,None,es,2011-01-20
+225, @black_gras, 3, 0, 3, 2, 1, 4,Twitter for Android,None,None,es,2020-04-28
+226, @benifluvia, 3, 0, 3, 2, 3, 5,Twitter for Android,En la mar,None,es,2011-04-09
+227, @belen_svg, 3, 0, 3, 2, 2, 4,Twitter for Android,None,None,es,2013-10-04
+228, @ay_que_si, 3, 0, 3, 1, 2, 5,Twitter Web App,Espacio liminal,None,es,2011-05-20
+229, @axelhernndez99, 3, 0, 3, 1, 2, 4,Twitter Web App,Canarias  España,None,es,2013-08-26
+230, @asanchule, 3, 0, 3, 1, 2, 4,Twitter for iPhone,None,None,es,2013-01-23
+231, @arkaitx14_4_69, 3, 0, 3, 3, 3, 5,Twitter for Android,MIS DOCUMENTOS,None,es,2011-09-15
+232, @antoniomautor, 3, 3, 0, 3, 3, 5,0,0,0,0,0
+233, @andrea_solyluna, 3, 0, 3, 2, 2, 4,Twitter for Android,None,Ayuso,es,2018-10-15
+234, @anc_santfeliull, 3, 1, 2, 3, 3, 4,Twitter for iPhone,Sant Feliu de Llobregat CAT,None,es,2013-01-23
+235, @anamaracrespo, 3, 0, 3, 2, 3, 5,Twitter for Android,Madrid,None,es,2011-07-08
+236, @alectaro1, 3, 0, 3, 2, 1, 4,Twitter for Android,None,None,es,2019-01-23
+237, @alaorden123, 3, 3, 0, 2, 1, 4,0,0,0,0,0
+238, @adel09089602, 3, 1, 2, 2, 1, 2,Twitter Web App,None,None,es,2021-03-15
+239, @a_galopar, 3, 0, 3, 1, 1, 4,Twitter for iPhone,None,None,es,2020-05-29
+240, @_trovador__, 3, 3, 0, 3, 3, 4,Twitter Web App,None,None,es,2018-06-08
+241, @zanahorioxiv, 2, 0, 2, 2, 3, 5,Twitter for Android,Viltrum,None,es,2012-03-27
+242, @yespy13, 2, 0, 2, 2, 2, 4,Twitter for Android,Portugalete  Bizkaia,None,es,2009-11-04
+243, @yano_mecallo1, 2, 0, 2, 1, 1, 3,Twitter for Android,None,None,es,2012-10-11
+244, @xbo8f1, 2, 0, 2, 2, 2, 4,Twitter for iPhone,日本 東京,None,es,2017-03-08
+245, @xavierponsperez, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2010-11-02
+246, @xanasky, 2, 0, 2, 2, 2, 4,Twitter for Android,Madrid,None,es,2010-03-17
+247, @xana2020, 2, 0, 2, 1, 2, 3,Twitter for Android,None,None,es,2019-05-23
+248, @xabier09186452, 2, 0, 2, 2, 3, 4,Twitter for iPhone,Bizkaia  País Vasco,None,es,2020-04-25
+249, @vuthy1iiving, 2, 0, 2, 3, 3, 4,Twitter for Android,None,None,es,2020-02-11
+250, @villarantza, 2, 0, 2, 1, 1, 4,Twitter for Android,None,None,es,2014-11-03
+251, @vierabreil, 2, 0, 2, 3, 3, 5,Twitter for iPhone,Cataluña (ESPAÑA)    🇪🇸 🇪🇺,None,es,2011-12-06
+252, @victoriaferrerp, 2, 0, 2, 3, 3, 4,Twitter for Android,Palma  Islas Baleares,None,es,2015-10-15
+253, @victor14061633, 2, 0, 2, 2, 3, 4,Twitter for iPhone,Madrid  Comunidad de Madrid,None,es,2020-09-13
+254, @vicsemar, 2, 0, 2, 1, 2, 4,Twitter for iPhone,None,None,es,2009-12-16
+255, @vecinodenmedio, 2, 1, 1, 1, 2, 3,Twitter for Android,None,None,und,2018-07-06
+256, @vanessar61, 2, 0, 2, 3, 2, 4,Twitter for Android,San José  Costa Rica,None,ca,2010-02-27
+257, @vanessaduartea, 2, 0, 2, 2, 2, 3,Twitter for iPhone,Salamanca  España,None,es,2010-09-19
+258, @valkiria642, 2, 0, 2, 4, 4, 5,Twitter for Android,None,None,es,2018-02-18
+259, @vadodecaza1, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2020-11-24
+260, @v_neverever, 2, 0, 2, 3, 3, 5,Twitter for iPhone,None,None,pt,2016-01-28
+261, @utrerabcn, 2, 0, 2, 2, 3, 3,Twitter for iPhone,Sant Antoni  Barcelona,None,es,2018-12-11
+262, @unvallecanoenny, 2, 0, 2, 1, 2, 3,Twitter for iPhone,new york,None,es,2012-02-29
+263, @unagatacuriosa, 2, 0, 2, 2, 3, 4,Twitter for Android,Una Ziudad con alma de pueblo.,None,es,2012-02-28
+264, @tuwitterland, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2013-05-08
+265, @tonivelos, 2, 0, 2, 3, 3, 5,Twitter for Android,Utrecht  Nederland,None,es,2010-11-22
+266, @tomasfterrados, 2, 2, 0, 3, 3, 5,0,0,0,0,0
+267, @tocatelnas, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2012-01-20
+268, @tirirero, 2, 2, 0, 1, 2, 4,0,0,0,0,0
+269, @teresasoley, 2, 0, 2, 2, 3, 4,Twitter Web App,Teià,None,es,2013-07-23
+270, @telasmarineras, 2, 0, 2, 3, 3, 5,Twitter Web App,None,None,es,2011-03-13
+271, @tcarabanchel, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2016-09-20
+272, @susanaford, 2, 0, 2, 3, 3, 4,Twitter Web App,Madrid,None,es,2009-05-06
+273, @storm_y_igd, 2, 0, 2, 1, 1, 3,Twitter for iPhone,None,None,es,2020-03-21
+274, @sirius_wsh, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2019-12-29
+275, @serordinario, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2011-04-11
+276, @segundosfuera1, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2015-01-05
+277, @scarlett_gj, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2020-06-16
+278, @sarajulvez, 2, 0, 2, 3, 3, 4,Twitter for Android,zaragoza,None,es,2013-01-12
+279, @saragarciagango, 2, 0, 2, 2, 2, 4,Twitter for iPhone,Alicante.,None,es,2013-06-23
+280, @santivi05, 2, 0, 2, 2, 2, 4,Twitter Web App,None,None,es,2013-11-18
+281, @sandralopezglez, 2, 0, 2, 2, 3, 4,Twitter for iPhone,Granada  España,None,es,2013-12-28
+282, @samirapandora, 2, 0, 2, 2, 2, 4,Twitter for Android,20 yrs old ,None,es,2021-01-24
+283, @sabadodomi, 2, 0, 2, 1, 2, 3,Twitter for Android,Sevilla,None,es,2010-09-23
+284, @rutth_21, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2012-10-17
+285, @rsinmas, 2, 0, 2, 3, 3, 4,Twitter for Android,None,None,es,2011-09-19
+286, @rpardoalmudi, 2, 0, 2, 2, 3, 4,Twitter for iPad,Pucela 🏡,None,es,2010-02-16
+287, @rotcivtoledo, 2, 0, 2, 2, 2, 4,Twitter for iPhone,Toledo España,None,es,2011-11-21
+288, @rosakempin, 2, 0, 2, 3, 3, 5,Twitter Web App,Dènia - Madrid,Lascosasclaras143,es,2015-07-22
+289, @rosa_rb94, 2, 0, 2, 2, 2, 4,Twitter Web App,Oviedo,None,es,2012-08-05
+290, @ricardocasesg, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2013-02-01
+291, @reginapazlo, 2, 0, 2, 2, 3, 4,Twitter for Android,cerquita de los madriles,None,es,2015-06-03
+292, @rar3sito, 2, 0, 2, 1, 2, 4,Twitter for Android,Madrid  Comunidad de Madrid,None,es,2015-12-01
+293, @raquelggc, 2, 2, 0, 1, 2, 4,0,0,0,0,0
+294, @rantes2769, 2, 0, 2, 3, 3, 4,Twitter Web App,None,None,es,2016-01-08
+295, @rafaservalabari, 2, 2, 0, 3, 3, 4,0,0,0,0,0
+296, @rachescat, 2, 0, 2, 2, 2, 4,Twitter for Android,Madrid  Comunidad de Madrid,None,es,2011-05-26
+297, @pulidrebeca, 2, 0, 2, 3, 3, 5,Twitter for Android,Girona  España,Lascosasclaras143,es,2012-09-15
+298, @prise555, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,ca,2016-01-14
+299, @premine, 2, 0, 2, 3, 3, 4,Twitter for Mac,Agurain  Araba EH,None,es,2007-04-17
+300, @pq_pacocalidad, 2, 1, 1, 3, 3, 5,Twitter for Android,Madrid,None,es,2011-06-28
+301, @pollavoladora13, 2, 0, 2, 1, 1, 4,TweetDeck,Córdoba  Andalucía,None,es,2016-09-01
+302, @pjolico, 2, 0, 2, 3, 3, 5,Twitter Web App,Mi ID dice habitante d Camelot,None,es,2017-08-05
+303, @picoypan, 2, 2, 0, 3, 3, 4,Twitter for Android,La Mancha,None,es,2012-03-07
+304, @piazza_paya2, 2, 1, 1, 3, 3, 4,Twitter for Android,None,None,es,2013-04-11
+305, @peralvarezm, 2, 2, 0, 3, 3, 4,0,0,0,0,0
+306, @pepromagosa, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2014-03-01
+307, @pepitog59477474, 2, 0, 2, 1, 1, 3,Twitter for Android,El Mundo,None,es,2017-08-18
+308, @pepi_almagro, 2, 0, 2, 2, 3, 4,Twitter for Android,None,Lascosasclaras143,es,2017-09-17
+309, @pepe41049297, 2, 0, 2, 2, 3, 4,Twitter for Android,None,None,es,2019-01-05
+310, @penaherranz, 2, 0, 2, 1, 2, 3,Twitter for Android,None,None,es,2016-05-16
+311, @pekapepa, 2, 1, 1, 3, 3, 4,Twitter for iPhone,Estado pútrido español,None,es,2011-04-30
+312, @pcabezali, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2012-09-10
+313, @parfer1, 2, 0, 2, 1, 1, 3,Twitter for Android,None,None,es,2011-11-24
+314, @pako_velezmlg, 2, 0, 2, 3, 3, 5,Twitter for Android,Málaga Reino de España,None,es,2013-07-31
+315, @pach1973, 2, 0, 2, 3, 3, 5,Twitter Web App,Madrid,None,es,2010-10-31
+316, @pabloangel71, 2, 0, 2, 2, 2, 4,Twitter Web App,España,None,es,2011-11-20
+317, @oskartxuprz, 2, 2, 0, 2, 2, 4,Twitter for Android,None,None,es,2017-06-04
+318, @osiris1278, 2, 2, 0, 2, 2, 3,Twitter for Android,Planeta Tierra,None,es,2020-10-27
+319, @olgapieirogmez, 2, 0, 2, 2, 3, 3,Twitter for Android,Vigo,None,es,2011-05-27
+320, @olga_hurtado66, 2, 0, 2, 3, 3, 5,Twitter for Android,EH,None,es,2012-04-25
+321, @oembuchado_, 2, 2, 0, 2, 2, 3,Twitter Web App,None,None,es,2019-05-29
+322, @nuria83774875, 2, 0, 2, 0, 1, 1,Twitter for Android,None,None,es,2021-06-01
+323, @nuevaera86, 2, 0, 2, 2, 2, 4,Twitter Web App,Galicia  España,None,es,2016-03-15
+324, @nsapesardetodo, 2, 0, 2, 3, 3, 4,Twitter Web App,España  Spain,voxEsFascismo,und,2009-05-29
+325, @nrxxx___, 2, 0, 2, 2, 2, 4,Twitter for Android,Alicante 🏳️‍🌈,None,es,2012-03-08
+326, @npramirez_mora1, 2, 0, 2, 3, 3, 4,Twitter for Android,None,None,es,2020-08-27
+327, @nocompromotos, 2, 0, 2, 2, 3, 5,Twitter for iPad,None,Ayuso,es,2015-12-20
+328, @nobel_51, 2, 2, 0, 3, 3, 4,Twitter for Android,Asturias  Paraiso  Natural,None,es,2015-12-11
+329, @nina33095462, 2, 1, 1, 2, 2, 4,Twitter Web App,None,None,es,2019-03-07
+330, @nierere, 2, 0, 2, 2, 2, 5,Twitter Web App,Sevilla,None,es,2009-08-13
+331, @neron51569879, 2, 0, 2, 2, 2, 4,Twitter Web App,None,None,es,2020-05-19
+332, @nachuskp, 2, 0, 2, 3, 3, 4,Twitter for iPhone,Madrid  España,None,es,2018-03-09
+333, @nachomiravalles, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2013-10-30
+334, @mriater, 2, 1, 1, 3, 3, 5,Twitter for Android,None,CulturaDeLaViolación,es,2014-07-03
+335, @morafanova, 2, 0, 2, 3, 3, 5,Twitter Web App,None,None,es,2013-04-25
+336, @moonlig94421095, 2, 0, 2, 2, 1, 4,Twitter for iPhone,None,DenisePipitone,es,2021-04-14
+337, @montllo, 2, 0, 2, 3, 3, 5,Twitter for Android,Barcelona  España,SoisIdiotas,es,2011-10-25
+338, @mlalanda, 2, 2, 0, 4, 3, 5,Twitter Web App,Valladolid,None,es,2009-10-18
+339, @mix_martes86, 2, 0, 2, 2, 2, 4,Twitter Web App,The campo,None,es,2012-07-26
+340, @mister_a_zgz, 2, 0, 2, 3, 3, 4,Twitter for Android,Escondido en algun lugar.,None,es,2018-06-01
+341, @miquinta1, 2, 2, 0, 3, 3, 4,0,0,0,0,0
+342, @miotroyo_otroyo, 2, 0, 2, 1, 2, 3,Twitter for Android,Mordor. Tu sabes...,None,es,2020-10-24
+343, @minarq132, 2, 2, 0, 1, 2, 3,0,0,0,0,0
+344, @miguelc04447127, 2, 0, 2, 2, 2, 4,Twitter for iPad,None,None,es,2019-02-08
+345, @metagrossito, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2015-06-16
+346, @mergozu_, 2, 0, 2, 2, 3, 4,Twitter for Android,Torrelavega,None,es,2015-02-14
+347, @mercedesboils, 2, 0, 2, 2, 2, 4,Twitter Web App,Valencia - España,None,es,2011-03-21
+348, @medusobcn, 2, 2, 0, 3, 3, 4,Twitter for Android,Barcelona  España,None,es,2018-08-24
+349, @medicblasto, 2, 0, 2, 3, 2, 5,Twitter for iPhone,None,None,es,2010-11-24
+350, @maxtena1, 2, 1, 1, 4, 3, 4,Twitter for iPhone,En un mundo que no reconozco,None,es,2019-07-23
+351, @mathusalen2020, 2, 0, 2, 2, 3, 5,Twitter for Android,Málaga (España),None,es,2020-03-22
+352, @maryluz1008, 2, 0, 2, 3, 3, 4,Twitter for Android,None,None,es,2011-04-03
+353, @martomorillo, 2, 0, 2, 2, 3, 5,Twitter for Android,Triana República Independiente,None,es,2011-12-15
+354, @mariojl1, 2, 0, 2, 2, 2, 4,Twitter for Android,  España ,None,es,2011-11-08
+355, @mariconazl, 2, 2, 0, 2, 2, 4,0,0,0,0,0
+356, @mariansantj, 2, 0, 2, 3, 3, 4,Twitter for Android,España,None,es,2017-04-11
+357, @margaritareine, 2, 0, 2, 2, 2, 4,Twitter Web App,None,EspañaQuiereVotar,und,2021-02-01
+358, @marcedber, 2, 0, 2, 2, 2, 4,Twitter for iPhone,LANZAROTE,None,es,2012-02-01
+359, @marc31125779, 2, 0, 2, 1, 2, 4,Twitter for iPhone,None,None,es,2020-08-20
+360, @maradel24886505, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2020-04-10
+361, @manuell12700597, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2015-11-10
+362, @manuela_ema1290, 2, 0, 2, 3, 3, 4,Twitter for Android,Madrid  Comunidad de Madrid,None,es,2014-08-08
+363, @manelflu, 2, 0, 2, 3, 4, 4,Twitter Web App,Edenlandia,None,es,2011-01-22
+364, @mai_right, 2, 0, 2, 2, 2, 3,Twitter for Android,Reino de España ,None,es,2019-04-28
+365, @magdalenamartne, 2, 0, 2, 3, 3, 4,Twitter for iPhone,Montevideo  Uruguay,None,es,2012-01-27
+366, @macario1951, 2, 0, 2, 2, 2, 4,Twitter for Android,Valladolid,None,es,2013-12-17
+367, @lysander2020, 2, 0, 2, 2, 2, 4,Twitter Web App,Andalucia  España,None,es,2019-09-22
+368, @lutherkingon, 2, 0, 2, 2, 2, 3,Twitter for Android,loftredpolitic,Lascosasclaras143,es,2020-10-09
+369, @luisdelriego3, 2, 0, 2, 1, 2, 2,Twitter for Android,None,None,es,2021-05-05
+370, @ludovic96001767, 2, 0, 2, 2, 2, 5,Twitter for Android,None,Lascosasclaras143,es,2018-01-12
+371, @luciiaarf, 2, 0, 2, 2, 2, 3,Twitter for Android,Bombay  भारत,None,es,2015-03-14
+372, @luca47633501, 2, 0, 2, 3, 3, 3,Twitter for Android,Comunidad de Madrid  España,Lascosasclaras143,es,2018-07-14
+373, @ltmariscal, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2011-11-11
+374, @lolamartos10, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2020-03-21
+375, @loisarteaga, 2, 0, 2, 2, 3, 4,Twitter for iPhone,None,None,es,2012-03-29
+376, @llatzer86, 2, 1, 1, 3, 2, 4,Twitter for Android,Villajoyosa (Alicante),None,es,2013-01-31
+377, @llamameaigor, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2011-05-28
+378, @lkittenlover, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2017-10-05
+379, @lilesgg, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2013-05-07
+380, @lestbeannas, 2, 2, 0, 2, 2, 4,0,0,0,0,0
+381, @lavillera41, 2, 0, 2, 3, 3, 4,Twitter for Android,Maracaibo  Venezuela,None,es,2012-05-22
+382, @lauraperz_, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2013-01-11
+383, @largo_d, 2, 0, 2, 2, 2, 4,Twitter for iPhone,madrid,None,es,2012-08-22
+384, @laresistencia, 2, 2, 0, 2, 2, 4,0,0,0,0,0
+385, @lanxiao21, 2, 0, 2, 2, 2, 3,Twitter for iPhone,None,None,es,2011-08-31
+386, @lalolalona6, 2, 0, 2, 2, 2, 5,Twitter for Android,None,None,es,2014-04-07
+387, @lagrimasprogres, 2, 2, 0, 4, 2, 4,Twitter Web App,None,None,es,2018-10-29
+388, @lafranjamemata, 2, 0, 2, 2, 3, 4,Twitter for Android,Mongolia,None,es,2012-08-09
+389, @ladypalo, 2, 0, 2, 4, 3, 5,Twitter for iPhone,None,None,es,2015-01-23
+390, @la_piedra_azul, 2, 0, 2, 2, 3, 4,Twitter for Android,Córdoba  Andalucía.,None,es,2019-10-05
+391, @kurenainoangel, 2, 0, 2, 2, 2, 5,Twitter for Android,Heroes never die,None,es,2011-10-25
+392, @kristina_mjbm, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2011-12-23
+393, @knightridertr1, 2, 0, 2, 1, 2, 3,Twitter for Android,Gijón Asturias ,None,es,2017-03-12
+394, @klaulhe, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2014-03-29
+395, @kiko1945kiko, 2, 0, 2, 3, 3, 4,Twitter for Android,None,None,es,2015-02-21
+396, @karewtos, 2, 0, 2, 2, 3, 5,Twitter for iPhone,None,None,es,2016-02-17
+397, @kaplan_gv, 2, 2, 0, 2, 3, 5,0,0,0,0,0
+398, @kanamyc_2, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2014-01-30
+399, @jvb20031, 2, 0, 2, 2, 3, 4,Twitter for Android,None,None,es,2013-03-31
+400, @juliotofani, 2, 0, 2, 3, 3, 4,Twitter for iPad,None,None,es,2012-01-01
+401, @juliabrando, 2, 1, 1, 3, 2, 4,Twitter for iPhone,Cadiz y chusma selecta🔛Madrid,None,es,2010-05-09
+402, @jugocle, 2, 0, 2, 2, 2, 4,Twitter for Android,Sevilla.,None,es,2012-02-17
+403, @juditpi1, 2, 0, 2, 2, 2, 4,Twitter for Android,TRS,Metralleta,ca,2018-03-13
+404, @juanvibuzo, 2, 0, 2, 2, 3, 4,Twitter for Android,None,None,es,2018-03-24
+405, @juanbalda3, 2, 0, 2, 2, 3, 4,Twitter for Android,None,None,es,2017-08-20
+406, @josmorey, 2, 0, 2, 2, 2, 4,Twitter for iPhone,España,None,es,2011-05-10
+407, @joseplluis2001, 2, 0, 2, 3, 3, 5,Twitter for Android,Catalunya ,None,es,2017-09-29
+408, @josemadiaz2017, 2, 0, 2, 3, 3, 4,Twitter Web App,Barcelona  Cataluña  España.,None,es,2017-06-14
+409, @josejuliangarin, 2, 2, 0, 2, 2, 3,Twitter for Android,ZARAGOZA  ESPAÑA,LasCosasClaras143,es,2012-02-13
+410, @jonestebann, 2, 0, 2, 2, 2, 3,Twitter for iPhone,Basauri Bizkaia EuskalHerria,None,es,2012-05-16
+411, @jomarlle, 2, 0, 2, 2, 2, 4,Twitter for iPhone,Valencia,None,es,2009-07-14
+412, @johefem, 2, 0, 2, 3, 3, 4,Twitter for iPhone,Madrid y Segovia.,None,es,2012-06-25
+413, @joaquintorrevie, 2, 2, 0, 3, 3, 4,0,0,0,0,0
+414, @jlmelgacho, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2010-04-30
+415, @jgompel88, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2014-12-03
+416, @jgabi983, 2, 0, 2, 2, 3, 3,Twitter for Android,None,None,es,2020-02-26
+417, @jfgino, 2, 0, 2, 3, 3, 4,Twitter for Android,🇫🇷 Loire Atlantique ,None,es,2011-06-08
+418, @jesusfergon, 2, 0, 2, 2, 2, 4,Twitter for Android,Mundo de la Farándula,APOYOROCIO10J,es,2010-09-01
+419, @jesucristocs, 2, 0, 2, 1, 1, 3,Twitter for Android,None,None,es,2017-10-22
+420, @jesssica_30, 2, 0, 2, 2, 2, 5,Twitter for Android,None,None,es,2013-01-10
+421, @javivielvecino, 2, 0, 2, 1, 2, 4,Twitter Web App,De jeré,None,es,2015-05-06
+422, @javierm98300803, 2, 0, 2, 1, 1, 3,Twitter for Android,Barcelona  España,None,es,2020-10-07
+423, @jasalo54, 2, 2, 0, 1, 1, 3,0,0,0,0,0
+424, @jajomo1, 2, 2, 0, 1, 1, 3,0,0,0,0,0
+425, @jagmartin19511, 2, 0, 2, 1, 2, 3,Twitter for iPad,None,None,es,2019-09-04
+426, @izarlizarralde, 2, 0, 2, 3, 2, 4,Twitter for iPhone,Bilbao,None,es,2018-10-04
+427, @isavipv, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2012-08-26
+428, @isabelherrera34, 2, 0, 2, 2, 3, 4,Twitter for Android,en malaga,None,es,2012-02-04
+429, @irunemoral, 2, 0, 2, 2, 2, 4,Twitter for Android,Bilbao País Vasco,None,es,2016-03-22
+430, @iris_odair, 2, 0, 2, 2, 2, 3,Twitter for iPhone,Berlín  Alemania,None,es,2012-08-28
+431, @ireneaventin, 2, 0, 2, 1, 1, 1,Twitter for Android,None,None,es,2020-03-15
+432, @infacctun, 2, 0, 2, 2, 2, 3,Twitter for Android,None,None,es,2021-02-25
+433, @ineslopezmezzo, 2, 2, 0, 1, 1, 1,Twitter for Android,Asturias - Madrid,None,es,2021-03-03
+434, @imp_manuel, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2014-04-21
+435, @iaya_matsumoto, 2, 0, 2, 2, 2, 4,Twitter Web App,España,None,es,2011-04-07
+436, @i_g_g_a, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2013-02-28
+437, @huktheim, 2, 0, 2, 3, 2, 5,Twitter for Android,None,None,es,2011-05-02
+438, @howy73302496, 2, 0, 2, 3, 3, 4,Twitter Web App,None,None,es,2018-08-27
+439, @harryelsocio, 2, 2, 0, 3, 3, 4,0,0,0,0,0
+440, @guillemolinas1, 2, 0, 2, 3, 3, 5,Twitter for iPhone,Esparreguera  Catalunya ,None,es,2011-08-27
+441, @guerraespi, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2015-02-17
+442, @guajesalvaje, 2, 2, 0, 1, 2, 4,0,0,0,0,0
+443, @gronkalonka1974, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2017-07-25
+444, @groc_i, 2, 0, 2, 2, 2, 3,Twitter for Android,None,LaHoraDeLa1,es,2020-11-19
+445, @grancanaria1974, 2, 0, 2, 2, 2, 3,Twitter for Android,None,None,es,2016-08-04
+446, @goyathlay1980, 2, 0, 2, 3, 3, 5,Twitter for Android,Albacete,None,es,2010-09-07
+447, @gaviotahit, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2013-03-04
+448, @gallamontse, 2, 0, 2, 2, 3, 4,Twitter Web App,None,None,es,2016-05-12
+449, @fumombm, 2, 0, 2, 2, 2, 5,Twitter for Android,None,None,es,2013-03-23
+450, @franvonrock, 2, 0, 2, 2, 2, 4,Twitter for Android,Por favor y Gracias ,None,es,2012-12-24
+451, @francis98730966, 2, 2, 0, 2, 2, 4,0,0,0,0,0
+452, @fprostitucion, 2, 0, 2, 3, 2, 4,Twitter for Android,Madrid,None,es,2020-02-12
+453, @folkewer, 2, 0, 2, 2, 1, 5,Twitter for iPhone,None,None,es,2012-06-01
+454, @flotatm, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2017-10-29
+455, @fawasf, 2, 0, 2, 4, 4, 4,Twitter for Android,Madrid,None,es,2010-09-25
+456, @faef803c435c445, 2, 0, 2, 1, 2, 3,Twitter for Android,None,None,es,2014-05-10
+457, @extremolobezo, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2019-05-16
+458, @eva24dominguez, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2017-08-28
+459, @esteren3onidos, 2, 0, 2, 3, 3, 5,Twitter for Android,Cambiante,None,es,2014-12-06
+460, @erzuru2000, 2, 2, 0, 3, 3, 5,0,0,0,0,0
+461, @ereccio, 2, 1, 1, 3, 3, 5,Twitter for Android,None,None,es,2014-11-08
+462, @enriccardonagar, 2, 0, 2, 3, 3, 4,Twitter for Android,Sobrevivint a Girona,None,es,2012-11-06
+463, @encarna70722510, 2, 0, 2, 2, 2, 4,Twitter for iPad,Málaga  España,None,es,2018-01-29
+464, @emirodest_, 2, 0, 2, 3, 3, 5,Twitter for iPhone,None,None,es,2013-05-05
+465, @elprimorosoroso, 2, 0, 2, 4, 4, 5,Twitter Web App,Zaragoza ,None,es,2017-05-25
+466, @elpiterkas, 2, 0, 2, 3, 3, 5,Twitter Web App,Madrid,Madrid,es,2010-12-26
+467, @elltimotemplar1, 2, 0, 2, 4, 3, 4,Twitter for Android,None,None,es,2020-04-07
+468, @elenitob, 2, 0, 2, 2, 2, 4,Twitter Web App,Jaén  España,None,es,2010-02-11
+469, @elenathin, 2, 0, 2, 2, 3, 4,Twitter for Android,Madrid ,None,es,2011-01-27
+470, @eldelasinhueso, 2, 0, 2, 1, 1, 3,Twitter for Android,None,None,es,2013-09-22
+471, @elchepatrimonio, 2, 2, 0, 1, 1, 3,0,0,0,0,0
+472, @egia9, 2, 1, 1, 3, 3, 5,Twitter Web App,Donostia,None,es,2011-04-07
+473, @efenoticias, 2, 2, 0, 3, 3, 5,0,0,0,0,0
+474, @ealo92, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2014-12-25
+475, @ducmantua, 2, 2, 0, 2, 2, 4,0,0,0,0,0
+476, @drsteklovata, 2, 0, 2, 2, 2, 4,Twitter for Android,Madrid,None,es,2011-09-03
+477, @drdestornillado, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2012-06-13
+478, @diariodemarte, 2, 0, 2, 2, 2, 3,Twitter Web App,Planeta Tierra,None,es,2016-11-11
+479, @delirios_verdes, 2, 0, 2, 1, 2, 3,Twitter for Android,Guadalajara  Castilla,None,es,2011-12-06
+480, @de_li_yang, 2, 0, 2, 3, 3, 5,Twitter for Android,My Twitter account's profile location is the longest ever because it's very cool  ok? I don't really know how I wrote all of this... but I like it :)!,None,es,2010-01-21
+481, @darthlobato, 2, 0, 2, 2, 2, 3,Twitter for Android,España e Italia,None,es,2018-09-11
+482, @danielhernanz83, 2, 0, 2, 2, 2, 4,Twitter for Android,MEJORADA DEL CAMPO,None,es,2015-03-23
+483, @dalek_fan, 2, 0, 2, 3, 3, 5,Twitter Web App,Asturias  de momento,None,es,2011-05-06
+484, @cuenta_16, 2, 0, 2, 2, 2, 3,Twitter for Android,Galicia  España,None,es,2021-04-17
+485, @cseoanem, 2, 0, 2, 2, 2, 3,Twitter for Android,Madrid,None,es,2010-01-11
+486, @csangel1975, 2, 0, 2, 2, 2, 4,Twitter for Android,Castellón de la Plana  España,None,es,2014-08-24
+487, @crodrigocarlos, 2, 0, 2, 3, 3, 4,Twitter for iPhone, Valencia  España,None,es,2013-07-30
+488, @cristin72591481, 2, 0, 2, 3, 3, 4,Twitter for Android,Alicante  Comunidad Valenciana,None,es,2016-08-11
+489, @crisdelash, 2, 0, 2, 2, 3, 4,Twitter for Android,Madrid  España,None,es,2015-09-06
+490, @cornelioripio, 2, 2, 0, 2, 3, 4,0,0,0,0,0
+491, @corcagustin, 2, 0, 2, 1, 2, 3,Twitter Web App,None,Lascosasclaras143,es,2014-01-17
+492, @condorcocodrilo, 2, 0, 2, 2, 3, 4,Twitter for Android,None,None,es,2016-08-14
+493, @comunismoruina, 2, 0, 2, 2, 2, 5,Twitter for Android,None,None,es,2020-03-10
+494, @comovayaveras, 2, 0, 2, 3, 3, 4,Twitter for iPhone,España  Europa,None,es,2011-04-20
+495, @cleosagas1, 2, 0, 2, 3, 3, 6,Twitter Web App,None,Lascosasclaras143,es,2015-02-27
+496, @clauurial, 2, 0, 2, 2, 1, 4,Twitter for iPhone,None,None,es,2020-03-30
+497, @cinto112, 2, 0, 2, 2, 2, 4,Twitter for Android,República de catalunya,SpainIsAFascistState,ca,2018-12-26
+498, @chussego, 2, 0, 2, 2, 2, 4,Twitter Web App,valencia España,None,es,2010-08-15
+499, @churfer_rai, 2, 2, 0, 3, 2, 4,Twitter for iPhone,Madrid  España,None,es,2011-10-03
+500, @chicanoja, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2013-12-11
+501, @cheloserradilla, 2, 0, 2, 3, 3, 5,Twitter for Android,navarrete,None,es,2012-01-21
+502, @charosanabogg, 2, 0, 2, 2, 3, 3,Twitter for Android,Barcelona  España,None,es,2012-11-07
+503, @cgruano, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2015-03-02
+504, @celtas60, 2, 0, 2, 3, 3, 5,Twitter for Android,España,None,es,2013-03-10
+505, @ccsjadu, 2, 0, 2, 1, 2, 3,Twitter for Android,None,None,es,2016-12-05
+506, @castlekitten47, 2, 0, 2, 3, 3, 5,Twitter for iPhone,New York,None,es,2009-08-03
+507, @carrotina3gatsu, 2, 0, 2, 2, 2, 4,Twitter for Android,Zanarkand,None,es,2013-04-18
+508, @carmen61663078, 2, 0, 2, 1, 2, 3,Twitter for Android,None,None,es,2020-04-22
+509, @carlosmartntol2, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2018-01-16
+510, @carloslasttango, 2, 0, 2, 2, 3, 3,Twitter Web App,Málaga,None,es,2011-03-11
+511, @carlgarcsanc, 2, 0, 2, 1, 2, 3,Twitter for Android,None,None,es,2020-12-05
+512, @caparrones, 2, 0, 2, 3, 3, 5,Twitter for iPhone,None,None,es,2011-07-29
+513, @cansino1perala1, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2021-02-15
+514, @camiloenmadrid, 2, 0, 2, 3, 2, 4,Twitter for Android,Madrid,None,es,2010-12-06
+515, @camarotegroucho, 2, 0, 2, 1, 2, 4,Twitter for iPhone,None,None,es,2010-10-10
+516, @calaverarebelde, 2, 0, 2, 2, 2, 4,Twitter Web App,Zaragoza (España) ,None,es,2020-04-22
+517, @cacaarale, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2020-12-16
+518, @bolkonski, 2, 0, 2, 2, 3, 5,Twitter Web App,Brest. Francia,None,es,2010-09-26
+519, @black_bibelots, 2, 0, 2, 1, 2, 3,Twitter for iPhone,O Salnés,None,es,2017-01-21
+520, @bibie_pf, 2, 0, 2, 1, 2, 3,Twitter for Android,Denmark,None,es,2011-11-02
+521, @berkut_35, 2, 0, 2, 2, 2, 4,Twitter for Android,Cataluña  EspaÑa,None,es,2013-07-21
+522, @berberechia1, 2, 0, 2, 1, 2, 3,Twitter Web App,None,None,es,2021-05-06
+523, @beranturiano, 2, 0, 2, 3, 3, 4,Twitter for Android,None,None,es,2015-11-19
+524, @bartolomegj, 2, 0, 2, 3, 3, 4,Twitter for iPhone,Alcalá de Henares,None,es,2010-10-31
+525, @barrera2734, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2015-10-27
+526, @baccidoris, 2, 0, 2, 2, 2, 3,Twitter for iPhone,None,None,es,2016-02-14
+527, @azul_corsario, 2, 2, 0, 3, 3, 4,Twitter Web App,None,None,es,2017-12-06
+528, @atuca62, 2, 0, 2, 3, 3, 4,Twitter for Android,There´s no place like home...,None,es,2014-06-24
+529, @asunvillaverde, 2, 0, 2, 3, 3, 5,Twitter for Android,Zaragoza y Benidorm  España,None,es,2011-11-17
+530, @asturleonesa1, 2, 0, 2, 3, 3, 3,Twitter for Android,None,None,es,2019-10-17
+531, @asturika1, 2, 1, 1, 3, 3, 4,Twitter Web App,Asturias  mi Paraiso,Lascosasclaras143,es,2020-05-19
+532, @astrongerhope, 2, 0, 2, 2, 2, 4,Twitter for Android,Futura Ultra de Biris Norte.,None,es,2013-03-27
+533, @arroba46882533, 2, 1, 1, 2, 3, 3,Twitter for iPhone,España,None,es,2019-05-27
+534, @aridaniacosta, 2, 0, 2, 2, 3, 4,Twitter for iPhone,Valverde  El Hierro  Canarias,None,es,2011-12-12
+535, @aragallcos, 2, 0, 2, 0, 1, 2,Twitter for iPhone,None,None,es,2021-05-20
+536, @antodiegopablo, 2, 0, 2, 2, 2, 4,Twitter for iPhone,None,None,es,2017-04-27
+537, @aniana59133508, 2, 0, 2, 3, 3, 4,Twitter for Android,None,None,es,2015-10-10
+538, @anazu47029677, 2, 0, 2, 3, 3, 4,Twitter Web App,España ,None,es,2020-03-06
+539, @anatirapu, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2017-09-27
+540, @anasotogonzalez, 2, 0, 2, 3, 3, 5,Twitter for Android,None,None,es,2012-12-24
+541, @analeyre1, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2012-04-16
+542, @anahera606, 2, 0, 2, 3, 2, 5,Twitter for Android,None,None,es,2014-07-01
+543, @amparorubiales, 2, 2, 0, 4, 3, 5,Twitter for iPhone,None,None,und,2011-05-24
+544, @amparoantonio1, 2, 0, 2, 2, 2, 3,Twitter Web App,Valencia  España,None,es,2012-05-13
+545, @ampagaram, 2, 0, 2, 3, 3, 4,Twitter for Android,España,None,es,2009-09-28
+546, @amorosavenus, 2, 0, 2, 3, 3, 5,Twitter Web App,None,None,es,2011-06-04
+547, @aminacroc, 2, 0, 2, 2, 3, 4,Twitter for Android,Berna  Suiza,None,es,2020-03-26
+548, @amartpenalv, 2, 0, 2, 2, 2, 5,Twitter for Android,M(E),None,es,2013-09-09
+549, @amaranta_2012, 2, 0, 2, 3, 3, 5,Twitter for Android,None,Lascosasclaras143,es,2011-07-10
+550, @alvarezcamino, 2, 0, 2, 3, 3, 5,Twitter for iPhone,Cornellà de Llobregat  Spain,None,es,2008-03-09
+551, @altamirana2, 2, 1, 1, 4, 3, 6,Twitter Web App,None,None,und,2013-01-02
+552, @alifufi, 2, 0, 2, 2, 2, 4,Twitter for Android,de_Cbble,None,es,2010-02-14
+553, @algaba85, 2, 0, 2, 2, 2, 4,Twitter for Android,ESPAÑA,None,es,2011-02-26
+554, @alfanjarincas, 2, 0, 2, 2, 2, 3,Twitter for Android,None,None,es,2014-09-22
+555, @alexdj1978, 2, 0, 2, 1, 2, 4,Twitter for Android,None,None,es,2011-07-21
+556, @alejand13545763, 2, 0, 2, 1, 1, 4,Twitter Web App,Andalucía ,None,es,2020-04-18
+557, @alcucicosta, 2, 0, 2, 3, 3, 3,Twitter Web App,None,None,es,2011-09-06
+558, @albertoenserie, 2, 2, 0, 3, 3, 3,0,0,0,0,0
+559, @alba__bertos, 2, 0, 2, 1, 1, 3,Twitter for Android,Valencia  España,None,es,2020-03-15
+560, @alba_5_, 2, 2, 0, 1, 1, 3,0,0,0,0,0
+561, @aitanavs, 2, 2, 0, 1, 1, 3,0,0,0,0,0
+562, @adema310, 2, 0, 2, 3, 3, 4,Twitter for Android,None,None,es,2015-01-18
+563, @adelitaadelita1, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2020-01-21
+564, @acomasriu, 2, 0, 2, 2, 2, 4,Twitter for iPad,None,None,es,2010-09-29
+565, @aarruabarena, 2, 0, 2, 1, 1, 3,Twitter for Android,None,None,es,2018-04-28
+566, @a3noticias, 2, 2, 0, 1, 1, 3,0,0,0,0,0
+567, @_tracia_, 2, 2, 0, 1, 1, 3,0,0,0,0,0
+568, @_nymphettt, 2, 0, 2, 1, 1, 4,Twitter for Android,None,None,es,2018-04-12
+569, @_doctorcito, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2016-07-11
+570, @_andreavazzquez, 2, 0, 2, 2, 2, 3,Twitter for iPhone,None,None,es,2013-08-18
+571, @_ananikiforov, 2, 0, 2, 2, 2, 5,Twitter for Android,None,None,es,2011-03-13
+572, @__ireneee, 2, 0, 2, 2, 3, 4,Twitter for Android,La Terreta ,None,es,2013-12-19
+573, @__embrujada, 2, 0, 2, 2, 3, 4,Twitter for iPhone,Barcelona,None,es,2019-07-17
+574, @7d85022f52704c3, 2, 0, 2, 1, 2, 3,Twitter for Android,None,None,es,2014-06-15
+575, @1denmadrid, 2, 0, 2, 3, 2, 6,Twitter Web App,Madrid  Colombia,None,es,2011-12-07
+576, @12waaa_, 2, 0, 2, 2, 2, 4,Twitter for Android,wherever the wind takes me,None,es,2015-07-25
+577, @004pau, 2, 0, 2, 2, 2, 4,Twitter for Android,None,None,es,2018-11-22
+578, @zulyn63, 1, 0, 1, 2, 3, 4,Twitter for Android,Tenerife-España,None,es,2009-07-26
+579, @zulay18020120, 1, 0, 1, 1, 2, 3,Twitter for iPhone,España,None,es,2019-01-23
+580, @zulam20, 1, 0, 1, 1, 1, 3,Twitter for Android,None,None,es,2017-12-25
+581, @zipstar81, 1, 1, 0, 1, 1, 3,0,0,0,0,0
+582, @zeluki, 1, 0, 1, 0, 2, 2,Twitter Web App,None,None,es,2013-01-26
+583, @zari_________, 1, 0, 1, 2, 2, 3,Twitter for Android,None,None,es,2019-08-11
+584, @zar_mostovoivoi, 1, 0, 1, 2, 3, 4,Twitter for iPhone,Vigo  Moaña  Cangas  GALIZA,None,es,2011-10-20
+585, @zandolove, 1, 0, 1, 3, 3, 5,Twitter for Android,Occidentali's Karma,None,es,2014-04-15
+586, @zabalacouture, 1, 0, 1, 2, 2, 3,Twitter for Android,España,None,es,2014-01-02
+587, @yyoonnoir, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2014-09-30
+588, @yuyukeze, 1, 1, 0, 2, 2, 4,0,0,0,0,0
+589, @yozalos, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2014-12-26
+590, @yosemourinho91, 1, 0, 1, 2, 3, 4,Twitter for iPhone,None,None,es,2010-11-19
+591, @yonovoto60, 1, 0, 1, 3, 3, 5,Twitter for Android,None,None,es,2012-04-08
+592, @ymoradez, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Albacete  España,None,es,2016-08-03
+593, @ylemoraless, 1, 0, 1, 2, 2, 3,Twitter for Android,Las Palmas de Gran Canaria  Es,None,es,2021-03-29
+594, @yeralrbk, 1, 0, 1, 1, 2, 3,Twitter for Android,Murcia,None,es,2014-02-01
+595, @yelwsgang, 1, 0, 1, 2, 1, 4,Twitter for Android,Granada. ,None,es,2014-08-21
+596, @ycoviella, 1, 0, 1, 1, 2, 4,Twitter for iPhone,None,None,es,2014-11-06
+597, @yasminarm20, 1, 0, 1, 2, 2, 3,Twitter for iPhone,Málaga  España,None,es,2020-04-17
+598, @yaguesusana, 1, 0, 1, 1, 1, 3,Twitter Web App,Madrid,None,es,2015-03-16
+599, @xyassay, 1, 0, 1, 2, 2, 4,Twitter for iPhone,smooth like butter,None,es,2013-08-08
+600, @xxmenaxx_, 1, 0, 1, 2, 3, 3,Twitter for Android,España,None,es,2011-11-18
+601, @xtianportu, 1, 0, 1, 3, 2, 4,Twitter for Android,Parla • Bragança,None,es,2016-03-26
+602, @xsoulxu, 1, 0, 1, 2, 2, 3,Twitter for Android,nalas,None,es,2020-08-01
+603, @xpuigjaner, 1, 0, 1, 1, 1, 3,Twitter for iPhone,Barcelona  Catalunya,None,es,2011-07-30
+604, @xpepebotika, 1, 0, 1, 2, 2, 5,Twitter Web App,None,None,es,2011-07-24
+605, @xjanell3, 1, 0, 1, 2, 3, 4,Twitter for Android,None,Madrid,es,2018-07-11
+606, @xinacu, 1, 0, 1, 2, 2, 4,Twitter for Android,Spain,None,es,2010-01-04
+607, @xikallg, 1, 0, 1, 1, 2, 2,Twitter Web App,None,None,es,2012-02-21
+608, @xefont, 1, 0, 1, 1, 2, 2,Twitter for Android,Madrid ,None,es,2011-11-25
+609, @xeensm, 1, 0, 1, 2, 3, 4,Twitter for Android,Vilafranca del Penedès,None,es,2011-11-26
+610, @xdragonbellota, 1, 0, 1, 2, 2, 4,Twitter for Android,Alcalá de Guadaíra  España,None,es,2017-04-03
+611, @xc32tk, 1, 0, 1, 2, 2, 5,Twitter for Android,None,None,es,2018-02-11
+612, @xbargallo, 1, 0, 1, 2, 2, 4,Twitter Web App,Barcelona,None,es,2010-12-21
+613, @xaviportales, 1, 0, 1, 3, 3, 5,Twitter for iPhone,Benicàssim,None,es,2010-03-15
+614, @xavierrobertoli, 1, 0, 1, 3, 2, 3,Twitter Web App,None,None,es,2012-05-31
+615, @xabbbi04, 1, 0, 1, 1, 1, 3,Twitter for Android,None,None,es,2013-03-25
+616, @x_cursedx, 1, 0, 1, 1, 2, 2,Twitter for Android,None,None,es,2019-01-12
+617, @winona1610, 1, 0, 1, 2, 3, 4,Twitter for Android,Barcelona,None,es,2011-02-19
+618, @winjordi, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2012-03-16
+619, @winchesterneko, 1, 0, 1, 2, 1, 4,Twitter Web App,Resembool,None,es,2011-01-21
+620, @willy_inkrose, 1, 0, 1, 3, 3, 5,Twitter Web App,Murcia,None,es,2012-09-16
+621, @william81333482, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2019-04-09
+622, @wilhemwallace, 1, 0, 1, 2, 2, 4,Twitter for Android,Ankh-Morpork,None,es,2011-09-30
+623, @whosxlu, 1, 0, 1, 3, 2, 5,Twitter for Android,montemayor  córdoba.,None,es,2014-10-10
+624, @whoismaanuu, 1, 0, 1, 3, 3, 4,Twitter for iPhone,Madrid  España,None,es,2015-12-29
+625, @whisperboutme, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2013-03-22
+626, @west99307638, 1, 0, 1, 2, 3, 5,Twitter for Android,None,None,es,2017-08-23
+627, @weirdfixswift, 1, 0, 1, 3, 3, 4,Twitter for iPhone,she/her,None,es,2013-09-22
+628, @weezermij, 1, 0, 1, 3, 2, 4,Twitter for Android,No.,None,es,2012-06-06
+629, @webjesusss, 1, 0, 1, 2, 1, 4,TweetDeck,Madrid,None,es,2010-11-14
+630, @weahriera, 1, 0, 1, 2, 2, 4,Twitter for Android,españa,None,es,2012-03-04
+631, @wceliaw, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2014-01-15
+632, @walter_garcia_, 1, 1, 0, 2, 2, 4,0,0,0,0,0
+633, @wagnersvalkyrie, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Torelló - Barcelona,None,es,2018-01-31
+634, @vtnsdhk9q1f9jmu, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2019-11-17
+635, @vroguetbezault, 1, 0, 1, 2, 3, 4,Twitter Web App,Bretagne  FRANCE,None,es,2011-08-15
+636, @voynavengando, 1, 0, 1, 2, 2, 3,Twitter for Android,Bahamas,None,es,2016-10-19
+637, @votalosam, 1, 0, 1, 3, 3, 4,Twitter for Android,España,None,es,2013-10-11
+638, @vomonros, 1, 0, 1, 1, 2, 3,Twitter for Android,Alboraia,None,es,2016-06-04
+639, @vlejolesblano, 1, 0, 1, 2, 2, 4,Twitter for Android,# Fracasadoscrew & Jotok memb,None,es,2019-10-08
+640, @vivirlavidasin1, 1, 0, 1, 1, 2, 2,Twitter for Android,None,None,es,2021-05-15
+641, @vitysegovia, 1, 0, 1, 2, 2, 3,Twitter for Android,Segovia,None,es,2011-09-05
+642, @vituning63, 1, 0, 1, 3, 3, 5,Twitter for Android,Las Palmas,Lascosasclaras143,es,2013-07-31
+643, @vitriolico, 1, 0, 1, 2, 2, 4,Twitter Web App,None,None,es,2011-04-07
+644, @visto90660522, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2019-08-20
+645, @visent05, 1, 0, 1, 2, 2, 3,Twitter for Android,None,None,es,2013-12-30
+646, @virgicyrus, 1, 0, 1, 2, 2, 4,Twitter for Android,Sanlúcar de Barrameda  España,None,es,2009-10-01
+647, @virgi27198487, 1, 0, 1, 1, 1, 3,Twitter for Android,None,None,es,2021-01-05
+648, @violetwarlock, 1, 0, 1, 2, 2, 4,Twitter for Android,Kaer Morhen,None,es,2016-02-28
+649, @violetacasla27, 1, 0, 1, 2, 2, 3,Twitter for iPhone,Madrid  Comunidad de Madrid,None,es,2019-03-07
+650, @violeta41273677, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2020-05-08
+651, @viniloderoure2, 1, 0, 1, 1, 2, 2,Twitter for Android,None,None,es,2021-06-03
+652, @vincentvega45, 1, 0, 1, 2, 2, 4,Twitter for Android,Madrid,None,es,2012-01-15
+653, @vikingosno2, 1, 0, 1, 2, 3, 4,Twitter for Android,None,None,es,2020-07-11
+654, @vigivi1, 1, 0, 1, 3, 3, 4,Twitter Web App,ESPAÑA,None,es,2016-06-06
+655, @vidc_, 1, 0, 1, 2, 2, 4,Twitter for Android,En algún lugar. ,None,es,2017-01-25
+656, @vidasangon, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2016-10-11
+657, @vidalmazzuca, 1, 1, 0, 1, 2, 3,0,0,0,0,0
+658, @victormforever, 1, 0, 1, 2, 1, 4,Twitter Web App,Alacant/Alicante  España,None,es,2013-05-13
+659, @victorlurks, 1, 0, 1, 2, 2, 4,Twitter for Android,Maresme  Vallés i Barcelona.,None,es,2017-01-24
+660, @victoriatyn, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Stockholm  Sverige,None,es,2013-08-14
+661, @vicoficialida, 1, 0, 1, 1, 2, 4,Twitter for Android,Asturies,None,es,2014-03-03
+662, @vickyronaldo7, 1, 0, 1, 3, 3, 5,Twitter for iPhone,Santiago Bernabéu,None,es,2011-01-18
+663, @vicky_diamandis, 1, 0, 1, 2, 2, 4,Twitter Web App,Murcia  España,None,es,2012-11-20
+664, @vicentomas, 1, 0, 1, 2, 2, 3,Twitter Web App,Alzira,None,es,2011-11-06
+665, @vicentescriva, 1, 0, 1, 2, 3, 3,Twitter Web App,almussafes,None,es,2009-08-30
+666, @veronica_mrtnz, 1, 0, 1, 2, 2, 4,Twitter for iPhone,🪐,None,es,2012-02-17
+667, @verocuevas12, 1, 1, 0, 0, 1, 1,Twitter for Android,Talavera,None,es,2021-05-17
+668, @verdes_brotes, 1, 0, 1, 4, 4, 4,Twitter Web App,None,None,es,2013-11-10
+669, @veneno_hyde, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2012-12-12
+670, @vendettanwo, 1, 0, 1, 3, 3, 5,Twitter Web App,None,None,es,2011-02-09
+671, @veintepuntouno_, 1, 0, 1, 3, 2, 5,Twitter for Android,None,None,es,2019-08-25
+672, @vazquez_juls, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2013-02-10
+673, @vayaropez, 1, 0, 1, 2, 2, 4,Twitter Web App,None,None,es,2011-08-09
+674, @varelseis, 1, 0, 1, 1, 2, 4,Twitter for Android,None,None,es,2014-06-04
+675, @vanessarag, 1, 0, 1, 1, 2, 3,Twitter for iPhone,Madrid  España,None,es,2010-10-26
+676, @valttrix, 1, 0, 1, 1, 2, 3,Twitter for iPhone,España,None,es,2019-03-21
+677, @valerii44, 1, 0, 1, 2, 2, 3,Twitter for iPhone,Córdoba,None,es,2011-11-05
+678, @valdovalentina, 1, 0, 1, 2, 2, 4,Twitter Web App,Barcelona/Sofia,None,es,2011-03-12
+679, @valdefidela, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2014-10-24
+680, @v3checa, 1, 0, 1, 2, 2, 4,Twitter for Android,Granada  España,None,es,2013-02-24
+681, @usermame_rock, 1, 0, 1, 2, 2, 4,Twitter for Android,suelo ser desubicado,None,es,2011-04-21
+682, @usamomote, 1, 0, 1, 2, 2, 4,Twitter for Android,Free Palestine ,None,es,2010-09-05
+683, @ursusbero, 1, 0, 1, 2, 2, 4,Twitter for Android,Malaca,None,es,2014-04-08
+684, @urcobr, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2012-06-08
+685, @unpokitodeporfa, 1, 0, 1, 3, 3, 4,Twitter for iPhone,Maltrecha EsPPaña,None,es,2013-01-22
+686, @unpasoxdelante, 1, 0, 1, 2, 2, 3,Twitter for Android,None,None,es,2016-06-13
+687, @unordinarytoy, 1, 0, 1, 2, 2, 5,Twitter for Android,Asturies,None,es,2013-04-30
+688, @universo_darwin, 1, 0, 1, 3, 3, 4,Twitter Web App,GN-z11,None,es,2019-12-30
+689, @unidos_espana, 1, 0, 1, 3, 3, 4,Twitter for iPhone,Cataluña  España,None,es,2018-05-16
+690, @undermyfeelings, 1, 0, 1, 3, 3, 5,Twitter for iPhone,Madrid  Comunidad de Madrid,None,es,2012-04-15
+691, @unaai_, 1, 0, 1, 2, 2, 3,Twitter for Android,BILBAO,None,es,2012-02-12
+692, @umiinori_, 1, 0, 1, 1, 1, 4,Twitter for iPhone,In a red dress and alone 🥀,None,es,2013-02-18
+693, @umiamaiofficia, 1, 0, 1, 3, 3, 4,Twitter for iPhone,Barcelona  España,None,es,2019-06-07
+694, @ultravioleett_, 1, 0, 1, 2, 3, 4,Twitter for iPhone,Tatooine (Madrid) She/they,None,es,2016-12-05
+695, @uligodness, 1, 0, 1, 2, 2, 3,Twitter for iPhone,bcn,None,es,2017-04-16
+696, @txemac, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Huelva  España,None,es,2009-12-05
+697, @txarles, 1, 0, 1, 2, 3, 4,Twitter for Android,Location,None,es,2009-04-30
+698, @txantxibiri, 1, 0, 1, 3, 3, 4,Twitter for Android,Ultramarinos,Madrid,es,2012-08-15
+699, @twitenriquesl, 1, 0, 1, 2, 2, 3,Twitter Web App,None,None,es,2010-06-25
+700, @tutostuto, 1, 0, 1, 2, 2, 3,Twitter for Android,None,None,es,2011-05-28
+701, @turnemartioct, 1, 0, 1, 2, 3, 4,Twitter for Android,- República Catalana - ,None,es,2013-09-15
+702, @tupatrialeganes, 1, 0, 1, 0, 0, 1,Twitter for Android,None,None,es,2020-09-10
+703, @tteo54, 1, 0, 1, 1, 2, 3,Twitter for iPhone,None,None,es,2019-01-24
+704, @troyana25, 1, 0, 1, 3, 3, 5,Twitter for iPhone,None,Lascosasclaras143,es,2013-11-02
+705, @trovador_helm, 1, 0, 1, 3, 3, 4,Twitter for Android,Madrid  España,None,es,2012-06-21
+706, @troppofelice, 1, 0, 1, 2, 3, 4,Twitter for iPhone,Castilla  Reino de España,None,es,2012-05-26
+707, @trollrater, 1, 0, 1, 2, 2, 4,Twitter for Android,Ubicuo,None,es,2016-02-10
+708, @trecedeltres, 1, 0, 1, 2, 2, 4,Twitter for Android,Vigo,None,es,2010-09-04
+709, @trca_1, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2017-08-02
+710, @tranoroa, 1, 0, 1, 0, 1, 3,Twitter for Android,España,None,es,2018-02-06
+711, @tradsir, 1, 0, 1, 2, 2, 4,Twitter for Android,Tokyo-to  Japan,None,es,2011-03-25
+712, @tractatusludwig, 1, 0, 1, 2, 2, 3,TweetDeck,Madrid  Comunidad de Madrid,None,es,2020-09-30
+713, @tousled_dev, 1, 0, 1, 2, 2, 4,Twitter Web App,Madrid  Comunidad de Madrid,None,es,2018-01-23
+714, @totalidadyou, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Sevilla  España,None,es,2019-01-04
+715, @tortipatasimp, 1, 0, 1, 2, 2, 4,Twitter for Android,she / her  18,None,es,2020-07-02
+716, @torollantoxnara, 1, 0, 1, 3, 2, 4,Twitter for iPhone,Sevilla  Andalucia,None,es,2011-11-12
+717, @tonyvk666, 1, 0, 1, 3, 3, 4,Twitter for Android,Vallekas,None,es,2019-12-30
+718, @tono1414tono, 1, 0, 1, 3, 3, 4,Twitter Web App,None,ISLANESFEMINISTA,es,2020-11-27
+719, @tonigutifoto, 1, 0, 1, 3, 3, 5,Twitter for Android,MaresmeLliureiTropical,None,es,2011-02-23
+720, @tonigines, 1, 0, 1, 3, 3, 4,Twitter for iPhone,barcelona,None,es,2012-03-09
+721, @toni_wanderlust, 1, 0, 1, 2, 2, 4,Twitter for Android,Saturno 🪐,None,es,2015-12-07
+722, @toni_blackout, 1, 0, 1, 3, 3, 4,Twitter for Android,Cataluña,None,es,2011-08-08
+723, @tomy_mdf, 1, 0, 1, 2, 2, 4,Twitter Web App,Madrid,None,es,2013-02-24
+724, @tomis2204, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2014-08-21
+725, @tomaseliesel1, 1, 0, 1, 3, 3, 5,Twitter for Android,Santiago de los Caballeros,None,es,2010-06-03
+726, @toloent, 1, 0, 1, 2, 2, 4,Twitter for Android,Madrid Spain,None,es,2011-12-26
+727, @tolindrosa, 1, 0, 1, 2, 2, 2,Twitter for iPhone,Bilbao  España,None,es,2018-07-22
+728, @to_bicho18, 1, 0, 1, 2, 2, 4,Twitter for Android,Por ahi.,None,es,2017-06-19
+729, @tnygarcia, 1, 0, 1, 2, 2, 4,Twitter Web App,Barcelona  España,None,es,2009-11-27
+730, @tmaesoromero, 1, 0, 1, 3, 3, 5,Twitter for Android,None,None,es,2012-10-01
+731, @titojalt, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2014-12-09
+732, @tirititantantan, 1, 0, 1, 2, 2, 4,Twitter for Android,Reino de España,None,es,2011-05-19
+733, @tinvslvpvs, 1, 0, 1, 2, 2, 3,Twitter Web App,Galicia-Spain,None,es,2011-01-09
+734, @tinosantiago, 1, 0, 1, 2, 2, 3,Twitter for Android,Galicia - Spain,None,es,2008-01-09
+735, @thorro01, 1, 0, 1, 3, 3, 4,Twitter for iPhone,España,None,es,2011-09-25
+736, @thisishelena13, 1, 0, 1, 2, 2, 4,Twitter for Android,Pigfarts,None,es,2010-11-04
+737, @thinkcatalonia, 1, 0, 1, 3, 3, 5,Twitter for Android,República de Catalunya,None,es,2013-12-09
+738, @thexavivalen, 1, 0, 1, 3, 3, 4,Twitter for Android,País Valencià,None,es,2012-10-14
+739, @thepeperico, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Barcelona (y Lleida),None,es,2011-09-15
+740, @thegenious_11, 1, 0, 1, 2, 3, 4,Twitter Web App,Taco Bell,None,es,2014-08-06
+741, @thefirefades_, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2012-07-20
+742, @thedentel, 1, 0, 1, 1, 2, 3,Twitter for Android,Hill Valley,None,es,2010-12-21
+743, @the_bilderberg_, 1, 0, 1, 1, 1, 2,Twitter for Android,None,None,es,2020-01-04
+744, @the_best_of_you, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Ireland.,None,es,2012-11-06
+745, @terrorifico1966, 1, 0, 1, 3, 3, 4,Twitter for Android,None,ENBlau,ca,2019-11-13
+746, @teresiiita22, 1, 0, 1, 2, 2, 3,Twitter for Android,Alpujarra Granadina ,None,es,2013-11-11
+747, @teresabujeros, 1, 0, 1, 3, 2, 5,Twitter for Android,Traverse Town. Madrid.,None,es,2009-12-13
+748, @terelucam, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Clínica López Ibor,None,es,2017-05-05
+749, @templario992, 1, 0, 1, 1, 2, 2,Twitter for iPhone,Madrid - Vascongadas 🇪🇸,None,es,2021-06-04
+750, @telonnius, 1, 0, 1, 3, 2, 4,Twitter Web App,A Coruña,None,es,2010-10-26
+751, @teletaby11, 1, 0, 1, 0, 2, 2,Twitter for iPhone,None,None,es,2021-02-21
+752, @telepozzas, 1, 0, 1, 3, 3, 5,Twitter for Android,CASTILLA LA NUEVA ESPAÑA,None,es,2015-03-31
+753, @teconozcodealgo, 1, 0, 1, 1, 2, 4,Twitter for Android,None,None,es,2011-11-23
+754, @tchaconn, 1, 0, 1, 2, 2, 3,Twitter for Android,sevilla,None,es,2019-11-05
+755, @tavinchy06, 1, 0, 1, 3, 3, 4,Twitter for Android,MADRID,None,es,2015-11-16
+756, @tarekcheriha, 1, 0, 1, 2, 2, 3,Twitter for Android,Salt  Girona,None,es,2015-11-29
+757, @taniaastray, 1, 0, 1, 1, 2, 3,Twitter Web App,None,None,es,2012-10-26
+758, @tangana_, 1, 0, 1, 1, 2, 4,Twitter for Android,MAdrid,None,es,2008-06-02
+759, @tanabacuario, 1, 0, 1, 1, 2, 4,Twitter for Android,Asturias ,None,es,2018-07-28
+760, @tamborise, 1, 0, 1, 0, 1, 2,Twitter for Android,Granada  España,None,es,2021-05-18
+761, @tamaralempicka4, 1, 0, 1, 3, 3, 5,Twitter for Android,None,None,es,2015-06-08
+762, @talonroto, 1, 0, 1, 3, 3, 4,Twitter for Android,La Tierra,None,es,2013-04-27
+763, @tackleberry07, 1, 0, 1, 2, 3, 4,Twitter for Android,depende del momento,None,es,2012-03-13
+764, @tabera42, 1, 0, 1, 3, 3, 4,Twitter for Android,Barcelona Cataluña España,None,es,2017-10-08
+765, @sztamzspui6ke0q, 1, 0, 1, 2, 2, 4,Twitter Web App,None,None,es,2020-01-15
+766, @symkaria, 1, 0, 1, 2, 3, 4,Twitter for Android,Valencia  España,None,es,2016-12-13
+767, @sylvalum, 1, 0, 1, 3, 2, 5,Twitter Web App,Agniratha & Madrid,None,es,2010-04-25
+768, @sxmelikeithot, 1, 0, 1, 2, 2, 5,Twitter for Android,En un lugar llamado mundo.,None,es,2016-07-25
+769, @swechsler_vg, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2015-11-29
+770, @swallow_q, 1, 0, 1, 2, 2, 3,Twitter for Android,Madrid,None,es,2015-02-24
+771, @svidorre, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Barcelona  Catalunya,None,es,2011-01-24
+772, @sv_bayk1, 1, 0, 1, 1, 1, 3,Twitter for Android,Baden-Württemberg  Deutschland,None,ca,2015-11-22
+773, @susurmiz, 1, 0, 1, 3, 3, 4,Twitter for Android,None,None,es,2013-08-19
+774, @sussieq76499917, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2020-04-19
+775, @susohernandez1, 1, 1, 0, 1, 2, 3,0,0,0,0,0
+776, @susoglosada, 1, 0, 1, 3, 3, 5,Twitter for Android,Santiago de Compostela  España,None,es,2014-06-12
+777, @susmonmonmon, 1, 0, 1, 3, 2, 5,Twitter for Android,the void,None,es,2012-09-10
+778, @susieth52316766, 1, 0, 1, 1, 2, 3,Twitter for Android, U.K.,None,es,2020-03-29
+779, @susanabv18, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2019-04-21
+780, @surf_aruma, 1, 0, 1, 3, 3, 3,Twitter Web App,None,None,es,2015-12-29
+781, @supertato76, 1, 0, 1, 1, 2, 4,Twitter for Android,None,None,es,2020-01-23
+782, @supereskere, 1, 0, 1, 1, 1, 4,Twitter for Android,None,None,es,2020-12-17
+783, @sunivamartin, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2012-02-26
+784, @sumerjita, 1, 0, 1, 3, 3, 4,Twitter for Android,None,None,es,2013-04-02
+785, @sumalen59, 1, 0, 1, 4, 4, 5,Twitter for Android,Valencia,None,es,2012-05-17
+786, @suirreal, 1, 1, 0, 4, 4, 5,0,0,0,0,0
+787, @sugar____moon, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2017-08-25
+788, @sufridasafo, 1, 0, 1, 3, 2, 4,Twitter for Android,None,None,es,2010-01-11
+789, @suenagudo, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2017-04-02
+790, @suddenlyisee_19, 1, 0, 1, 2, 2, 3,Twitter for iPhone,Orión,None,es,2015-09-09
+791, @submarinorojo, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Madrid  Comunidad de Madrid,None,es,2018-06-30
+792, @suabilbao, 1, 0, 1, 2, 1, 4,Twitter for Android,Euskal Herria,None,es,2017-05-24
+793, @stxrmygxrl, 1, 0, 1, 2, 2, 4,Twitter for iPhone,⛈ ᴛᴏʀᴍᴇɴᴛᴀs ʏ ɢᴀᴛᴏs. XXVI.,None,es,2017-01-06
+794, @stuckon505, 1, 0, 1, 2, 2, 4,Twitter for Android,procrastinando,None,es,2009-12-20
+795, @straycris_, 1, 0, 1, 2, 2, 4,Twitter for Android,My pace,None,es,2011-06-03
+796, @storvice, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Murcia  España,None,es,2011-09-10
+797, @stherho, 1, 1, 0, 2, 2, 4,0,0,0,0,0
+798, @stellatravesti, 1, 0, 1, 3, 3, 4,Twitter for Android,Madrid  Comunidad de Madrid,None,es,2019-10-09
+799, @starrizzy_, 1, 0, 1, 3, 2, 5,Twitter for Android,Badlands,None,es,2013-01-12
+800, @starbeequeen, 1, 0, 1, 1, 2, 4,Twitter for Android,None,None,es,2011-03-13
+801, @srjeronimus, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2013-02-04
+802, @sr_thatch, 1, 0, 1, 2, 2, 3,Twitter for Android,None,None,es,2018-04-04
+803, @sr_imon, 1, 0, 1, 2, 2, 4,Twitter for Android,Sevilla  España,None,es,2012-05-14
+804, @sportingdorian, 1, 0, 1, 2, 3, 3,Twitter Web App,GIJÓN-ASTURIAS-ESPAÑA,None,es,2012-10-01
+805, @spainoutsider, 1, 1, 0, 3, 2, 4,Twitter for iPhone,En el sXXI ,None,es,2020-03-14
+806, @spainfachaleco, 1, 0, 1, 0, 1, 3,Twitter for iPhone,None,None,es,2021-02-02
+807, @soyyomila, 1, 0, 1, 2, 2, 4,Twitter Web App,Madrid - España,None,es,2011-09-15
+808, @soyunapiedra_, 1, 0, 1, 1, 2, 4,Twitter Web App,None,None,es,2014-09-03
+809, @soypolarjeje, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2010-09-23
+810, @soypac, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Spain,None,es,2010-02-20
+811, @soynina1975, 1, 0, 1, 2, 2, 2,Twitter for Android,Tordera  República Catalana. ,None,ca,2016-11-04
+812, @soymujeryqu1, 1, 0, 1, 2, 2, 3,Twitter for Android,None,None,es,2020-11-24
+813, @soymariaentro, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2011-04-13
+814, @soylacroque, 1, 0, 1, 3, 2, 4,Twitter for iPhone,Barcelona  España,None,es,2011-11-09
+815, @soyesmeraldasp, 1, 0, 1, 2, 3, 4,Twitter for Android,None,None,es,2018-03-16
+816, @sos_rida, 1, 0, 1, 2, 2, 3,Twitter Web App,cordoba,None,es,2013-02-02
+817, @sorrocamei, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Catalunya  Espanya,None,es,2013-07-06
+818, @sorendix, 1, 0, 1, 2, 2, 4,Twitter for Android,12❤️🐼 Manu,None,es,2012-03-07
+819, @sopasconhondas, 1, 0, 1, 3, 3, 4,Twitter for Android,en cualquier parte,None,es,2013-05-15
+820, @sooniaher, 1, 0, 1, 2, 2, 3,Twitter for Android,Murcia  España ,None,es,2016-05-14
+821, @soniapr20, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,Ayuso,es,2014-10-07
+822, @soniamay1, 1, 0, 1, 2, 2, 4,Twitter for Android,Madrid  Comunidad de Madrid,None,es,2011-08-19
+823, @soniakarite, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2017-10-19
+824, @soniajornet, 1, 0, 1, 2, 2, 3,Twitter Web App,Dos Torres (Córdoba),None,es,2012-04-11
+825, @sonia_cm72, 1, 0, 1, 2, 2, 4,Twitter for iPad,None,None,es,2017-10-20
+826, @sonata_nautica, 1, 0, 1, 2, 3, 4,Twitter for Android,Alicante  España,None,es,2015-10-21
+827, @son_goanda, 1, 0, 1, 2, 2, 4,Twitter Web App,Vigo,None,es,2011-08-17
+828, @somnormals, 1, 1, 0, 3, 3, 4,Twitter for Android,None,None,es,2017-04-21
+829, @somehowclara, 1, 0, 1, 0, 1, 2,Twitter for iPhone,None,None,es,2020-07-30
+830, @somalotena, 1, 0, 1, 2, 2, 4,Twitter Web App,None,None,es,2017-11-10
+831, @solsitax, 1, 0, 1, 2, 3, 4,Twitter for Android,Vitacura  Chile,None,es,2009-03-23
+832, @soloporlosmemes, 1, 0, 1, 1, 2, 3,Twitter for Android,Valencia  España,None,es,2017-12-05
+833, @solermara, 1, 0, 1, 2, 2, 4,Twitter for Android,Sevilla  España,None,es,2012-01-23
+834, @soledad_murillo, 1, 0, 1, 4, 3, 3,Twitter for iPhone,Salamanca - España,None,es,2011-02-20
+835, @solecanda, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2014-08-24
+836, @solebolso9, 1, 0, 1, 2, 2, 5,Twitter for Android,Montevideo  Uruguay,None,es,2013-11-17
+837, @sofraja2, 1, 0, 1, 2, 3, 4,Twitter for Android,Reus,None,und,2015-01-13
+838, @sofiolo, 1, 0, 1, 2, 1, 4,Twitter Web App,None,None,es,2011-04-02
+839, @sofiia_3, 1, 0, 1, 2, 2, 4,Twitter for iPhone,València  Espanya,None,es,2012-10-07
+840, @socianalfabeti1, 1, 0, 1, 1, 1, 3,Twitter for Android,None,None,es,2021-04-21
+841, @snrf149, 1, 0, 1, 2, 2, 3,Twitter for Android,None,None,es,2011-09-20
+842, @sndr_01, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2016-02-24
+843, @smartimmart, 1, 0, 1, 2, 3, 4,Twitter for Android,Cambrils  Espanya,None,es,2012-02-28
+844, @slayernina, 1, 0, 1, 1, 2, 3,Twitter Web App,España,None,es,2014-10-15
+845, @skogul_valkyrja, 1, 0, 1, 2, 3, 4,Twitter Web App,España,None,es,2009-11-07
+846, @skinnysecuela, 1, 0, 1, 1, 2, 3,Twitter for Android,Los Angeles  CA,None,es,2021-01-03
+847, @skakeofanzine, 1, 1, 0, 1, 2, 3,0,0,0,0,0
+848, @sixxexosist, 1, 0, 1, 1, 2, 4,Twitter Web App,Athel Loren,None,es,2011-10-10
+849, @sixtotf, 1, 0, 1, 1, 1, 3,Twitter Web App,None,None,es,2015-11-04
+850, @sitasp, 1, 0, 1, 3, 3, 5,Twitter for iPhone,None,None,es,2011-01-21
+851, @sisisick, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2010-11-17
+852, @sisepuedeam, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2012-02-05
+853, @siroana76, 1, 0, 1, 2, 3, 4,Twitter for Android,None,None,es,2015-03-31
+854, @sirindingui, 1, 0, 1, 2, 2, 4,Twitter for iPhone,My island 🏝 she/her,None,es,2014-07-24
+855, @sintinosoynadam, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2016-01-02
+856, @sinelo1968, 1, 0, 1, 3, 3, 5,TweetDeck,Linares  Andalucía,None,es,2015-09-02
+857, @sinchaleco, 1, 0, 1, 3, 2, 4,Twitter for Android,None,None,es,2017-07-13
+858, @sin_chan_depor, 1, 0, 1, 2, 3, 4,Twitter for Android,None,None,es,2020-04-08
+859, @simp4_kai, 1, 0, 1, 2, 2, 4,Twitter for Android,. ,None,es,2015-12-05
+860, @silviasanz_, 1, 1, 0, 3, 2, 4,Twitter for Android,Madrid,None,es,2013-04-30
+861, @silviamorro, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Palma de Mallorca ,None,es,2011-10-07
+862, @silviablasco9, 1, 0, 1, 2, 2, 3,Twitter for Android,Logroño  España,None,es,2020-04-19
+863, @silviaalatra, 1, 0, 1, 3, 3, 5,Twitter for Android,None,None,es,2016-02-26
+864, @silviaadfd, 1, 0, 1, 3, 2, 4,Twitter for Android,Gran Canaria ,None,es,2015-06-21
+865, @silvia_alegria, 1, 0, 1, 2, 2, 4,Twitter for iPhone,viladecans,None,es,2011-08-29
+866, @silvi_ta, 1, 0, 1, 4, 3, 5,Twitter for iPhone,NYC Madrid Teherán Pekín ,None,es,2009-05-22
+867, @silky0987, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2017-03-27
+868, @silalamo, 1, 0, 1, 2, 2, 3,Twitter for iPhone,Las Palmas de Gran Canaria  España,None,es,2018-06-01
+869, @sikokosmik, 1, 0, 1, 3, 3, 5,Twitter for Android,AntiFascista🔻EuskalHerria,None,es,2013-03-16
+870, @sigridxcosta, 1, 0, 1, 3, 2, 5,Twitter for Android,None,None,es,2012-08-29
+871, @sietenodiya, 1, 0, 1, 2, 3, 4,Twitter for Android,Zaragoza  España,None,es,2015-04-29
+872, @shy96674376, 1, 0, 1, 1, 2, 3,Twitter Web App,None,None,es,2020-03-27
+873, @shirataraxia, 1, 0, 1, 3, 3, 4,Twitter for Android,Madrid,None,es,2016-11-11
+874, @shineyed, 1, 0, 1, 2, 2, 4,Twitter for Android,127.0.0.1,None,es,2019-11-13
+875, @shikynetail, 1, 0, 1, 2, 2, 4,Twitter for Android,Zaragoza  España,None,es,2011-07-19
+876, @shierbas124, 1, 0, 1, 2, 2, 3,Twitter for Android,Salamanca  España,None,es,2013-01-05
+877, @sheepa_21, 1, 0, 1, 2, 2, 4,Twitter for Android,Pontevedra  Galicia ,None,es,2015-05-25
+878, @shandy__18, 1, 0, 1, 1, 2, 2,Twitter for iPhone,None,None,es,2019-02-18
+879, @shalom79185531, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2020-03-25
+880, @shadowcharly, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2009-12-01
+881, @sfcsiempre1994, 1, 0, 1, 2, 2, 4,Twitter for Android,Sevilla  España,None,es,2018-01-20
+882, @sexysaxy1, 1, 0, 1, 1, 1, 4,Twitter for Android,None,None,es,2020-01-06
+883, @sexiest45, 1, 0, 1, 1, 2, 3,Twitter for Android,Barcelona  España,None,es,2021-05-04
+884, @sesebibi4, 1, 0, 1, 3, 3, 3,Twitter for Android,Badalonina,None,es,2017-09-16
+885, @serleovigildo, 1, 0, 1, 2, 2, 5,Twitter for Android,None,None,es,2012-08-28
+886, @sergitonta, 1, 0, 1, 2, 2, 5,Twitter for iPhone,None,None,es,2018-05-25
+887, @sergioserge1, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2013-02-21
+888, @sergiosariegu, 1, 0, 1, 3, 3, 5,Twitter for Android,Sariego Asturias,None,es,2010-07-28
+889, @sergioperezgea, 1, 0, 1, 1, 2, 2,Twitter for Android,Orihuela  Comunidad Valenciana,None,es,2012-09-13
+890, @sergiodlvega, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Madrid/España,None,es,2011-10-05
+891, @sergio_tna, 1, 1, 0, 2, 2, 4,0,0,0,0,0
+892, @sergio_palogut, 1, 0, 1, 2, 2, 3,Twitter for Android,Badajoz  España,None,es,2018-11-19
+893, @sergio_delh, 1, 0, 1, 2, 1, 3,Twitter Web App,None,None,es,2021-03-10
+894, @sergio_camoiras, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2010-07-23
+895, @sergio38539961, 1, 0, 1, 1, 2, 2,Twitter for Android,None,None,es,2020-09-17
+896, @serginava, 1, 0, 1, 2, 3, 4,Twitter for iPhone,None,None,es,2012-04-04
+897, @serendipitysxth, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Neurona Fumá de Kayla. ,None,es,2016-07-19
+898, @serendipiaty, 1, 0, 1, 4, 3, 5,Twitter for Android,Santiago Bernabéu,None,es,2014-07-19
+899, @serdeathsorrows, 1, 0, 1, 2, 2, 4,Twitter for Android,MyMind,None,es,2016-09-06
+900, @sequiade, 1, 0, 1, 0, 1, 3,Twitter for Android,None,None,es,2020-05-27
+901, @senyorforns, 1, 0, 1, 3, 2, 2,Twitter Web App,Extraparlamentari,None,es,2010-10-26
+902, @senpaidani20, 1, 0, 1, 1, 2, 4,Twitter for Android,Oviedo,None,es,2015-06-14
+903, @senildemente, 1, 0, 1, 2, 3, 3,Twitter Web App,Madrid,None,es,2019-06-19
+904, @semuret59, 1, 0, 1, 2, 3, 3,Twitter for Android,Zamora,None,es,2014-05-28
+905, @semponspuig, 1, 0, 1, 3, 3, 4,Twitter for Android,Barcelona,None,ca,2009-10-16
+906, @selu_torres, 1, 0, 1, 2, 3, 4,Twitter for Android,Badajoz,None,es,2010-03-13
+907, @seleniann, 1, 0, 1, 2, 2, 4,Twitter Web App,Del N.  vivo en el S. d España,None,es,2010-12-24
+908, @selagel, 1, 0, 1, 3, 3, 5,Twitter for Android,None,None,es,2010-12-13
+909, @secogenpuntos1, 1, 0, 1, 1, 2, 2,Twitter for Android,Madrid  Comunidad de Madrid,None,es,2021-06-03
+910, @seblascasas, 1, 0, 1, 2, 3, 4,Twitter for Android,Comunidad Valenciana  España,None,es,2013-08-23
+911, @sea_peace_, 1, 0, 1, 1, 1, 2,Twitter for Android,None,None,es,2019-10-02
+912, @scubanerdmiami, 1, 0, 1, 2, 2, 4,Twitter for Android,Look for me...,None,es,2009-06-16
+913, @sckumydcki, 1, 0, 1, 2, 2, 4,Twitter for Android,Almansa - Cullera,None,es,2012-10-04
+914, @scastillojara, 1, 0, 1, 2, 2, 2,Twitter for Android,Lima  Peru,None,es,2020-11-16
+915, @scarsland, 1, 0, 1, 2, 2, 4,Twitter for Android,Varekai,None,es,2013-05-09
+916, @scar45465369, 1, 0, 1, 1, 1, 3,Twitter for Android,Zaragoza  España,None,es,2020-05-06
+917, @sbsutil, 1, 0, 1, 1, 2, 3,Twitter for Android,None,None,es,2011-03-14
+918, @sb_gustavoo, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2012-02-09
+919, @saulfg11, 1, 0, 1, 1, 1, 2,Twitter for Android,None,None,es,2020-01-19
+920, @saruxi1, 1, 0, 1, 1, 2, 3,Twitter for Android,españa,None,es,2011-08-18
+921, @sarustark, 1, 0, 1, 2, 2, 3,Twitter for iPhone,None,None,es,2020-10-31
+922, @sariwi_97, 1, 0, 1, 2, 2, 4,Twitter for Android,mi burguitos ,None,es,2019-08-23
+923, @saritagm7, 1, 0, 1, 2, 2, 4,Twitter for Android,VICENTE CALDERÓN / Platform 9¾,None,es,2013-09-02
+924, @saritaalien96, 1, 0, 1, 2, 2, 2,Twitter for Android,None,None,es,2020-06-06
+925, @sararguez13, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Las palmas,None,es,2013-03-18
+926, @sararbarrantes, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2015-01-29
+927, @saraobrien_26, 1, 1, 0, 4, 3, 5,Twitter for Android,Madrid,None,es,2011-06-08
+928, @sarahconnor007, 1, 0, 1, 2, 2, 4,Twitter for Android,🇳🇬 🇺🇦,None,es,2011-11-26
+929, @sarafortesh, 1, 0, 1, 3, 2, 4,Twitter for iPhone,None,None,es,2013-11-29
+930, @sarafergut7, 1, 0, 1, 2, 2, 4,Twitter Web App,OhCaptainMyCaptain,None,es,2013-06-23
+931, @sarabrullwrites, 1, 0, 1, 1, 2, 2,Twitter for iPhone,Vilanova i la Geltrú,None,es,2021-03-01
+932, @sarabmartinez_, 1, 0, 1, 1, 2, 3,Twitter for iPhone,Comunidad de Madrid  España,None,es,2020-06-16
+933, @sara_sarona97, 1, 0, 1, 1, 1, 3,Twitter for Android,None,None,es,2015-09-14
+934, @sara_lopez_f, 1, 0, 1, 2, 2, 3,Twitter for iPhone,A Coruña,None,es,2010-09-04
+935, @sara_garciag, 1, 0, 1, 2, 1, 4,Twitter for Android,Salamanca  España,None,es,2013-11-23
+936, @saoretdvalencia, 1, 0, 1, 1, 2, 4,Twitter for Android,None,None,es,2019-07-07
+937, @sanz62_, 1, 0, 1, 3, 3, 4,Twitter for Android,Madrid  España,None,es,2012-07-23
+938, @santirg30, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2017-09-01
+939, @santi_040662, 1, 0, 1, 3, 2, 5,Twitter for Android,None,None,es,2017-02-27
+940, @santalucida, 1, 0, 1, 3, 3, 4,Twitter for Android,None,None,es,2009-04-14
+941, @sansarya8, 1, 0, 1, 3, 2, 4,Twitter for Android,None,None,es,2010-06-29
+942, @sanquiko, 1, 0, 1, 2, 2, 3,Twitter for Android,Madrid,None,es,2011-06-04
+943, @sanlloce, 1, 0, 1, 2, 2, 3,Twitter for iPhone,Alicante,None,es,2011-10-21
+944, @sankampillo, 1, 0, 1, 2, 3, 3,Twitter for Android,Oviedo,None,es,2011-05-17
+945, @sandy6191, 1, 0, 1, 2, 2, 4,Twitter for Android,España,None,es,2011-02-13
+946, @sandraortiz00, 1, 0, 1, 2, 2, 3,Twitter for iPhone,Comunidad de Madrid  España,None,es,2013-07-17
+947, @sandralerman, 1, 0, 1, 2, 2, 4,Twitter for Android,Madrid,None,es,2012-08-07
+948, @sandradespacho, 1, 1, 0, 2, 2, 4,0,0,0,0,0
+949, @sanderyolo878, 1, 0, 1, 2, 2, 4,Twitter Web App,None,None,es,2012-12-09
+950, @sancristofol, 1, 0, 1, 1, 1, 4,Twitter for Android,None,Lascosasclaras143,es,2014-02-26
+951, @sancheznena1, 1, 0, 1, 2, 2, 4,Twitter for iPhone,None,None,es,2013-09-23
+952, @samzanon11, 1, 0, 1, 2, 2, 3,Twitter for iPhone,Madrid  Comunidad de Madrid,barrotes,es,2015-05-03
+953, @samuel86948877, 1, 0, 1, 1, 2, 3,Twitter for Android,Santander  España,None,es,2019-11-04
+954, @sammymoly, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Palestina,None,es,2010-11-04
+955, @samdef01, 1, 0, 1, 2, 2, 4,Twitter for Android,Santa Marta  España,None,es,2012-12-27
+956, @sam__reiss, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2017-08-14
+957, @salvori88, 1, 0, 1, 1, 2, 4,Twitter for iPhone,None,None,es,2013-07-15
+958, @salvado04711483, 1, 0, 1, 3, 3, 5,Twitter for Android,None,None,es,2019-06-18
+959, @salva_escudero, 1, 0, 1, 3, 3, 4,Twitter for Android,El Morche y Torre d Benagalbón,None,es,2012-08-20
+960, @salogui13, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2013-08-20
+961, @salocinuy, 1, 0, 1, 4, 4, 5,Twitter for iPhone,Comentarista del Miedo.,None,es,2010-01-20
+962, @sal_682480046, 1, 0, 1, 2, 3, 4,Twitter for iPhone,Puertollano  Castilla-La Mancha,None,es,2015-03-02
+963, @sajoni0, 1, 0, 1, 1, 1, 3,Twitter for Android,None,None,es,2014-09-26
+964, @saenzvarona, 1, 0, 1, 3, 2, 5,Twitter Web App,Sotogrande ( Cádiz ) España,None,es,2011-06-03
+965, @sadbpdm, 1, 1, 0, 1, 2, 1,Twitter for Android,entre pixeles y grietas,None,es,2021-05-21
+966, @sabrinad_94, 1, 0, 1, 2, 2, 4,Twitter for iPhone,Cracovia  Polonia,None,es,2010-01-09
+967, @sabriis_b, 1, 0, 1, 2, 2, 5,Twitter for Android,España,None,es,2015-10-18
+968, @s4rd0n3s4, 1, 0, 1, 1, 2, 2,Twitter for Android,España,None,es,2019-09-08
+969, @s4nnyl0ck3r, 1, 0, 1, 2, 2, 4,Twitter for Android,Barcelona  España,None,es,2018-04-20
+970, @s3cruat, 1, 0, 1, 3, 3, 4,Twitter for Android,None,None,es,2019-07-26
+971, @ryunosuke_osm, 1, 0, 1, 2, 2, 4,Twitter for Android,Burgos [Spain],None,es,2011-09-23
+972, @rumbopropio, 1, 1, 0, 2, 2, 4,0,0,0,0,0
+973, @rumbolargo, 1, 0, 1, 2, 3, 4,Twitter for Android,Madrid y alrededores,None,es,2010-11-14
+974, @rullos618, 1, 0, 1, 4, 4, 5,Twitter Web App,None,None,es,2013-07-07
+975, @ruizfrco, 1, 0, 1, 2, 2, 5,Twitter Web App,jav4114@yahoo.es,None,es,2020-05-14
+976, @ruiza2100, 1, 0, 1, 1, 2, 2,Twitter for iPhone,None,None,es,2014-06-20
+977, @ruisu_l, 1, 0, 1, 2, 2, 4,Twitter for Android,None,None,es,2012-12-12
+978, @rubensgil81, 1, 0, 1, 2, 2, 4,Twitter for Android,Gijón,None,es,2013-03-03
+979, @rubencv87, 1, 0, 1, 2, 2, 4,Twitter Web App,Desde mi Chiringuito,None,es,2007-04-24
+980, @rroquedu, 1, 0, 1, 0, 2, 2,Twitter for Android,None,None,es,2019-05-22
+981, @rrarra18, 1, 0, 1, 2, 2, 4,Twitter Web App,Galicia,None,es,2012-05-26
+982, @rpascualverdu, 1, 0, 1, 4, 3, 4,Twitter for Android,Madrid,None,es,2013-09-26
+983, @royopaya, 1, 0, 1, 1, 2, 1,Twitter for iPhone,None,None,es,2020-10-13
+984, @roxlake, 1, 0, 1, 1, 2, 3,Twitter Web App,None,None,es,2011-02-20
+985, @rouco64, 1, 0, 1, 4, 3, 5,Twitter for Android,España,None,es,2014-10-09
+986, @rossssssssssa, 1, 0, 1, 2, 2, 3,Twitter for Android,el bach d artes nano,None,es,2019-07-30
+987, @rossend7, 1, 0, 1, 3, 3, 5,Twitter for Android,None,None,es,2018-03-14
+988, @roski_hm, 1, 0, 1, 2, 2, 2,Twitter for Android,Graná,None,es,2013-10-04
+989, @roser_morraja, 1, 0, 1, 3, 3, 5,Twitter for Android,None,None,es,2012-04-02
+990, @rosenkevalier, 1, 0, 1, 2, 2, 4,Twitter for Android,Pripiat,None,es,2010-12-18
+991, @rosasenlacara, 1, 0, 1, 1, 2, 2,Twitter for iPhone,None,None,es,2017-06-23
+992, @rosariovalbuena, 1, 0, 1, 3, 3, 5,Twitter for Android,None,None,es,2016-05-21
+993, @rosario17274226, 1, 0, 1, 2, 2, 5,Twitter for iPhone,None,None,es,2012-12-06
+994, @rosanachiapella, 1, 0, 1, 2, 2, 3,Twitter for iPhone,Madrid,None,es,2012-06-02
+995, @rosamsg1982, 1, 0, 1, 3, 3, 4,Twitter for Android,Extremadura  España,None,es,2013-08-30
+996, @rosalpezsimn1, 1, 0, 1, 2, 2, 4,Twitter for Android,Zaragoza  España,None,es,2019-10-16
+997, @rosajim93785428, 1, 0, 1, 1, 1, 3,Twitter for Android,None,None,es,2020-11-04
+998, @roro_sksk, 1, 0, 1, 1, 2, 4,Twitter for Android,None,None,es,2018-08-16
+999, @rondofrondo, 1, 0, 1, 1, 3, 3,Twitter for Android,None,Lascosasclaras143,es,2014-02-01
+edgedef>node1 VARCHAR,node2 VARCHAR, directed BOOLEAN, weight INT, app VARCHAR, HT VARCHAR, lang VARCHAR,join_date VARCHAR
+2,21,true,1,Twitter for Android,None,es,2012-04-18
+4,27,true,1,Twitter for iPhone,None,es,2011-09-19
+22,22,true,1,Twitter for iPhone,None,es,2010-10-18
+43,5,true,1,Twitter for Android,None,es,2010-02-18
+43,7,true,1,Twitter for Android,None,es,2010-02-18
+43,9,true,1,Twitter for Android,None,es,2010-02-18
+43,10,true,1,Twitter for Android,None,es,2010-02-18
+43,24,true,1,Twitter for Android,None,es,2010-02-18
+43,27,true,1,Twitter for Android,None,es,2010-02-18
+43,29,true,1,Twitter for Android,None,es,2010-02-18
+43,50,true,1,Twitter for Android,None,es,2010-02-18
+43,86,true,1,Twitter for Android,None,es,2010-02-18
+43,168,true,1,Twitter for Android,None,es,2010-02-18
+43,451,true,1,Twitter for Android,None,es,2010-02-18
+43,657,true,1,Twitter for Android,None,es,2010-02-18
+52,52,true,1,Twitter for Android,None,es,2019-12-18
+65,65,true,1,Twitter Web App,None,es,2010-09-21
+65,176,true,1,Twitter Web App,None,und,2010-09-21
+68,3,true,1,Twitter for Android,None,es,2016-01-15
+68,6,true,1,Twitter for Android,None,es,2016-01-15
+68,11,true,1,Twitter for Android,None,es,2016-01-15
+68,19,true,1,Twitter for Android,None,es,2016-01-15
+68,20,true,1,Twitter for Android,None,es,2016-01-15
+68,22,true,1,Twitter for Android,None,es,2016-01-15
+68,35,true,1,Twitter for Android,None,es,2016-01-15
+68,47,true,1,Twitter for Android,None,es,2016-01-15
+69,1,true,1,Twitter Web App,None,es,2013-05-10
+69,8,true,1,Twitter Web App,None,es,2013-05-10
+69,16,true,2,Twitter Web App,Lascosasclaras143,es,2013-05-10
+69,28,true,1,Twitter Web App,None,es,2013-05-10
+69,409,true,1,Twitter Web App,LasCosasClaras143,es,2013-05-10
+71,1,true,1,Twitter for Android,None,es,2020-03-23
+71,10,true,1,Twitter for Android,None,es,2020-03-23
+71,16,true,1,Twitter for Android,Lascosasclaras143,es,2020-03-23
+71,24,true,1,Twitter for Android,None,es,2020-03-23
+71,26,true,1,Twitter for Android,None,es,2020-03-23
+71,56,true,1,Twitter for Android,None,es,2020-03-23
+71,66,true,1,Twitter for Android,None,es,2020-03-23
+71,74,true,1,Twitter for Android,None,es,2020-03-23
+76,10,true,1,Twitter Web App,None,es,2015-04-11
+76,25,true,1,Twitter Web App,None,es,2015-04-11
+76,26,true,1,Twitter Web App,None,es,2015-04-11
+76,31,true,1,Twitter Web App,None,es,2015-04-11
+76,52,true,1,Twitter Web App,None,es,2015-04-11
+76,66,true,1,Twitter Web App,None,es,2015-04-11
+76,107,true,1,Twitter Web App,None,es,2015-04-11
+81,2,true,1,Twitter for iPhone,None,es,2020-05-09
+81,3,true,2,Twitter for iPhone,None,es,2020-05-09
+81,6,true,1,Twitter for iPhone,None,es,2020-05-09
+81,21,true,1,Twitter for iPhone,None,es,2020-05-09
+81,106,true,1,Twitter for iPhone,None,es,2020-05-09
+83,1,true,1,Twitter Web App,None,es,2019-12-29
+83,10,true,1,Twitter Web App,None,es,2019-12-29
+83,14,true,1,Twitter Web App,None,es,2019-12-29
+83,16,true,1,Twitter Web App,Lascosasclaras143,es,2019-12-29
+83,25,true,1,Twitter Web App,None,es,2019-12-29
+83,28,true,1,Twitter Web App,None,es,2019-12-29
+84,1,true,1,Twitter Web App,None,es,2012-03-27
+84,5,true,1,Twitter Web App,None,es,2012-03-27
+84,10,true,1,Twitter Web App,None,es,2012-03-27
+84,12,true,1,Twitter Web App,None,es,2012-03-27
+84,49,true,1,Twitter Web App,None,es,2012-03-27
+84,66,true,1,Twitter Web App,None,es,2012-03-27
+88,6,true,2,Twitter for Android,None,es,2012-08-28
+88,23,true,1,Twitter for Android,None,es,2012-08-28
+88,266,true,1,Twitter for Android,None,es,2012-08-28
+89,89,true,2,Twitter for Android,None,es,2020-04-29
+90,6,true,1,Twitter for iPad,None,es,2012-11-27
+90,22,true,1,Twitter for iPad,None,es,2012-11-27
+90,102,true,1,Twitter for iPad,None,ca,2012-11-27
+90,118,true,1,Twitter for iPad,GRANDE,es,2012-11-27
+90,490,true,1,Twitter for iPad,None,es,2012-11-27
+92,1,true,1,Twitter for Android,None,es,2014-07-10
+92,7,true,2,Twitter for Android,None,es,2014-07-10
+92,12,true,1,Twitter for Android,None,es,2014-07-10
+92,16,true,2,Twitter for Android,Lascosasclaras143,es,2014-07-10
+93,87,true,1,Twitter for Android,None,es,2015-04-17
+94,6,true,1,Twitter Web App,None,es,2012-01-09
+98,1,true,1,Twitter for Android,None,es,2012-12-09
+98,7,true,1,Twitter for Android,None,es,2012-12-09
+98,13,true,1,Twitter for Android,None,es,2012-12-09
+98,29,true,1,Twitter for Android,None,es,2012-12-09
+98,31,true,1,Twitter for Android,None,es,2012-12-09
+103,7,true,2,Twitter Web App,None,es,2021-04-27
+103,42,true,1,Twitter Web App,None,es,2021-04-27
+103,74,true,1,Twitter Web App,None,es,2021-04-27
+103,318,true,1,Twitter Web App,None,es,2021-04-27
+105,0,true,1,Twitter Web App,None,es,2016-05-01
+105,3,true,1,Twitter Web App,None,es,2016-05-01
+105,6,true,1,Twitter Web App,None,es,2016-05-01
+105,38,true,1,Twitter Web App,None,es,2016-05-01
+105,57,true,1,Twitter Web App,None,es,2016-05-01
+107,66,true,1,Twitter for Android,None,es,2017-03-11
+108,1,true,1,Twitter Web App,None,es,2011-11-24
+108,5,true,1,Twitter Web App,None,es,2011-11-24
+108,10,true,1,Twitter Web App,None,es,2011-11-24
+108,16,true,1,Twitter Web App,Lascosasclaras143,es,2011-11-24
+108,26,true,1,Twitter Web App,None,es,2011-11-24
+110,1,true,1,Twitter for Android,None,es,2011-05-09
+110,7,true,1,Twitter for Android,None,es,2011-05-09
+110,28,true,1,Twitter for Android,None,es,2011-05-09
+110,86,true,1,Twitter for Android,None,es,2011-05-09
+111,169,true,1,Twitter Web App,None,es,2011-05-17
+112,3,true,1,Twitter for Android,None,es,2012-06-30
+112,11,true,1,Twitter for Android,None,es,2012-06-30
+112,20,true,1,Twitter for Android,None,es,2012-06-30
+112,37,true,1,Twitter for Android,None,es,2012-06-30
+113,9,true,1,Twitter for Android,None,es,2015-01-04
+113,24,true,1,Twitter for Android,None,es,2015-01-04
+113,28,true,1,Twitter for Android,None,es,2015-01-04
+113,46,true,1,Twitter for Android,None,es,2015-01-04
+115,3,true,1,Twitter for Android,None,es,2011-05-03
+115,20,true,1,Twitter for Android,None,es,2011-05-03
+115,47,true,1,Twitter for Android,None,es,2011-05-03
+115,397,true,1,Twitter for Android,None,es,2011-05-03
+119,5,true,1,Twitter Web App,None,es,2012-06-10
+119,29,true,1,Twitter Web App,None,es,2012-06-10
+119,111,true,1,Twitter Web App,None,es,2012-06-10
+119,169,true,1,Twitter Web App,None,es,2012-06-10
+120,19,true,1,Twitter for iPhone,None,es,2013-03-11
+120,20,true,1,Twitter for iPhone,None,es,2013-03-11
+120,41,true,1,Twitter for iPhone,None,es,2013-03-11
+120,295,true,1,Twitter for iPhone,None,es,2013-03-11
+121,7,true,1,Twitter for iPhone,None,es,2011-05-01
+121,8,true,1,Twitter for iPhone,None,es,2011-05-01
+121,10,true,1,Twitter for iPhone,None,es,2011-05-01
+121,117,true,1,Twitter for iPhone,None,es,2011-05-01
+122,1,true,1,Twitter for Android,None,es,2009-03-27
+122,5,true,1,Twitter for Android,None,es,2009-03-27
+122,12,true,1,Twitter for Android,None,es,2009-03-27
+122,240,true,1,Twitter for Android,None,es,2009-03-27
+123,2,true,1,Twitter for iPhone,None,es,2011-03-23
+123,17,true,1,Twitter for iPhone,None,es,2011-03-23
+123,338,true,1,Twitter for iPhone,None,es,2011-03-23
+124,124,true,2,Twitter for iPhone,None,es,2021-03-14
+125,311,true,1,Twitter for Android,None,es,2011-01-28
+127,1,true,1,Twitter for Android,None,es,2014-05-03
+127,8,true,1,Twitter for Android,None,es,2014-05-03
+127,28,true,1,Twitter for Android,None,es,2014-05-03
+127,39,true,1,Twitter for Android,None,es,2014-05-03
+128,128,true,1,Twitter for iPhone,None,en,2020-03-02
+129,80,true,1,Twitter for Android,None,es,2013-03-27
+129,102,true,1,Twitter for Android,None,ca,2013-03-27
+129,118,true,1,Twitter for Android,GRANDE,es,2013-03-27
+129,527,true,1,Twitter for Android,None,es,2013-03-27
+130,1,true,1,Twitter for iPhone,None,es,2008-11-27
+130,7,true,1,Twitter for iPhone,None,es,2008-11-27
+130,40,true,1,Twitter for iPhone,None,es,2008-11-27
+130,49,true,1,Twitter for iPhone,None,es,2008-11-27
+131,1,true,1,Twitter for Android,None,es,2013-01-16
+131,8,true,1,Twitter for Android,None,es,2013-01-16
+131,24,true,1,Twitter for Android,None,es,2013-01-16
+131,26,true,1,Twitter for Android,None,es,2013-01-16
+132,6,true,1,Twitter for Android,None,es,2021-03-30
+132,11,true,1,Twitter for Android,None,es,2021-03-30
+132,19,true,1,Twitter for Android,None,es,2021-03-30
+132,57,true,1,Twitter for Android,None,es,2021-03-30
+133,3,true,1,Twitter for iPhone,None,es,2011-10-09
+133,6,true,1,Twitter for iPhone,None,es,2011-10-09
+133,23,true,1,Twitter for iPhone,None,es,2011-10-09
+133,144,true,1,Twitter for iPhone,None,es,2011-10-09
+135,1,true,1,Twitter for Android,None,es,2009-06-03
+135,5,true,1,Twitter for Android,None,es,2009-06-03
+135,45,true,1,Twitter for Android,Madrid,es,2009-06-03
+136,8,true,1,Twitter for Android,None,es,2017-07-14
+136,24,true,1,Twitter for Android,None,es,2017-07-14
+136,32,true,1,Twitter for Android,None,es,2017-07-14
+136,189,true,1,Twitter for Android,None,es,2017-07-14
+137,1,true,1,Twitter for Android,None,es,2012-11-11
+137,4,true,1,Twitter for Android,None,es,2012-11-11
+137,8,true,1,Twitter for Android,None,es,2012-11-11
+137,14,true,1,Twitter for Android,None,es,2012-11-11
+138,2,true,1,Twitter for Android,None,es,2019-11-13
+138,37,true,1,Twitter for Android,None,es,2019-11-13
+138,51,true,1,Twitter for Android,None,es,2019-11-13
+138,140,true,1,Twitter for Android,None,es,2019-11-13
+139,139,true,1,Twitter for Android,None,es,2013-04-09
+141,5,true,1,Twitter for iPhone,None,es,2016-01-03
+141,7,true,2,Twitter for iPhone,None,es,2016-01-03
+141,10,true,1,Twitter for iPhone,None,es,2016-01-03
+142,19,true,1,Twitter for Android,None,es,2009-06-18
+142,20,true,1,Twitter for Android,None,es,2009-06-18
+142,41,true,1,Twitter for Android,None,es,2009-06-18
+142,295,true,1,Twitter for Android,None,es,2009-06-18
+143,1,true,1,Twitter for Android,None,es,2017-07-16
+143,8,true,1,Twitter for Android,None,es,2017-07-16
+143,25,true,1,Twitter for Android,None,es,2017-07-16
+143,46,true,1,Twitter for Android,None,es,2017-07-16
+145,1,true,1,Twitter for Android,None,es,2016-12-30
+145,7,true,2,Twitter for Android,None,es,2016-12-30
+145,10,true,1,Twitter for Android,None,es,2016-12-30
+146,2,true,1,Twitter for Android,None,es,2011-03-22
+146,20,true,1,Twitter for Android,None,es,2011-03-22
+146,100,true,1,Twitter for Android,None,es,2011-03-22
+147,11,true,1,Twitter for iPad,None,es,2019-09-01
+147,23,true,1,Twitter for iPad,None,es,2019-09-01
+147,47,true,1,Twitter for iPad,None,es,2019-09-01
+147,348,true,1,Twitter for iPad,None,es,2019-09-01
+148,6,true,2,Twitter for Android,None,es,2015-03-13
+148,19,true,1,Twitter for Android,None,es,2015-03-13
+148,20,true,1,Twitter for Android,None,es,2015-03-13
+150,1,true,1,Twitter for Android,None,es,2020-08-31
+150,5,true,1,Twitter for Android,None,es,2020-08-31
+150,7,true,2,Twitter for Android,None,es,2020-08-31
+151,5,true,1,Twitter for Android,None,es,2020-05-04
+151,7,true,1,Twitter for Android,None,es,2020-05-04
+151,73,true,1,Twitter for Android,SpainIsAFascistState,ca,2020-05-04
+152,9,true,1,Twitter for Android,None,es,2010-10-25
+153,1,true,1,Twitter for Android,None,es,2021-03-18
+153,10,true,1,Twitter for Android,None,es,2021-03-18
+153,13,true,1,Twitter for Android,None,es,2021-03-18
+154,5,true,1,Twitter for Android,None,es,2019-12-30
+154,9,true,1,Twitter for Android,None,es,2019-12-30
+154,34,true,1,Twitter for Android,None,es,2019-12-30
+155,7,true,1,Twitter for Android,None,es,2012-02-24
+155,9,true,1,Twitter for Android,None,es,2012-02-24
+155,34,true,1,Twitter for Android,None,es,2012-02-24
+156,2,true,1,Twitter for iPhone,None,es,2010-10-07
+156,21,true,1,Twitter for iPhone,None,es,2010-10-07
+157,19,true,1,Twitter Web App,None,es,2019-02-05
+157,20,true,1,Twitter Web App,None,es,2019-02-05
+157,41,true,1,Twitter Web App,None,es,2019-02-05
+158,12,true,1,Twitter for Android,None,es,2014-03-27
+158,26,true,1,Twitter for Android,None,es,2014-03-27
+158,341,true,1,Twitter for Android,None,es,2014-03-27
+162,4,true,1,Twitter for iPhone,None,es,2018-09-19
+162,13,true,1,Twitter for iPhone,None,es,2018-09-19
+162,14,true,1,Twitter for iPhone,None,es,2018-09-19
+163,3,true,1,Twitter for Android,None,es,2010-03-25
+163,57,true,1,Twitter for Android,None,es,2010-03-25
+164,1,true,1,Twitter for Android,None,es,2014-01-31
+164,5,true,1,Twitter for Android,None,es,2014-01-31
+164,12,true,1,Twitter for Android,None,es,2014-01-31
+165,30,true,2,Twitter for Android,None,es,2011-07-04
+165,38,true,1,Twitter for Android,None,es,2011-07-04
+166,1,true,1,Twitter for Android,None,es,2015-05-06
+166,5,true,1,Twitter for Android,None,es,2015-05-06
+166,8,true,1,Twitter for Android,None,es,2015-05-06
+167,7,true,1,Twitter for Android,None,es,2019-01-17
+167,10,true,1,Twitter for Android,None,es,2019-01-17
+167,28,true,1,Twitter for Android,None,es,2019-01-17
+168,317,true,1,Twitter for Android,None,es,2014-08-23
+170,1,true,1,Twitter for Android,None,es,2016-12-27
+170,16,true,1,Twitter for Android,Lascosasclaras143,es,2016-12-27
+170,29,true,1,Twitter for Android,None,es,2016-12-27
+171,3,true,1,Twitter for iPhone,None,es,2014-12-29
+171,6,true,1,Twitter for iPhone,None,es,2014-12-29
+171,23,true,1,Twitter for iPhone,None,es,2014-12-29
+172,42,true,1,Twitter for Android,None,es,2010-06-24
+172,139,true,2,Twitter for Android,None,es,2010-06-24
+173,25,true,1,Twitter for Android,None,es,2016-05-23
+173,26,true,1,Twitter for Android,None,es,2016-05-23
+173,32,true,1,Twitter for Android,None,es,2016-05-23
+174,0,true,1,Twitter for Android,None,es,2020-04-17
+174,1,true,1,Twitter for Android,None,es,2020-04-17
+174,15,true,1,Twitter for Android,None,es,2020-04-17
+175,0,true,1,Twitter for Android,None,es,2012-04-02
+175,2,true,1,Twitter for Android,None,es,2012-04-02
+175,6,true,1,Twitter for Android,None,es,2012-04-02
+176,10,true,1,Twitter for Android,None,es,2013-02-02
+176,74,true,1,Twitter for Android,None,es,2013-02-02
+177,2,true,1,Twitter for Android,None,es,2021-05-17
+177,17,true,1,Twitter for Android,None,es,2021-05-17
+177,21,true,1,Twitter for Android,None,es,2021-05-17
+178,8,true,1,Twitter for Android,None,es,2012-11-29
+178,10,true,1,Twitter for Android,None,es,2012-11-29
+178,95,true,1,Twitter for Android,None,es,2012-11-29
+179,24,true,1,Twitter for Android,None,es,2021-03-22
+179,26,true,1,Twitter for Android,None,es,2021-03-22
+179,39,true,1,Twitter for Android,None,es,2021-03-22
+180,5,true,1,Twitter for iPhone,None,es,2012-06-28
+180,8,true,1,Twitter for iPhone,None,es,2012-06-28
+180,34,true,1,Twitter for iPhone,None,es,2012-06-28
+181,8,true,1,Twitter for Android,None,es,2011-12-20
+181,10,true,1,Twitter for Android,None,es,2011-12-20
+181,28,true,1,Twitter for Android,None,es,2011-12-20
+182,2,true,1,Twitter Web App,None,es,2013-08-07
+182,3,true,1,Twitter Web App,None,es,2013-08-07
+182,35,true,1,Twitter Web App,None,es,2013-08-07
+184,38,true,1,Twitter for Android,None,es,2020-07-21
+184,51,true,1,Twitter for Android,None,es,2020-07-21
+184,62,true,1,Twitter for Android,None,es,2020-07-21
+185,2,true,1,Twitter for Android,None,es,2012-01-08
+185,11,true,1,Twitter for Android,None,es,2012-01-08
+185,41,true,1,Twitter for Android,None,es,2012-01-08
+186,13,true,1,Twitter for Android,None,es,2017-03-09
+186,25,true,1,Twitter for Android,None,es,2017-03-09
+186,26,true,1,Twitter for Android,None,es,2017-03-09
+187,6,true,1,Twitter for iPhone,None,es,2020-12-15
+187,22,true,1,Twitter for iPhone,None,es,2020-12-15
+187,35,true,1,Twitter for iPhone,None,es,2020-12-15
+188,25,true,1,Twitter for Android,None,es,2015-07-22
+188,26,true,1,Twitter for Android,None,es,2015-07-22
+188,45,true,1,Twitter for Android,Madrid,es,2015-07-22
+190,46,true,1,Twitter for Android,None,es,2010-02-14
+190,439,true,1,Twitter for Android,None,es,2010-02-14
+190,551,true,1,Twitter for Android,None,und,2010-02-14
+191,1,true,1,Twitter for Android,None,es,2012-01-31
+191,8,true,1,Twitter for Android,None,es,2012-01-31
+191,34,true,1,Twitter for Android,None,es,2012-01-31
+192,2,true,1,Twitter Web App,None,es,2012-01-09
+192,30,true,2,Twitter Web App,None,es,2012-01-09
+193,2,true,1,Twitter for iPhone,None,es,2014-12-16
+193,11,true,1,Twitter for iPhone,None,es,2014-12-16
+193,21,true,1,Twitter for iPhone,None,es,2014-12-16
+194,7,true,1,Twitter for Android,None,es,2011-05-29
+194,10,true,1,Twitter for Android,None,es,2011-05-29
+194,13,true,1,Twitter for Android,None,es,2011-05-29
+195,7,true,1,Twitter for Android,None,es,2014-11-26
+195,10,true,1,Twitter for Android,None,es,2014-11-26
+195,107,true,1,Twitter for Android,None,es,2014-11-26
+196,8,true,1,Twitter Web App,None,es,2012-01-27
+196,14,true,1,Twitter Web App,None,es,2012-01-27
+196,25,true,1,Twitter Web App,None,es,2012-01-27
+197,5,true,1,Twitter for Android,None,es,2014-01-03
+197,25,true,1,Twitter for Android,None,es,2014-01-03
+197,52,true,1,Twitter for Android,None,es,2014-01-03
+198,7,true,1,Twitter for Android,None,es,2020-10-08
+198,12,true,1,Twitter for Android,None,es,2020-10-08
+198,45,true,1,Twitter for Android,Madrid,es,2020-10-08
+201,0,true,1,Twitter for Android,None,es,2011-07-10
+201,1,true,1,Twitter for Android,None,es,2011-07-10
+201,109,true,1,Twitter for Android,None,es,2011-07-10
+203,2,true,1,Twitter Web App,None,es,2014-08-20
+203,6,true,1,Twitter Web App,None,es,2014-08-20
+203,23,true,1,Twitter Web App,None,es,2014-08-20
+205,33,true,1,Twitter Web App,None,es,2015-01-24
+205,51,true,1,Twitter Web App,None,es,2015-01-24
+205,70,true,1,Twitter Web App,None,es,2015-01-24
+206,1,true,1,Twitter for Android,None,es,2019-12-17
+206,25,true,1,Twitter for Android,None,es,2019-12-17
+206,56,true,1,Twitter for Android,None,es,2019-12-17
+207,3,true,1,Twitter for iPhone,None,es,2019-11-11
+207,33,true,1,Twitter for iPhone,None,es,2019-11-11
+207,60,true,1,Twitter for iPhone,None,es,2019-11-11
+208,1,true,1,Twitter for Android,None,es,2014-03-12
+208,5,true,1,Twitter for Android,None,es,2014-03-12
+208,10,true,1,Twitter for Android,None,es,2014-03-12
+209,11,true,1,Twitter for Android,None,es,2016-03-25
+209,64,true,1,Twitter for Android,None,es,2016-03-25
+211,9,true,1,Twitter for Android,None,es,2018-01-11
+211,34,true,1,Twitter for Android,None,es,2018-01-11
+211,73,true,1,Twitter for Android,SpainIsAFascistState,ca,2018-01-11
+212,11,true,1,Twitter for iPhone,None,es,2012-01-20
+212,19,true,1,Twitter for iPhone,None,es,2012-01-20
+212,632,true,1,Twitter for iPhone,None,es,2012-01-20
+214,0,true,1,Twitter for Android,None,es,2016-05-15
+214,7,true,1,Twitter for Android,None,es,2016-05-15
+214,8,true,1,Twitter for Android,None,es,2016-05-15
+215,11,true,1,Twitter for iPhone,None,es,2019-05-18
+215,19,true,1,Twitter for iPhone,None,es,2019-05-18
+215,20,true,1,Twitter for iPhone,None,es,2019-05-18
+216,1,true,1,Twitter for iPhone,None,es,2013-10-01
+216,588,true,1,Twitter for iPhone,None,es,2013-10-01
+217,3,true,1,Twitter for Android,None,es,2012-05-14
+217,22,true,1,Twitter for Android,None,es,2012-05-14
+217,343,true,1,Twitter for Android,None,es,2012-05-14
+218,11,true,1,Twitter for Android,None,es,2011-04-24
+218,19,true,1,Twitter for Android,None,es,2011-04-24
+218,20,true,1,Twitter for Android,None,es,2011-04-24
+219,1,true,1,Twitter for Android,None,es,2018-01-07
+219,7,true,1,Twitter for Android,None,es,2018-01-07
+219,28,true,1,Twitter for Android,None,es,2018-01-07
+220,7,true,1,Twitter for Android,None,es,2021-03-28
+220,8,true,1,Twitter for Android,None,es,2021-03-28
+220,28,true,1,Twitter for Android,None,es,2021-03-28
+221,6,true,1,Twitter for Android,None,es,2011-05-19
+221,22,true,1,Twitter for Android,None,es,2011-05-19
+221,47,true,1,Twitter for Android,None,es,2011-05-19
+222,0,true,1,Twitter for iPhone,None,es,2012-05-07
+222,1,true,1,Twitter for iPhone,None,es,2012-05-07
+222,4,true,1,Twitter for iPhone,None,es,2012-05-07
+223,5,true,1,Twitter for Android,None,es,2017-09-16
+223,7,true,1,Twitter for Android,None,es,2017-09-16
+223,10,true,1,Twitter for Android,None,es,2017-09-16
+224,1,true,1,Twitter for Android,None,es,2011-01-20
+224,5,true,1,Twitter for Android,None,es,2011-01-20
+224,34,true,1,Twitter for Android,None,es,2011-01-20
+225,3,true,1,Twitter for Android,None,es,2020-04-28
+225,22,true,1,Twitter for Android,None,es,2020-04-28
+225,35,true,1,Twitter for Android,None,es,2020-04-28
+226,1,true,1,Twitter for Android,None,es,2011-04-09
+226,12,true,1,Twitter for Android,None,es,2011-04-09
+227,5,true,1,Twitter for Android,None,es,2013-10-04
+227,8,true,1,Twitter for Android,None,es,2013-10-04
+227,10,true,1,Twitter for Android,None,es,2013-10-04
+228,5,true,1,Twitter for Android,None,es,2011-05-20
+228,12,true,1,Twitter Web App,None,es,2011-05-20
+228,14,true,1,Twitter for Android,None,es,2011-05-20
+229,6,true,1,Twitter Web App,None,es,2013-08-26
+229,35,true,1,Twitter Web App,None,es,2013-08-26
+229,397,true,1,Twitter Web App,None,es,2013-08-26
+230,2,true,1,Twitter for iPhone,None,es,2013-01-23
+230,3,true,1,Twitter for iPhone,None,es,2013-01-23
+230,11,true,1,Twitter for iPhone,None,es,2013-01-23
+231,1,true,1,Twitter for Android,None,es,2011-09-15
+231,32,true,1,Twitter for Android,None,es,2011-09-15
+231,65,true,1,Twitter for Android,None,es,2011-09-15
+233,5,true,1,Twitter for Android,None,es,2018-10-15
+233,7,true,1,Twitter for Android,None,es,2018-10-15
+233,52,true,1,Twitter for Android,Ayuso,es,2018-10-15
+234,5,true,1,Twitter for iPhone,None,es,2013-01-23
+234,48,true,1,Twitter for iPhone,None,ca,2013-01-23
+235,4,true,1,Twitter for Android,None,es,2011-07-08
+235,8,true,1,Twitter for Android,None,es,2011-07-08
+235,86,true,1,Twitter for Android,None,es,2011-07-08
+236,6,true,1,Twitter for Android,None,es,2019-01-23
+236,23,true,1,Twitter for Android,None,es,2019-01-23
+238,6,true,1,Twitter Web App,None,es,2021-03-15
+238,238,true,1,Twitter Web App,None,es,2021-03-15
+239,1,true,1,Twitter for iPhone,None,es,2020-05-29
+239,7,true,2,Twitter for iPhone,None,es,2020-05-29
+241,0,true,1,Twitter for Android,None,es,2012-03-27
+241,1,true,1,Twitter for Android,None,es,2012-03-27
+242,18,true,1,Twitter for Android,None,es,2009-11-04
+242,50,true,1,Twitter for Android,None,es,2009-11-04
+243,1,true,1,Twitter for Android,None,es,2012-10-11
+243,10,true,1,Twitter for Android,None,es,2012-10-11
+244,57,true,1,Twitter for iPhone,None,es,2017-03-08
+244,128,true,1,Twitter for iPhone,None,en,2017-03-08
+245,5,true,1,Twitter for Android,None,es,2010-11-02
+245,8,true,1,Twitter for Android,None,es,2010-11-02
+246,2,true,1,Twitter for Android,None,es,2010-03-17
+246,60,true,1,Twitter for Android,None,es,2010-03-17
+247,26,true,1,Twitter for Android,None,es,2019-05-23
+247,32,true,1,Twitter for Android,None,es,2019-05-23
+248,7,true,1,Twitter for iPhone,None,es,2020-04-25
+248,42,true,1,Twitter for iPhone,None,es,2020-04-25
+249,1,true,1,Twitter for Android,None,es,2020-02-11
+249,24,true,1,Twitter for Android,None,es,2020-02-11
+250,1,true,1,Twitter for Android,None,es,2014-11-03
+250,29,true,1,Twitter for Android,None,es,2014-11-03
+251,2,true,1,Twitter for iPhone,None,es,2011-12-06
+251,21,true,1,Twitter for iPhone,None,es,2011-12-06
+252,10,true,1,Twitter for Android,None,es,2015-10-15
+252,27,true,1,Twitter for Android,None,es,2015-10-15
+253,3,true,1,Twitter for iPhone,None,es,2020-09-13
+253,38,true,1,Twitter for iPhone,None,es,2020-09-13
+254,59,true,1,Twitter for iPhone,None,es,2009-12-16
+254,460,true,1,Twitter for iPhone,None,es,2009-12-16
+255,255,true,1,Twitter for Android,None,und,2018-07-06
+256,78,true,1,Twitter for Android,None,es,2010-02-27
+256,102,true,1,Twitter for Android,None,ca,2010-02-27
+257,6,true,1,Twitter for iPhone,None,es,2010-09-19
+257,22,true,1,Twitter for iPhone,None,es,2010-09-19
+258,33,true,1,Twitter for Android,None,es,2018-02-18
+258,58,true,1,Twitter for Android,None,es,2018-02-18
+259,21,true,1,Twitter for Android,None,es,2020-11-24
+259,321,true,1,Twitter for Android,None,es,2020-11-24
+260,3,true,1,Twitter for iPhone,None,es,2016-01-28
+260,560,true,1,Twitter for iPhone,None,pt,2016-01-28
+261,19,true,1,Twitter for iPhone,None,es,2018-12-11
+261,20,true,1,Twitter for iPhone,None,es,2018-12-11
+262,3,true,2,Twitter for iPhone,None,es,2012-02-29
+263,0,true,1,Twitter for Android,None,es,2012-02-28
+263,1,true,1,Twitter for Android,None,es,2012-02-28
+264,21,true,1,Twitter for Android,None,es,2013-05-08
+264,126,true,1,Twitter for Android,None,es,2013-05-08
+265,1,true,1,Twitter for Android,None,es,2010-11-22
+265,25,true,1,Twitter for Android,None,es,2010-11-22
+267,1,true,1,Twitter for Android,None,es,2012-01-20
+267,75,true,1,Twitter for Android,None,es,2012-01-20
+269,1,true,1,Twitter Web App,None,es,2013-07-23
+269,9,true,1,Twitter Web App,None,es,2013-07-23
+270,39,true,1,Twitter Web App,None,es,2011-03-13
+270,66,true,1,Twitter Web App,None,es,2011-03-13
+271,1,true,1,Twitter for Android,None,es,2016-09-20
+271,8,true,1,Twitter for Android,None,es,2016-09-20
+272,1,true,1,Twitter Web App,None,es,2009-05-06
+272,95,true,1,Twitter Web App,None,es,2009-05-06
+273,6,true,1,Twitter for iPhone,None,es,2020-03-21
+273,293,true,1,Twitter for iPhone,None,es,2020-03-21
+274,1,true,1,Twitter for iPhone,None,es,2019-12-29
+274,7,true,1,Twitter for iPhone,None,es,2019-12-29
+275,1,true,1,Twitter for Android,None,es,2011-04-11
+275,433,true,1,Twitter for Android,None,es,2011-04-11
+276,24,true,1,Twitter for Android,None,es,2015-01-05
+276,28,true,1,Twitter for Android,None,es,2015-01-05
+277,9,true,1,Twitter for Android,None,es,2020-06-16
+277,16,true,1,Twitter for Android,Lascosasclaras143,es,2020-06-16
+278,25,true,1,Twitter for Android,None,es,2013-01-12
+278,31,true,1,Twitter for Android,None,es,2013-01-12
+279,0,true,1,Twitter for iPhone,None,es,2013-06-23
+279,4,true,1,Twitter for iPhone,None,es,2013-06-23
+280,17,true,1,Twitter Web App,None,es,2013-11-18
+280,19,true,1,Twitter Web App,None,es,2013-11-18
+281,4,true,1,Twitter for iPhone,None,es,2013-12-28
+281,7,true,1,Twitter for iPhone,None,es,2013-12-28
+282,5,true,1,Twitter for Android,None,es,2021-01-24
+282,12,true,1,Twitter for Android,None,es,2021-01-24
+283,8,true,1,Twitter for Android,None,es,2010-09-23
+283,32,true,1,Twitter for Android,None,es,2010-09-23
+284,12,true,1,Twitter for Android,None,es,2012-10-17
+284,93,true,1,Twitter for Android,None,es,2012-10-17
+285,3,true,1,Twitter for Android,None,es,2011-09-19
+285,35,true,1,Twitter for Android,None,es,2011-09-19
+286,25,true,1,Twitter for iPad,None,es,2010-02-16
+286,26,true,1,Twitter for iPad,None,es,2010-02-16
+287,2,true,1,Twitter for iPhone,None,es,2011-11-21
+287,62,true,1,Twitter for iPhone,None,es,2011-11-21
+288,7,true,1,Twitter Web App,None,es,2015-07-22
+288,16,true,1,Twitter Web App,Lascosasclaras143,es,2015-07-22
+289,1,true,1,Twitter Web App,None,es,2012-08-05
+289,10,true,1,Twitter Web App,None,es,2012-08-05
+290,7,true,1,Twitter for Android,None,es,2013-02-01
+290,29,true,1,Twitter for Android,None,es,2013-02-01
+291,2,true,1,Twitter for Android,None,es,2015-06-03
+291,6,true,1,Twitter for Android,None,es,2015-06-03
+292,3,true,1,Twitter for Android,None,es,2015-12-01
+292,6,true,1,Twitter for Android,None,es,2015-12-01
+294,32,true,1,Twitter Web App,None,es,2016-01-08
+294,42,true,1,Twitter Web App,None,es,2016-01-08
+296,1,true,1,Twitter for Android,None,es,2011-05-26
+296,27,true,1,Twitter for Android,None,es,2011-05-26
+297,5,true,1,Twitter for Android,None,es,2012-09-15
+297,16,true,1,Twitter for Android,Lascosasclaras143,es,2012-09-15
+298,9,true,1,Twitter for Android,None,es,2016-01-14
+298,475,true,1,Twitter for Android,None,ca,2016-01-14
+299,1,true,1,Twitter for Mac,None,es,2007-04-17
+299,8,true,1,Twitter for Mac,None,es,2007-04-17
+300,1,true,1,Twitter for Android,None,es,2011-06-28
+301,1,true,1,TweetDeck,None,es,2016-09-01
+301,4,true,1,Twitter for Android,None,es,2016-09-01
+302,51,true,1,Twitter Web App,None,es,2017-08-05
+304,41,true,1,Twitter for Android,None,es,2013-04-11
+306,5,true,1,Twitter for Android,None,es,2014-03-01
+306,234,true,1,Twitter for Android,None,ca,2014-03-01
+307,3,true,2,Twitter for Android,None,es,2017-08-18
+308,16,true,2,Twitter for Android,Lascosasclaras143,es,2017-09-17
+309,5,true,1,Twitter for Android,None,es,2019-01-05
+309,8,true,1,Twitter for Android,None,es,2019-01-05
+310,3,true,1,Twitter for Android,None,es,2016-05-16
+310,413,true,1,Twitter for Android,None,es,2016-05-16
+311,0,true,1,Twitter for iPhone,None,es,2011-04-30
+312,0,true,1,Twitter for iPhone,None,es,2012-09-10
+312,14,true,1,Twitter for iPhone,None,es,2012-09-10
+313,13,true,1,Twitter for Android,None,es,2011-11-24
+313,14,true,1,Twitter for Android,None,es,2011-11-24
+314,6,true,1,Twitter for Android,None,es,2013-07-31
+314,54,true,1,Twitter for Android,None,es,2013-07-31
+315,11,true,1,Twitter Web App,None,es,2010-10-31
+315,460,true,1,Twitter Web App,None,es,2010-10-31
+316,2,true,1,Twitter Web App,None,es,2011-11-20
+316,36,true,1,Twitter Web App,None,es,2011-11-20
+319,1,true,1,Twitter for Android,None,es,2011-05-27
+319,10,true,1,Twitter for Android,None,es,2011-05-27
+320,7,true,1,Twitter for Android,None,es,2012-04-25
+320,10,true,1,Twitter for Android,None,es,2012-04-25
+322,1,true,1,Twitter for Android,None,es,2021-06-01
+322,14,true,1,Twitter for Android,None,es,2021-06-01
+323,1,true,1,Twitter Web App,None,es,2016-03-15
+323,14,true,1,Twitter Web App,None,es,2016-03-15
+324,7,true,1,Twitter Web App,None,es,2009-05-29
+324,8,true,1,Twitter Web App,None,es,2009-05-29
+325,1,true,1,Twitter for Android,None,es,2012-03-08
+325,53,true,1,Twitter for Android,None,es,2012-03-08
+326,1,true,1,Twitter for Android,None,es,2020-08-27
+326,5,true,1,Twitter for Android,None,es,2020-08-27
+327,26,true,1,Twitter for iPad,None,es,2015-12-20
+327,52,true,1,Twitter for iPad,Ayuso,es,2015-12-20
+329,2,true,1,Twitter Web App,None,es,2019-03-07
+330,12,true,1,Twitter Web App,None,es,2009-08-13
+330,29,true,1,Twitter Web App,None,es,2009-08-13
+331,7,true,1,Twitter Web App,None,es,2020-05-19
+331,28,true,1,Twitter Web App,None,es,2020-05-19
+332,3,true,1,Twitter for iPhone,None,es,2018-03-09
+332,35,true,1,Twitter for iPhone,None,es,2018-03-09
+333,1,true,1,Twitter for Android,None,es,2013-10-30
+333,10,true,1,Twitter for Android,None,es,2013-10-30
+334,77,true,1,Twitter for Android,CulturaDeLaViolación,es,2014-07-03
+335,2,true,1,Twitter Web App,None,es,2013-04-25
+335,36,true,1,Twitter Web App,None,es,2013-04-25
+336,202,true,1,Twitter for iPhone,DenisePipitone,es,2021-04-14
+336,581,true,1,Twitter for iPhone,DenisePipitone,es,2021-04-14
+337,560,true,1,Twitter for Android,None,pt,2011-10-25
+339,0,true,1,Twitter Web App,None,es,2012-07-26
+339,29,true,1,Twitter Web App,None,es,2012-07-26
+340,1,true,1,Twitter for Android,None,es,2018-06-01
+340,8,true,1,Twitter for Android,None,es,2018-06-01
+342,19,true,1,Twitter for Android,None,es,2020-10-24
+342,20,true,1,Twitter for Android,None,es,2020-10-24
+344,3,true,2,Twitter for iPad,None,es,2019-02-08
+345,1,true,1,Twitter for Android,None,es,2015-06-16
+345,12,true,1,Twitter for Android,None,es,2015-06-16
+346,22,true,1,Twitter for Android,None,es,2015-02-14
+346,62,true,1,Twitter for Android,None,es,2015-02-14
+347,5,true,1,Twitter Web App,None,es,2011-03-21
+347,28,true,1,Twitter Web App,None,es,2011-03-21
+349,5,true,1,Twitter for iPhone,None,es,2010-11-24
+349,12,true,1,Twitter for iPhone,None,es,2010-11-24
+350,350,true,1,Twitter for iPhone,None,es,2019-07-23
+351,58,true,1,Twitter for Android,None,es,2020-03-22
+351,567,true,1,Twitter for Android,None,es,2020-03-22
+352,7,true,2,Twitter for Android,None,es,2011-04-03
+353,10,true,1,Twitter for Android,None,es,2011-12-15
+353,25,true,1,Twitter for Android,None,es,2011-12-15
+354,2,true,1,Twitter for Android,None,es,2011-11-08
+354,94,true,1,Twitter for Android,None,es,2011-11-08
+356,11,true,1,Twitter for Android,None,es,2017-04-11
+356,19,true,1,Twitter for Android,None,es,2017-04-11
+357,80,true,1,Twitter Web App,None,es,2021-02-01
+358,7,true,1,Twitter for iPhone,None,es,2012-02-01
+358,32,true,1,Twitter for iPhone,None,es,2012-02-01
+359,2,true,1,Twitter for iPhone,None,es,2020-08-20
+359,106,true,1,Twitter for iPhone,None,es,2020-08-20
+360,3,true,1,Twitter for Android,None,es,2020-04-10
+360,64,true,1,Twitter for Android,None,es,2020-04-10
+361,23,true,1,Twitter for Android,None,es,2015-11-10
+361,58,true,1,Twitter for Android,None,es,2015-11-10
+362,7,true,1,Twitter for Android,None,es,2014-08-08
+362,25,true,1,Twitter for Android,None,es,2014-08-08
+363,9,true,1,Twitter Web App,None,es,2011-01-22
+363,49,true,1,Twitter Web App,None,es,2011-01-22
+364,2,true,2,Twitter for Android,None,es,2019-04-28
+365,4,true,1,Twitter for iPhone,None,es,2012-01-27
+365,6,true,1,Twitter for iPhone,None,es,2012-01-27
+366,8,true,1,Twitter for Android,None,es,2013-12-17
+366,24,true,1,Twitter for Android,None,es,2013-12-17
+367,9,true,1,Twitter Web App,None,es,2019-09-22
+368,16,true,2,Twitter for Android,Lascosasclaras143,es,2020-10-09
+369,10,true,1,Twitter for Android,None,es,2021-05-05
+369,32,true,1,Twitter for Android,None,es,2021-05-05
+370,16,true,1,Twitter for Android,Lascosasclaras143,es,2018-01-12
+370,24,true,1,Twitter for Android,None,es,2018-01-12
+371,1,true,1,Twitter for Android,None,es,2015-03-14
+371,14,true,1,Twitter for Android,None,es,2015-03-14
+372,16,true,2,Twitter for Android,Lascosasclaras143,es,2018-07-14
+373,10,true,1,Twitter for Android,None,es,2011-11-11
+373,86,true,1,Twitter for Android,None,es,2011-11-11
+374,2,true,1,Twitter for Android,None,es,2020-03-21
+374,6,true,1,Twitter for Android,None,es,2020-03-21
+375,0,true,1,Twitter for iPhone,None,es,2012-03-29
+375,24,true,1,Twitter for iPhone,None,es,2012-03-29
+376,376,true,1,Twitter for Android,None,es,2013-01-31
+377,7,true,2,Twitter for iPhone,None,es,2011-05-28
+378,0,true,1,Twitter for Android,None,es,2017-10-05
+378,1,true,1,Twitter for Android,None,es,2017-10-05
+379,1,true,1,Twitter for iPhone,None,es,2013-05-07
+379,8,true,1,Twitter for iPhone,None,es,2013-05-07
+381,6,true,1,Twitter for Android,None,es,2012-05-22
+381,266,true,1,Twitter for Android,None,es,2012-05-22
+382,0,true,1,Twitter for Android,None,es,2013-01-11
+382,4,true,1,Twitter for Android,None,es,2013-01-11
+383,3,true,1,Twitter for iPhone,None,es,2012-08-22
+383,19,true,1,Twitter for iPhone,None,es,2012-08-22
+385,128,true,1,Twitter for iPhone,None,en,2011-08-31
+386,7,true,2,Twitter for Android,None,es,2014-04-07
+388,1,true,1,Twitter for Android,None,es,2012-08-09
+388,12,true,1,Twitter for Android,None,es,2012-08-09
+389,13,true,1,Twitter for iPhone,None,es,2015-01-23
+389,18,true,1,Twitter for iPhone,None,es,2015-01-23
+390,65,true,1,Twitter for Android,None,es,2019-10-05
+390,786,true,1,Twitter for Android,None,es,2019-10-05
+391,1,true,1,Twitter for Android,None,es,2011-10-25
+391,4,true,1,Twitter for Android,None,es,2011-10-25
+392,1,true,1,Twitter for Android,None,es,2011-12-23
+392,10,true,1,Twitter for Android,None,es,2011-12-23
+393,35,true,1,Twitter for Android,None,es,2017-03-12
+393,38,true,1,Twitter for Android,None,es,2017-03-12
+394,5,true,1,Twitter for Android,None,es,2014-03-29
+394,8,true,1,Twitter for Android,None,es,2014-03-29
+395,2,true,1,Twitter for Android,None,es,2015-02-21
+395,3,true,1,Twitter for Android,None,es,2015-02-21
+396,1,true,1,Twitter for iPhone,None,es,2016-02-17
+396,8,true,1,Twitter for iPhone,None,es,2016-02-17
+398,3,true,1,Twitter for iPhone,None,es,2014-01-30
+398,6,true,1,Twitter for iPhone,None,es,2014-01-30
+399,2,true,1,Twitter for Android,None,es,2013-03-31
+399,51,true,1,Twitter for Android,None,es,2013-03-31
+400,2,true,1,Twitter for iPad,None,es,2012-01-01
+400,11,true,1,Twitter for iPad,None,es,2012-01-01
+401,1,true,1,Twitter for iPhone,None,es,2010-05-09
+402,1,true,1,Twitter for Android,None,es,2012-02-17
+402,7,true,1,Twitter for Android,None,es,2012-02-17
+403,55,true,2,Twitter for Android,None,es,2018-03-13
+404,1,true,1,Twitter for Android,None,es,2018-03-24
+404,117,true,1,Twitter for Android,None,es,2018-03-24
+405,25,true,1,Twitter for Android,None,es,2017-08-20
+405,117,true,1,Twitter for Android,None,es,2017-08-20
+406,2,true,1,Twitter for iPhone,None,es,2011-05-10
+406,329,true,1,Twitter for iPhone,None,es,2011-05-10
+407,5,true,1,Twitter for Android,None,es,2017-09-29
+407,9,true,1,Twitter for Android,None,es,2017-09-29
+408,37,true,1,Twitter Web App,None,es,2017-06-14
+408,51,true,1,Twitter Web App,None,es,2017-06-14
+410,12,true,1,Twitter for iPhone,None,es,2012-05-16
+411,11,true,1,Twitter for iPhone,None,es,2009-07-14
+411,30,true,1,Twitter for iPhone,None,es,2009-07-14
+412,10,true,1,Twitter for iPhone,None,es,2012-06-25
+412,96,true,1,Twitter for iPhone,None,es,2012-06-25
+414,1,true,1,Twitter for Android,None,es,2010-04-30
+414,56,true,1,Twitter for Android,None,es,2010-04-30
+415,2,true,1,Twitter for Android,None,es,2014-12-03
+415,54,true,1,Twitter for Android,None,es,2014-12-03
+416,17,true,1,Twitter for Android,None,es,2020-02-26
+416,20,true,1,Twitter for Android,None,es,2020-02-26
+417,6,true,2,Twitter for Android,None,es,2011-06-08
+418,14,true,1,Twitter for Android,None,es,2010-09-01
+418,99,true,1,Twitter for Android,APOYOROCIO10J,es,2010-09-01
+419,1,true,1,Twitter for Android,None,es,2017-10-22
+419,5,true,1,Twitter for Android,None,es,2017-10-22
+420,1,true,1,Twitter for Android,None,es,2013-01-10
+420,55,true,1,Twitter for Android,None,es,2013-01-10
+421,0,true,1,Twitter Web App,None,es,2015-05-06
+421,15,true,1,Twitter Web App,None,es,2015-05-06
+422,19,true,1,Twitter for Android,None,es,2020-10-07
+422,20,true,1,Twitter for Android,None,es,2020-10-07
+425,3,true,1,Twitter for iPad,None,es,2019-09-04
+425,6,true,1,Twitter for iPad,None,es,2019-09-04
+426,1,true,1,Twitter for iPhone,None,es,2018-10-04
+426,4,true,1,Twitter for iPhone,None,es,2018-10-04
+427,23,true,1,Twitter for iPhone,None,es,2012-08-26
+427,60,true,1,Twitter for iPhone,None,es,2012-08-26
+428,1,true,1,Twitter for Android,None,es,2012-02-04
+428,5,true,1,Twitter for Android,None,es,2012-02-04
+429,0,true,1,Twitter for Android,None,es,2016-03-22
+429,1,true,1,Twitter for Android,None,es,2016-03-22
+430,4,true,1,Twitter for iPhone,None,es,2012-08-28
+430,72,true,1,Twitter for iPhone,None,es,2012-08-28
+431,0,true,1,Twitter for Android,None,es,2020-03-15
+431,48,true,1,Twitter for Android,None,ca,2020-03-15
+432,1,true,1,Twitter for Android,None,es,2021-02-25
+432,31,true,1,Twitter for Android,None,es,2021-02-25
+434,1,true,1,Twitter for Android,None,es,2014-04-21
+434,31,true,1,Twitter for Android,None,es,2014-04-21
+435,1,true,1,Twitter Web App,None,es,2011-04-07
+435,15,true,1,Twitter Web App,None,es,2011-04-07
+436,328,true,1,Twitter for Android,None,und,2013-02-28
+437,3,true,1,Twitter for Android,None,es,2011-05-02
+437,6,true,1,Twitter for Android,None,es,2011-05-02
+438,2,true,1,Twitter Web App,None,es,2018-08-27
+438,11,true,1,Twitter Web App,None,es,2018-08-27
+440,5,true,1,Twitter for iPhone,None,es,2011-08-27
+440,9,true,1,Twitter for iPhone,None,es,2011-08-27
+441,8,true,1,Twitter for Android,None,es,2015-02-17
+441,13,true,1,Twitter for Android,None,es,2015-02-17
+443,36,true,1,Twitter for Android,None,es,2017-07-25
+443,471,true,1,Twitter for Android,None,es,2017-07-25
+444,25,true,1,Twitter for Android,None,es,2020-11-19
+444,77,true,1,Twitter for Android,CulturaDeLaViolación,es,2020-11-19
+445,0,true,1,Twitter for Android,None,es,2016-08-04
+445,1,true,1,Twitter for Android,None,es,2016-08-04
+446,1,true,1,Twitter for Android,None,es,2010-09-07
+446,8,true,1,Twitter for Android,None,es,2010-09-07
+447,1,true,1,Twitter for Android,None,es,2013-03-04
+447,7,true,1,Twitter for Android,None,es,2013-03-04
+448,24,true,1,Twitter Web App,None,es,2016-05-12
+448,32,true,1,Twitter Web App,None,es,2016-05-12
+449,44,true,1,Twitter for Android,None,es,2013-03-23
+449,59,true,1,Twitter for Android,None,es,2013-03-23
+450,18,true,1,Twitter for Android,None,es,2012-12-24
+450,49,true,1,Twitter for Android,None,es,2012-12-24
+452,4,true,2,Twitter for Android,None,es,2020-02-12
+453,4,true,1,Twitter for iPhone,None,es,2012-06-01
+453,15,true,1,Twitter for iPhone,None,es,2012-06-01
+454,5,true,1,Twitter for Android,None,es,2017-10-29
+454,9,true,1,Twitter for Android,None,es,2017-10-29
+455,7,true,1,Twitter for Android,None,es,2010-09-25
+455,31,true,1,Twitter for Android,None,es,2010-09-25
+456,1,true,1,Twitter for Android,None,es,2014-05-10
+456,10,true,1,Twitter for Android,None,es,2014-05-10
+457,3,true,1,Twitter for Android,None,es,2019-05-16
+457,38,true,1,Twitter for Android,None,es,2019-05-16
+458,0,true,1,Twitter for iPhone,None,es,2017-08-28
+458,4,true,1,Twitter for iPhone,None,es,2017-08-28
+459,9,true,1,Twitter for Android,None,es,2014-12-06
+459,28,true,1,Twitter for Android,None,es,2014-12-06
+461,24,true,1,Twitter for Android,None,es,2014-11-08
+462,1,true,1,Twitter for Android,None,es,2012-11-06
+462,5,true,1,Twitter for Android,None,es,2012-11-06
+463,1,true,1,Twitter for iPad,None,es,2018-01-29
+463,8,true,1,Twitter for iPad,None,es,2018-01-29
+464,567,true,1,Twitter for iPhone,None,es,2013-05-05
+464,775,true,1,Twitter for iPhone,None,es,2013-05-05
+465,11,true,1,Twitter Web App,None,es,2017-05-25
+465,20,true,1,Twitter Web App,None,es,2017-05-25
+466,45,true,1,Twitter Web App,Madrid,es,2010-12-26
+467,80,true,1,Twitter for Android,None,es,2020-04-07
+467,527,true,1,Twitter for Android,None,es,2020-04-07
+468,2,true,1,Twitter Web App,None,es,2010-02-11
+468,59,true,1,Twitter Web App,None,es,2010-02-11
+469,8,true,1,Twitter for Android,None,es,2011-01-27
+469,28,true,1,Twitter for Android,None,es,2011-01-27
+470,3,true,2,Twitter for Android,None,es,2013-09-22
+472,1,true,1,Twitter Web App,None,es,2011-04-07
+474,8,true,1,Twitter for Android,None,es,2014-12-25
+474,10,true,1,Twitter for Android,None,es,2014-12-25
+476,3,true,1,Twitter for Android,None,es,2011-09-03
+476,22,true,1,Twitter for Android,None,es,2011-09-03
+477,21,true,1,Twitter for iPhone,None,es,2012-06-13
+477,36,true,1,Twitter for iPhone,None,es,2012-06-13
+478,27,true,1,Twitter Web App,None,es,2016-11-11
+478,31,true,1,Twitter Web App,None,es,2016-11-11
+479,1,true,1,Twitter for Android,None,es,2011-12-06
+479,4,true,1,Twitter for Android,None,es,2011-12-06
+480,1,true,1,Twitter for Android,None,es,2010-01-21
+480,6,true,1,Twitter for Android,None,es,2010-01-21
+481,19,true,1,Twitter for Android,None,es,2018-09-11
+481,20,true,1,Twitter for Android,None,es,2018-09-11
+482,6,true,1,Twitter for Android,None,es,2015-03-23
+482,11,true,1,Twitter for Android,None,es,2015-03-23
+483,12,true,1,Twitter Web App,None,es,2011-05-06
+483,240,true,1,Twitter Web App,None,es,2011-05-06
+484,7,true,1,Twitter for Android,None,es,2021-04-17
+484,10,true,1,Twitter for Android,None,es,2021-04-17
+485,7,true,1,Twitter for Android,None,es,2010-01-11
+485,16,true,1,Twitter for Android,Lascosasclaras143,es,2010-01-11
+486,17,true,2,Twitter for Android,None,es,2014-08-24
+487,3,true,1,Twitter for iPhone,None,es,2013-07-30
+487,47,true,1,Twitter for iPhone,None,es,2013-07-30
+488,8,true,1,Twitter for Android,None,es,2016-08-11
+488,10,true,1,Twitter for Android,None,es,2016-08-11
+489,44,true,1,Twitter for Android,None,es,2015-09-06
+489,59,true,1,Twitter for Android,None,es,2015-09-06
+491,16,true,1,Twitter Web App,Lascosasclaras143,es,2014-01-17
+491,409,true,1,Twitter Web App,LasCosasClaras143,es,2014-01-17
+492,6,true,1,Twitter for Android,None,es,2016-08-14
+492,23,true,1,Twitter for Android,None,es,2016-08-14
+493,2,true,1,Twitter for Android,None,es,2020-03-10
+493,38,true,1,Twitter for Android,None,es,2020-03-10
+494,33,true,1,Twitter for iPhone,None,es,2011-04-20
+494,58,true,1,Twitter for iPhone,None,es,2011-04-20
+495,1,true,1,Twitter Web App,None,es,2015-02-27
+495,16,true,1,Twitter Web App,Lascosasclaras143,es,2015-02-27
+496,0,true,1,Twitter for iPhone,None,es,2020-03-30
+496,4,true,1,Twitter for iPhone,None,es,2020-03-30
+497,9,true,1,Twitter for Android,None,es,2018-12-26
+497,73,true,1,Twitter for Android,SpainIsAFascistState,ca,2018-12-26
+498,1,true,1,Twitter Web App,None,es,2010-08-15
+498,10,true,1,Twitter Web App,None,es,2010-08-15
+500,1,true,1,Twitter for Android,None,es,2013-12-11
+500,13,true,1,Twitter for Android,None,es,2013-12-11
+501,1,true,1,Twitter for Android,None,es,2012-01-21
+501,8,true,1,Twitter for Android,None,es,2012-01-21
+502,14,true,1,Twitter for Android,None,es,2012-11-07
+502,117,true,1,Twitter for Android,None,es,2012-11-07
+503,7,true,1,Twitter for Android,None,es,2015-03-02
+503,8,true,1,Twitter for Android,None,es,2015-03-02
+504,6,true,1,Twitter for Android,None,es,2013-03-10
+504,47,true,1,Twitter for Android,None,es,2013-03-10
+505,2,true,1,Twitter for Android,None,es,2016-12-05
+505,134,true,1,Twitter for Android,None,es,2016-12-05
+506,6,true,1,Twitter for iPhone,None,es,2009-08-03
+506,118,true,1,Twitter for iPhone,GRANDE,es,2009-08-03
+507,0,true,1,Twitter for Android,None,es,2013-04-18
+507,204,true,1,Twitter for Android,None,es,2013-04-18
+508,2,true,1,Twitter for Android,None,es,2020-04-22
+508,11,true,1,Twitter for Android,None,es,2020-04-22
+509,30,true,1,Twitter for Android,None,es,2018-01-16
+509,61,true,1,Twitter for Android,None,es,2018-01-16
+510,21,true,1,Twitter Web App,None,es,2011-03-11
+510,59,true,1,Twitter Web App,None,es,2011-03-11
+511,19,true,1,Twitter for Android,None,es,2020-12-05
+511,20,true,1,Twitter for Android,None,es,2020-12-05
+512,11,true,1,Twitter for iPhone,None,es,2011-07-29
+512,58,true,1,Twitter for iPhone,None,es,2011-07-29
+513,2,true,1,Twitter for iPhone,None,es,2021-02-15
+513,44,true,1,Twitter for iPhone,None,es,2021-02-15
+514,12,true,1,Twitter Web App,None,es,2010-12-06
+514,49,true,1,Twitter for Android,None,es,2010-12-06
+515,23,true,1,Twitter for iPhone,None,es,2010-10-10
+515,44,true,1,Twitter for iPhone,None,es,2010-10-10
+516,36,true,1,Twitter Web App,None,es,2020-04-22
+516,37,true,1,Twitter Web App,None,es,2020-04-22
+517,10,true,1,Twitter for Android,None,es,2020-12-16
+517,25,true,1,Twitter for Android,None,es,2020-12-16
+518,22,true,1,Twitter Web App,None,es,2010-09-26
+518,44,true,1,Twitter Web App,None,es,2010-09-26
+519,0,true,1,Twitter for iPhone,None,es,2017-01-21
+519,12,true,1,Twitter for iPhone,None,es,2017-01-21
+520,1,true,1,Twitter for Android,None,es,2011-11-02
+520,39,true,1,Twitter for Android,None,es,2011-11-02
+521,20,true,1,Twitter for Android,None,es,2013-07-21
+522,3,true,1,Twitter Web App,None,es,2021-05-06
+522,47,true,1,Twitter Web App,None,es,2021-05-06
+523,9,true,1,Twitter for Android,None,es,2015-11-19
+523,13,true,1,Twitter for Android,None,es,2015-11-19
+524,2,true,1,Twitter for iPhone,None,es,2010-10-31
+524,6,true,1,Twitter for iPhone,None,es,2010-10-31
+525,5,true,1,Twitter for Android,None,es,2015-10-27
+525,8,true,1,Twitter for Android,None,es,2015-10-27
+526,6,true,1,Twitter for iPhone,None,es,2016-02-14
+526,118,true,1,Twitter for iPhone,None,es,2016-02-14
+528,2,true,1,Twitter for Android,None,es,2014-06-24
+528,11,true,1,Twitter for Android,None,es,2014-06-24
+529,1,true,1,Twitter for Android,None,es,2011-11-17
+529,8,true,1,Twitter for Android,None,es,2011-11-17
+530,1,true,1,Twitter for Android,None,es,2019-10-17
+530,66,true,1,Twitter for Android,None,es,2019-10-17
+531,16,true,1,Twitter Web App,Lascosasclaras143,es,2020-05-19
+532,1,true,1,Twitter for Android,None,es,2013-03-27
+532,5,true,1,Twitter for Android,None,es,2013-03-27
+533,533,true,1,Twitter for iPhone,None,es,2019-05-27
+534,5,true,1,Twitter for iPhone,None,es,2011-12-12
+534,26,true,1,Twitter for iPhone,None,es,2011-12-12
+535,2,true,1,Twitter for iPhone,None,es,2021-05-20
+535,21,true,1,Twitter for iPhone,None,es,2021-05-20
+536,3,true,2,Twitter for iPhone,None,es,2017-04-27
+537,33,true,1,Twitter for Android,None,es,2015-10-10
+537,114,true,1,Twitter for Android,None,es,2015-10-10
+538,58,true,1,Twitter Web App,None,es,2020-03-06
+538,70,true,1,Twitter Web App,None,es,2020-03-06
+539,1,true,1,Twitter for Android,None,es,2017-09-27
+539,29,true,1,Twitter for Android,None,es,2017-09-27
+540,8,true,1,Twitter for Android,None,es,2012-12-24
+540,31,true,1,Twitter for Android,None,es,2012-12-24
+541,6,true,1,Twitter for Android,None,es,2012-04-16
+541,64,true,1,Twitter for Android,None,es,2012-04-16
+542,13,true,1,Twitter for Android,None,es,2014-07-01
+542,183,true,1,Twitter for Android,None,es,2014-07-01
+544,16,true,1,Twitter Web App,Lascosasclaras143,es,2012-05-13
+544,24,true,1,Twitter Web App,None,es,2012-05-13
+545,3,true,1,Twitter for Android,None,es,2009-09-28
+545,35,true,1,Twitter for Android,None,es,2009-09-28
+546,8,true,1,Twitter Web App,None,es,2011-06-04
+546,10,true,1,Twitter Web App,None,es,2011-06-04
+547,2,true,1,Twitter for Android,None,es,2020-03-26
+547,11,true,1,Twitter for Android,None,es,2020-03-26
+548,3,true,2,Twitter for Android,None,es,2013-09-09
+549,16,true,1,Twitter for Android,Lascosasclaras143,es,2011-07-10
+549,25,true,1,Twitter for Android,None,es,2011-07-10
+550,6,true,1,Twitter for iPhone,None,es,2008-03-09
+550,11,true,1,Twitter for iPhone,None,es,2008-03-09
+551,46,true,1,Twitter Web App,None,es,2013-01-02
+552,1,true,1,Twitter for Android,None,es,2010-02-14
+552,15,true,1,Twitter for Android,None,es,2010-02-14
+553,1,true,1,Twitter for Android,None,es,2011-02-26
+553,10,true,1,Twitter for Android,None,es,2011-02-26
+554,74,true,1,Twitter for Android,None,es,2014-09-22
+554,96,true,1,Twitter for Android,None,es,2014-09-22
+555,2,true,1,Twitter for Android,None,es,2011-07-21
+555,21,true,1,Twitter for Android,None,es,2011-07-21
+556,6,true,1,Twitter Web App,None,es,2020-04-18
+556,126,true,1,Twitter Web App,None,es,2020-04-18
+557,19,true,1,Twitter Web App,None,es,2011-09-06
+557,20,true,1,Twitter Web App,None,es,2011-09-06
+559,0,true,1,Twitter for Android,None,es,2020-03-15
+559,4,true,1,Twitter for Android,None,es,2020-03-15
+562,126,true,1,Twitter for Android,None,es,2015-01-18
+562,439,true,1,Twitter for Android,None,es,2015-01-18
+563,7,true,1,Twitter for Android,None,es,2020-01-21
+564,24,true,1,Twitter for iPad,None,es,2010-09-29
+564,85,true,1,Twitter for iPad,None,es,2010-09-29
+565,1,true,1,Twitter for Android,None,es,2018-04-28
+565,29,true,1,Twitter for Android,None,es,2018-04-28
+568,0,true,1,Twitter for Android,None,es,2018-04-12
+568,48,true,1,Twitter for Android,None,ca,2018-04-12
+569,5,true,1,Twitter for Android,None,es,2016-07-11
+569,8,true,1,Twitter for Android,None,es,2016-07-11
+570,0,true,1,Twitter for iPhone,None,es,2013-08-18
+570,4,true,1,Twitter for iPhone,None,es,2013-08-18
+571,1,true,1,Twitter for Android,None,es,2011-03-13
+571,14,true,1,Twitter for Android,None,es,2011-03-13
+572,1,true,1,Twitter for Android,None,es,2013-12-19
+572,13,true,1,Twitter for Android,None,es,2013-12-19
+573,0,true,1,Twitter for iPhone,None,es,2019-07-17
+573,4,true,1,Twitter for iPhone,None,es,2019-07-17
+574,1,true,1,Twitter for Android,None,es,2014-06-15
+574,82,true,1,Twitter for Android,None,es,2014-06-15
+575,1,true,1,Twitter Web App,None,es,2011-12-07
+575,451,true,1,Twitter Web App,None,es,2011-12-07
+576,1,true,1,Twitter for Android,None,es,2015-07-25
+576,4,true,1,Twitter for Android,None,es,2015-07-25
+577,0,true,1,Twitter for Android,None,es,2018-11-22
+577,1,true,1,Twitter for Android,None,es,2018-11-22
+578,6,true,1,Twitter for Android,None,es,2009-07-26
+579,8,true,1,Twitter for iPhone,None,es,2019-01-23
+580,13,true,1,Twitter for Android,None,es,2017-12-25
+582,140,true,1,Twitter Web App,None,es,2013-01-26
+583,1,true,1,Twitter for Android,None,es,2019-08-11
+584,0,true,1,Twitter for iPhone,None,es,2011-10-20
+585,14,true,1,Twitter for Android,None,es,2014-04-15
+586,0,true,1,Twitter for Android,None,es,2014-01-02
+587,0,true,1,Twitter for Android,None,es,2014-09-30
+589,22,true,1,Twitter for Android,None,es,2014-12-26
+590,100,true,1,Twitter for iPhone,None,es,2010-11-19
+591,52,true,1,Twitter for Android,None,es,2012-04-08
+592,14,true,1,Twitter for iPhone,None,es,2016-08-03
+593,1,true,1,Twitter for Android,None,es,2021-03-29
+594,1,true,1,Twitter for Android,None,es,2014-02-01
+595,1,true,1,Twitter for Android,None,es,2014-08-21
+596,91,true,1,Twitter for iPhone,None,es,2014-11-06
+597,1,true,1,Twitter for iPhone,None,es,2020-04-17
+598,78,true,1,Twitter Web App,None,es,2015-03-16
+599,15,true,1,Twitter for iPhone,None,es,2013-08-08
+600,11,true,1,Twitter for Android,None,es,2011-11-18
+601,10,true,1,Twitter for Android,None,es,2016-03-26
+602,4,true,1,Twitter for Android,None,es,2020-08-01
+603,9,true,1,Twitter for iPhone,None,es,2011-07-30
+604,5,true,1,Twitter Web App,None,es,2011-07-24
+605,45,true,1,Twitter for Android,Madrid,es,2018-07-11
+606,4,true,1,Twitter for Android,None,es,2010-01-04
+607,7,true,1,Twitter Web App,None,es,2012-02-21
+608,13,true,1,Twitter for Android,None,es,2011-11-25
+609,0,true,1,Twitter for Android,None,es,2011-11-26
+610,1,true,1,Twitter for Android,None,es,2017-04-03
+611,18,true,1,Twitter for Android,None,es,2018-02-11
+612,7,true,1,Twitter Web App,None,es,2010-12-21
+613,9,true,1,Twitter for iPhone,None,es,2010-03-15
+614,24,true,1,Twitter Web App,None,es,2012-05-31
+615,22,true,1,Twitter for Android,None,es,2013-03-25
+616,55,true,1,Twitter for Android,None,es,2019-01-12
+617,9,true,1,Twitter for Android,None,es,2011-02-19
+618,39,true,1,Twitter for Android,None,es,2012-03-16
+619,1,true,1,Twitter Web App,None,es,2011-01-21
+620,104,true,1,Twitter Web App,None,es,2012-09-16
+621,54,true,1,Twitter for Android,None,es,2019-04-09
+622,3,true,1,Twitter for Android,None,es,2011-09-30
+623,1,true,1,Twitter for Android,None,es,2014-10-10
+624,1,true,1,Twitter for iPhone,None,es,2015-12-29
+625,0,true,1,Twitter for Android,None,es,2013-03-22
+626,2,true,1,Twitter for Android,None,es,2017-08-23
+627,0,true,1,Twitter for iPhone,None,es,2013-09-22
+628,29,true,1,Twitter for Android,None,es,2012-06-06
+629,38,true,1,TweetDeck,None,es,2010-11-14
+630,2,true,1,Twitter for Android,None,es,2012-03-04
+631,0,true,1,Twitter for iPhone,None,es,2014-01-15
+633,0,true,1,Twitter for iPhone,None,es,2018-01-31
+634,6,true,1,Twitter for Android,None,es,2019-11-17
+635,237,true,1,Twitter Web App,None,es,2011-08-15
+636,1,true,1,Twitter for Android,None,es,2016-10-19
+637,5,true,1,Twitter for Android,None,es,2013-10-11
+638,0,true,1,Twitter for Android,None,es,2016-06-04
+639,4,true,1,Twitter for Android,None,es,2019-10-08
+640,1,true,1,Twitter for Android,None,es,2021-05-15
+641,0,true,1,Twitter for Android,None,es,2011-09-05
+642,16,true,1,Twitter for Android,Lascosasclaras143,es,2013-07-31
+643,1,true,1,Twitter Web App,None,es,2011-04-07
+644,3,true,1,Twitter for Android,None,es,2019-08-20
+645,6,true,1,Twitter for Android,None,es,2013-12-30
+646,4,true,1,Twitter for Android,None,es,2009-10-01
+647,8,true,1,Twitter for Android,None,es,2021-01-05
+648,104,true,1,Twitter for Android,None,es,2016-02-28
+649,0,true,1,Twitter for iPhone,None,es,2019-03-07
+650,7,true,1,Twitter for Android,None,es,2020-05-08
+651,7,true,1,Twitter for Android,None,es,2021-06-03
+652,1,true,1,Twitter for Android,None,es,2012-01-15
+653,2,true,1,Twitter for Android,None,es,2020-07-11
+654,44,true,1,Twitter Web App,None,es,2016-06-06
+655,28,true,1,Twitter for Android,None,es,2017-01-25
+656,0,true,1,Twitter for Android,None,es,2016-10-11
+658,4,true,1,Twitter Web App,None,es,2013-05-13
+659,4,true,1,Twitter for Android,None,es,2017-01-24
+660,0,true,1,Twitter for iPhone,None,es,2013-08-14
+661,0,true,1,Twitter for Android,None,es,2014-03-03
+662,6,true,1,Twitter for iPhone,None,es,2011-01-18
+663,67,true,1,Twitter Web App,None,es,2012-11-20
+664,19,true,1,Twitter Web App,None,es,2011-11-06
+665,18,true,1,Twitter Web App,None,es,2009-08-30
+666,0,true,1,Twitter for iPhone,None,es,2012-02-17
+668,39,true,1,Twitter Web App,None,es,2013-11-10
+669,72,true,1,Twitter for Android,None,es,2012-12-12
+670,7,true,1,Twitter Web App,None,es,2011-02-09
+671,6,true,1,Twitter for Android,None,es,2019-08-25
+672,4,true,1,Twitter for iPhone,None,es,2013-02-10
+673,6,true,1,Twitter Web App,None,es,2011-08-09
+674,2,true,1,Twitter for Android,None,es,2014-06-04
+675,37,true,1,Twitter for iPhone,None,es,2010-10-26
+676,1,true,1,Twitter for iPhone,None,es,2019-03-21
+677,0,true,1,Twitter for iPhone,None,es,2011-11-05
+678,36,true,1,Twitter Web App,None,es,2011-03-12
+679,79,true,1,Twitter for Android,None,es,2014-10-24
+680,3,true,1,Twitter for Android,None,es,2013-02-24
+681,0,true,1,Twitter for Android,None,es,2011-04-21
+682,1,true,1,Twitter for Android,None,es,2010-09-05
+683,12,true,1,Twitter for Android,None,es,2014-04-08
+684,1,true,1,Twitter for Android,None,es,2012-06-08
+685,7,true,1,Twitter for iPhone,None,es,2013-01-22
+686,232,true,1,Twitter for Android,None,es,2016-06-13
+687,40,true,1,Twitter for Android,None,es,2013-04-30
+688,70,true,1,Twitter Web App,None,es,2019-12-30
+689,64,true,1,Twitter for iPhone,None,es,2018-05-16
+690,1,true,1,Twitter for iPhone,None,es,2012-04-15
+691,4,true,1,Twitter for Android,None,es,2012-02-12
+692,0,true,1,Twitter for iPhone,None,es,2013-02-18
+693,4,true,1,Twitter for iPhone,None,es,2019-06-07
+694,1,true,1,Twitter for iPhone,None,es,2016-12-05
+695,14,true,1,Twitter for iPhone,None,es,2017-04-16
+696,8,true,1,Twitter for iPhone,None,es,2009-12-05
+697,18,true,1,Twitter for Android,None,es,2009-04-30
+698,45,true,1,Twitter for Android,Madrid,es,2012-08-15
+699,60,true,1,Twitter Web App,None,es,2010-06-25
+700,1,true,1,Twitter for Android,None,es,2011-05-28
+701,9,true,1,Twitter for Android,None,es,2013-09-15
+702,2,true,1,Twitter for Android,None,es,2020-09-10
+703,1,true,1,Twitter for iPhone,None,es,2019-01-24
+704,16,true,1,Twitter for iPhone,Lascosasclaras143,es,2013-11-02
+705,11,true,1,Twitter for Android,None,es,2012-06-21
+706,11,true,1,Twitter for iPhone,None,es,2012-05-26
+707,17,true,1,Twitter for Android,None,es,2016-02-10
+708,0,true,1,Twitter for Android,None,es,2010-09-04
+709,114,true,1,Twitter for iPhone,None,es,2017-08-02
+710,29,true,1,Twitter for Android,None,es,2018-02-06
+711,4,true,1,Twitter for Android,None,es,2011-03-25
+712,160,true,1,TweetDeck,None,es,2020-09-30
+713,499,true,1,Twitter Web App,None,es,2018-01-23
+714,36,true,1,Twitter for iPhone,None,es,2019-01-04
+715,0,true,1,Twitter for Android,None,es,2020-07-02
+716,0,true,1,Twitter for iPhone,None,es,2011-11-12
+717,24,true,1,Twitter for Android,None,es,2019-12-30
+719,189,true,1,Twitter for Android,None,es,2011-02-23
+720,9,true,1,Twitter for iPhone,None,es,2012-03-09
+721,1,true,1,Twitter for Android,None,es,2015-12-07
+722,28,true,1,Twitter for Android,None,es,2011-08-08
+723,6,true,1,Twitter Web App,None,es,2013-02-24
+724,0,true,1,Twitter for Android,None,es,2014-08-21
+725,6,true,1,Twitter for Android,None,es,2010-06-03
+726,6,true,1,Twitter for Android,None,es,2011-12-26
+727,2,true,1,Twitter for iPhone,None,es,2018-07-22
+728,17,true,1,Twitter for Android,None,es,2017-06-19
+729,7,true,1,Twitter Web App,None,es,2009-11-27
+730,1,true,1,Twitter for Android,None,es,2012-10-01
+731,54,true,1,Twitter for Android,None,es,2014-12-09
+732,6,true,1,Twitter for Android,None,es,2011-05-19
+733,72,true,1,Twitter Web App,None,es,2011-01-09
+735,3,true,1,Twitter for iPhone,None,es,2011-09-25
+736,0,true,1,Twitter for Android,None,es,2010-11-04
+737,9,true,1,Twitter for Android,None,es,2013-12-09
+738,5,true,1,Twitter for Android,None,es,2012-10-14
+739,0,true,1,Twitter for iPhone,None,es,2011-09-15
+740,0,true,1,Twitter Web App,None,es,2014-08-06
+741,0,true,1,Twitter for Android,None,es,2012-07-20
+742,72,true,1,Twitter for Android,None,es,2010-12-21
+743,3,true,1,Twitter for Android,None,es,2020-01-04
+744,0,true,1,Twitter for iPhone,None,es,2012-11-06
+745,63,true,1,Twitter for Android,ENBlau,ca,2019-11-13
+746,1,true,1,Twitter for Android,None,es,2013-11-11
+747,67,true,1,Twitter for Android,None,es,2009-12-13
+748,12,true,1,Twitter for iPhone,None,es,2017-05-05
+749,19,true,1,Twitter for iPhone,None,es,2021-06-04
+750,317,true,1,Twitter Web App,None,es,2010-10-26
+751,13,true,1,Twitter for iPhone,None,es,2021-02-21
+752,11,true,1,Twitter for Android,None,es,2015-03-31
+753,10,true,1,Twitter for Android,None,es,2011-11-23
+754,0,true,1,Twitter for Android,None,es,2019-11-05
+755,1,true,1,Twitter for Android,None,es,2015-11-16
+756,1,true,1,Twitter for Android,None,es,2015-11-29
+758,109,true,1,Twitter for Android,None,es,2008-06-02
+759,7,true,1,Twitter for Android,None,es,2018-07-28
+760,8,true,1,Twitter for Android,None,es,2021-05-18
+761,60,true,1,Twitter for Android,None,es,2015-06-08
+762,5,true,1,Twitter for Android,None,es,2013-04-27
+763,3,true,1,Twitter for Android,None,es,2012-03-13
+764,51,true,1,Twitter for Android,None,es,2017-10-08
+765,34,true,1,Twitter Web App,None,es,2020-01-15
+766,14,true,1,Twitter for Android,None,es,2016-12-13
+767,40,true,1,Twitter Web App,None,es,2010-04-25
+768,1,true,1,Twitter for Android,None,es,2016-07-25
+769,5,true,1,Twitter for Android,None,es,2015-11-29
+770,0,true,1,Twitter for Android,None,es,2015-02-24
+771,5,true,1,Twitter for iPhone,None,es,2011-01-24
+772,102,true,1,Twitter for Android,None,ca,2015-11-22
+773,1,true,1,Twitter for Android,None,es,2013-08-19
+774,2,true,1,Twitter for Android,None,es,2020-04-19
+776,2,true,1,Twitter for Android,None,es,2014-06-12
+777,12,true,1,Twitter for Android,None,es,2012-09-10
+778,57,true,1,Twitter for Android,None,es,2020-03-29
+779,15,true,1,Twitter for Android,None,es,2019-04-21
+780,1,true,1,Twitter Web App,None,es,2015-12-29
+781,2,true,1,Twitter for Android,None,es,2020-01-23
+782,1,true,1,Twitter for Android,None,es,2020-12-17
+783,0,true,1,Twitter for Android,None,es,2012-02-26
+784,152,true,1,Twitter for Android,None,es,2013-04-02
+785,26,true,1,Twitter for Android,None,es,2012-05-17
+787,14,true,1,Twitter for Android,None,es,2017-08-25
+788,1,true,1,Twitter for Android,None,es,2010-01-11
+789,82,true,1,Twitter for Android,None,es,2017-04-02
+790,1,true,1,Twitter for iPhone,None,es,2015-09-09
+791,0,true,1,Twitter for iPhone,None,es,2018-06-30
+792,24,true,1,Twitter for Android,None,es,2017-05-24
+793,15,true,1,Twitter for iPhone,None,es,2017-01-06
+794,10,true,1,Twitter for Android,None,es,2009-12-20
+795,1,true,1,Twitter for Android,None,es,2011-06-03
+796,1,true,1,Twitter for iPhone,None,es,2011-09-10
+798,891,true,1,Twitter for Android,None,es,2019-10-09
+799,1,true,1,Twitter for Android,None,es,2013-01-12
+801,0,true,1,Twitter for Android,None,es,2013-02-04
+802,0,true,1,Twitter for Android,None,es,2018-04-04
+803,1,true,1,Twitter for Android,None,es,2012-05-14
+804,17,true,1,Twitter Web App,None,es,2012-10-01
+806,54,true,1,Twitter for iPhone,None,es,2021-02-02
+807,78,true,1,Twitter Web App,None,es,2011-09-15
+808,0,true,1,Twitter Web App,None,es,2014-09-03
+809,0,true,1,Twitter for Android,None,es,2010-09-23
+810,15,true,1,Twitter for iPhone,None,es,2010-02-20
+811,161,true,1,Twitter for Android,None,ca,2016-11-04
+812,0,true,1,Twitter for Android,None,es,2020-11-24
+813,0,true,1,Twitter for iPhone,None,es,2011-04-13
+814,0,true,1,Twitter for iPhone,None,es,2011-11-09
+815,4,true,1,Twitter for Android,None,es,2018-03-16
+816,7,true,1,Twitter Web App,None,es,2013-02-02
+817,9,true,1,Twitter for iPhone,None,es,2013-07-06
+818,55,true,1,Twitter for Android,None,es,2012-03-07
+819,107,true,1,Twitter for Android,None,es,2013-05-15
+820,1,true,1,Twitter for Android,None,es,2016-05-14
+821,52,true,1,Twitter for iPhone,Ayuso,es,2014-10-07
+822,3,true,1,Twitter for Android,None,es,2011-08-19
+823,5,true,1,Twitter for Android,None,es,2017-10-19
+824,2,true,1,Twitter Web App,None,es,2012-04-11
+825,2,true,1,Twitter for iPad,None,es,2017-10-20
+826,7,true,1,Twitter for Android,None,es,2015-10-21
+827,9,true,1,Twitter Web App,None,es,2011-08-17
+829,0,true,1,Twitter for iPhone,None,es,2020-07-30
+830,8,true,1,Twitter Web App,None,es,2017-11-10
+831,6,true,1,Twitter for Android,None,es,2009-03-23
+832,0,true,1,Twitter for Android,None,es,2017-12-05
+833,97,true,1,Twitter for Android,None,es,2012-01-23
+834,27,true,1,Twitter for iPhone,None,es,2011-02-20
+835,27,true,1,Twitter for Android,None,es,2014-08-24
+836,4,true,1,Twitter for Android,None,es,2013-11-17
+837,543,true,1,Twitter for Android,None,und,2015-01-13
+838,0,true,1,Twitter Web App,None,es,2011-04-02
+839,1,true,1,Twitter for iPhone,None,es,2012-10-07
+840,19,true,1,Twitter for Android,None,es,2021-04-21
+841,30,true,1,Twitter for Android,None,es,2011-09-20
+842,0,true,1,Twitter for iPhone,None,es,2016-02-24
+843,9,true,1,Twitter for Android,None,es,2012-02-28
+844,0,true,1,Twitter Web App,None,es,2014-10-15
+845,7,true,1,Twitter Web App,None,es,2009-11-07
+846,0,true,1,Twitter for Android,None,es,2021-01-03
+848,12,true,1,Twitter Web App,None,es,2011-10-10
+849,1,true,1,Twitter Web App,None,es,2015-11-04
+850,9,true,1,Twitter for iPhone,None,es,2011-01-21
+851,0,true,1,Twitter for iPhone,None,es,2010-11-17
+852,1,true,1,Twitter for Android,None,es,2012-02-05
+853,11,true,1,Twitter for Android,None,es,2015-03-31
+854,18,true,1,Twitter for iPhone,None,es,2014-07-24
+855,3,true,1,Twitter for iPhone,None,es,2016-01-02
+856,86,true,1,TweetDeck,None,es,2015-09-02
+857,30,true,1,Twitter for Android,None,es,2017-07-13
+858,2,true,1,Twitter for Android,None,es,2020-04-08
+859,355,true,1,Twitter for Android,None,es,2015-12-05
+861,0,true,1,Twitter for iPhone,None,es,2011-10-07
+862,5,true,1,Twitter for Android,None,es,2020-04-19
+863,9,true,1,Twitter for Android,None,es,2016-02-26
+864,15,true,1,Twitter for Android,None,es,2015-06-21
+865,27,true,1,Twitter for iPhone,None,es,2011-08-29
+866,21,true,1,Twitter for iPhone,None,es,2009-05-22
+867,1,true,1,Twitter for Android,None,es,2017-03-27
+868,0,true,1,Twitter for iPhone,None,es,2018-06-01
+869,1,true,1,Twitter for Android,None,es,2013-03-16
+870,0,true,1,Twitter for Android,None,es,2012-08-29
+871,25,true,1,Twitter for Android,None,es,2015-04-29
+872,2,true,1,Twitter Web App,None,es,2020-03-27
+873,18,true,1,Twitter for Android,None,es,2016-11-11
+875,4,true,1,Twitter for Android,None,es,2011-07-19
+876,0,true,1,Twitter for Android,None,es,2013-01-05
+877,0,true,1,Twitter for Android,None,es,2015-05-25
+878,0,true,1,Twitter for iPhone,None,es,2019-02-18
+879,268,true,1,Twitter for Android,None,es,2020-03-25
+880,1,true,1,Twitter for iPhone,None,es,2009-12-01
+881,7,true,1,Twitter for Android,None,es,2018-01-20
+883,51,true,1,Twitter for Android,None,es,2021-05-04
+884,5,true,1,Twitter for Android,None,es,2017-09-16
+885,3,true,1,Twitter for Android,None,es,2012-08-28
+886,0,true,1,Twitter for iPhone,None,es,2018-05-25
+887,54,true,1,Twitter for Android,None,es,2013-02-21
+888,13,true,1,Twitter for Android,None,es,2010-07-28
+892,12,true,1,Twitter for Android,None,es,2018-11-19
+893,1,true,1,Twitter Web App,None,es,2021-03-10
+894,33,true,1,Twitter for iPhone,None,es,2010-07-23
+895,8,true,1,Twitter for Android,None,es,2020-09-17
+896,0,true,1,Twitter for iPhone,None,es,2012-04-04
+897,927,true,1,Twitter for iPhone,None,es,2016-07-19
+898,1,true,1,Twitter for Android,None,es,2014-07-19
+899,1,true,1,Twitter for Android,None,es,2016-09-06
+900,3,true,1,Twitter for Android,None,es,2020-05-27
+901,4,true,1,Twitter Web App,None,es,2010-10-26
+902,1,true,1,Twitter for Android,None,es,2015-06-14
+904,1,true,1,Twitter for Android,None,es,2014-05-28
+905,48,true,1,Twitter for Android,None,ca,2009-10-16
+906,91,true,1,Twitter for Android,None,es,2010-03-13
+907,85,true,1,Twitter Web App,None,es,2010-12-24
+908,1,true,1,Twitter for Android,None,es,2010-12-13
+909,1,true,1,Twitter for Android,None,es,2021-06-03
+910,23,true,1,Twitter for Android,None,es,2013-08-23
+911,0,true,1,Twitter for Android,None,es,2019-10-02
+912,6,true,1,Twitter for Android,None,es,2009-06-16
+913,0,true,1,Twitter for Android,None,es,2012-10-04
+914,6,true,1,Twitter for Android,None,es,2020-11-16
+915,0,true,1,Twitter for Android,None,es,2013-05-09
+916,61,true,1,Twitter for Android,None,es,2020-05-06
+917,31,true,1,Twitter for Android,None,es,2011-03-14
+918,1,true,1,Twitter for Android,None,es,2012-02-09
+919,10,true,1,Twitter for Android,None,es,2020-01-19
+920,10,true,1,Twitter for Android,None,es,2011-08-18
+921,53,true,1,Twitter for iPhone,None,es,2020-10-31
+922,12,true,1,Twitter for Android,None,es,2019-08-23
+924,0,true,1,Twitter for Android,None,es,2020-06-06
+925,4,true,1,Twitter for iPhone,None,es,2013-03-18
+926,97,true,1,Twitter for Android,None,es,2015-01-29
+928,4,true,1,Twitter for Android,None,es,2011-11-26
+929,0,true,1,Twitter for iPhone,None,es,2013-11-29
+930,10,true,1,Twitter Web App,None,es,2013-06-23
+931,0,true,1,Twitter for iPhone,None,es,2021-03-01
+932,14,true,1,Twitter for iPhone,None,es,2020-06-16
+933,13,true,1,Twitter for Android,None,es,2015-09-14
+934,4,true,1,Twitter for iPhone,None,es,2010-09-04
+935,10,true,1,Twitter for Android,None,es,2013-11-23
+936,19,true,1,Twitter for Android,None,es,2019-07-07
+937,423,true,1,Twitter for Android,None,es,2012-07-23
+938,7,true,1,Twitter for Android,None,es,2017-09-01
+939,9,true,1,Twitter for Android,None,es,2017-02-27
+940,0,true,1,Twitter for Android,None,es,2009-04-14
+941,1,true,1,Twitter for Android,None,es,2010-06-29
+942,0,true,1,Twitter for Android,None,es,2011-06-04
+943,49,true,1,Twitter for iPhone,None,es,2011-10-21
+944,10,true,1,Twitter for Android,None,es,2011-05-17
+945,0,true,1,Twitter for Android,None,es,2011-02-13
+946,0,true,1,Twitter for iPhone,None,es,2013-07-17
+947,12,true,1,Twitter for Android,None,es,2012-08-07
+949,1,true,1,Twitter Web App,None,es,2012-12-09
+950,16,true,1,Twitter for Android,Lascosasclaras143,es,2014-02-26
+951,36,true,1,Twitter for iPhone,None,es,2013-09-23
+953,35,true,1,Twitter for Android,None,es,2019-11-04
+954,5,true,1,Twitter for iPhone,None,es,2010-11-04
+955,12,true,1,Twitter for Android,None,es,2012-12-27
+956,0,true,1,Twitter for Android,None,es,2017-08-14
+957,3,true,1,Twitter for iPhone,None,es,2013-07-15
+958,86,true,1,Twitter for Android,None,es,2019-06-18
+959,6,true,1,Twitter for Android,None,es,2012-08-20
+960,5,true,1,Twitter for Android,None,es,2013-08-20
+961,6,true,1,Twitter for iPhone,None,es,2010-01-20
+962,2,true,1,Twitter for iPhone,None,es,2015-03-02
+963,62,true,1,Twitter for Android,None,es,2014-09-26
+964,2,true,1,Twitter Web App,None,es,2011-06-03
+966,5,true,1,Twitter for iPhone,None,es,2010-01-09
+967,1,true,1,Twitter for Android,None,es,2015-10-18
+968,1,true,1,Twitter for Android,None,es,2019-09-08
+969,1,true,1,Twitter for Android,None,es,2018-04-20
+971,0,true,1,Twitter for Android,None,es,2011-09-23
+973,13,true,1,Twitter for Android,None,es,2010-11-14
+974,348,true,1,Twitter Web App,None,es,2013-07-07
+975,2,true,1,Twitter Web App,None,es,2020-05-14
+976,3,true,1,Twitter for iPhone,None,es,2014-06-20
+977,62,true,1,Twitter for Android,None,es,2012-12-12
+978,50,true,1,Twitter for Android,None,es,2013-03-03
+979,2,true,1,Twitter Web App,None,es,2007-04-24
+980,27,true,1,Twitter for Android,None,es,2019-05-22
+981,1,true,1,Twitter Web App,None,es,2012-05-26
+982,12,true,1,Twitter for Android,None,es,2013-09-26
+983,6,true,1,Twitter for iPhone,None,es,2020-10-13
+984,8,true,1,Twitter Web App,None,es,2011-02-20
+985,6,true,1,Twitter for Android,None,es,2014-10-09
+986,0,true,1,Twitter for Android,None,es,2019-07-30
+987,210,true,1,Twitter for Android,None,es,2018-03-14
+988,1,true,1,Twitter for Android,None,es,2013-10-04
+989,9,true,1,Twitter for Android,None,es,2012-04-02
+990,19,true,1,Twitter for Android,None,es,2010-12-18
+991,0,true,1,Twitter for iPhone,None,es,2017-06-23
+992,1,true,1,Twitter for Android,None,es,2016-05-21
+993,126,true,1,Twitter for iPhone,None,es,2012-12-06
+994,1,true,1,Twitter for iPhone,None,es,2012-06-02
+995,21,true,1,Twitter for Android,None,es,2013-08-30
+996,35,true,1,Twitter for Android,None,es,2019-10-16
+997,7,true,1,Twitter for Android,None,es,2020-11-04
+998,0,true,1,Twitter for Android,None,es,2018-08-16
+999,16,true,1,Twitter for Android,Lascosasclaras143,es,2014-02-01

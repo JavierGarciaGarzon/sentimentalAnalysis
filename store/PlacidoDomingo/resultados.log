@@ -1,0 +1,7 @@
+====================> file /home/jgg00075/t-hoarder_kit/store/Placido//resultados.txt  remaining at 2021-06-10 12:07:42.872651
+---------------->An exception has occurred!  = ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read)) at 2021-06-10 12:12:44.852077
+====================> file /home/jgg00075/t-hoarder_kit/store/Placido//resultados.txt  remaining at 2021-06-10 12:12:49.857922
+---------------->An exception has occurred!  = ('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read)) at 2021-06-10 12:29:49.107129
+====================> file /home/jgg00075/t-hoarder_kit/store/Placido//resultados.txt  remaining at 2021-06-10 12:29:54.110577
+---------------->An exception has occurred!  = HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out. at 2021-06-10 14:15:21.129213
+====================> file /home/jgg00075/t-hoarder_kit/store/Placido//resultados.txt  remaining at 2021-06-10 14:15:26.131860
